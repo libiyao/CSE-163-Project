@@ -1,12 +1,14 @@
 import pandas as pd
 
+def question1():
 
-def read_files():
-    
+
+def read_files(file):
+    return pd.read_csv(file)
 
 
 def main():
-    read_files()
+    question1()
 
 
 if __name__ == '__main__':
