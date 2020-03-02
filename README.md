@@ -2,7 +2,7 @@
 
 This is for CSE 163 final project contributed by Bill Li and Alyssa Allums.
 
-Core question this project will answer:
+Core questions this project will answer:
 
 1) What relationships exist between each state’s political leanings and their economic growth? Does control of a state government by a certain political party help or hinder economic growth? We are trying to determine if there is a correlation between the economic success of a state and its political leaders and if any political agenda lends itself better to that economic success. These calculations would be critical in our ability to predict future economic success or failure.
 
