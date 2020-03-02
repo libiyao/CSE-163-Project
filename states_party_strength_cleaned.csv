@@ -1,0 +1,2170 @@
+state,year,congress house,congress sen class 1,congress sen class 2,congress sen class 3,electoral,governor,legislature house,legislature sen,congress sen
+alabama,1980,"4D, 3R",,D,D,R,D,"101D, 4R",35D,2D
+alabama,1981,"4D, 3R",,D,R,R,D,"101D, 4R",35D,"1D,1R"
+alabama,1982,"4D, 3R",,D,R,R,D,"101D, 4R",35D,"1D,1R"
+alabama,1983,"5D, 2R",,D,R,R,D,"97D, 8R","32D, 3R","1D,1R"
+alabama,1984,"5D, 2R",,D,R,R,D,"87D, 18R","29D, 3R, 3I","1D,1R"
+alabama,1985,"5D, 2R",,D,R,R,D,"87D, 18R","29D, 3R, 3I","1D,1R"
+alabama,1986,"5D, 2R",,D,R,R,D,"87D, 18R","29D, 3R, 3I","1D,1R"
+alabama,1987,"5D, 2R",,D,D,R,R,"89D, 16R","30D, 5R",2D
+alabama,1988,"5D, 2R",,D,D,R,R,"89D, 16R","30D, 5R",2D
+alabama,1989,"5D, 2R",,D,D,R,R,"82D, 23R","27D, 8R",2D
+alabama,1990,"5D, 2R",,D,D,R,R,"82D, 23R","27D, 8R",2D
+alabama,1991,"5D, 2R",,D,D,R,R,"82D, 23R","28D, 7R",2D
+alabama,1992,"5D, 2R",,D,D,R,R,"82D, 23R","28D, 7R",2D
+alabama,1993,"4D, 3R",,D,D,R,R,"82D, 23R","27D, 8R",2D
+alabama,1993,"4D, 3R",,D,D,R,D,"82D, 23R","27D, 8R",2D
+alabama,1994,"4D, 3R",,D,D,R,D,"82D, 23R","27D, 8R",2D
+alabama,1995,"4D, 3R",,D,R,R,R,"73D, 32R","23D, 12R","1D,1R"
+alabama,1996,"4D, 3R",,D,R,R,R,"73D, 32R","23D, 12R","1D,1R"
+alabama,1997,"5R, 2D",,R,R,R,R,"71D, 34R","23D, 12R",2R
+alabama,1998,"5R, 2D",,R,R,R,R,"68D, 37R","21D, 14R",2R
+alabama,1999,"5R, 2D",,R,R,R,D,"69D, 36R","23D, 12R",2R
+alabama,2000,"5R, 2D",,R,R,R,D,"69D, 36R","24D, 11R",2R
+alabama,2001,"5R, 2D",,R,R,R,D,"68D, 37R","24D, 11R",2R
+alabama,2002,"5R, 2D",,R,R,R,D,"67D, 38R","24D, 11R",2R
+alabama,2003,"5R, 2D",,R,R,R,R,"63D, 42R","25D, 10R",2R
+alabama,2004,"5R, 2D",,R,R,R,R,"63D, 42R","25D, 10R",2R
+alabama,2004,"5R, 2D",,R,R,R,R,"63D, 42R","25D, 10R",2R
+alabama,2005,"5R, 2D",,R,R,R,R,"63D, 42R","25D, 10R",2R
+alabama,2006,"5R, 2D",,R,R,R,R,"62D, 43R","25D, 10R",2R
+alabama,2007,"5R, 2D",,R,R,R,R,"62D, 43R","23D, 12R",2R
+alabama,2008,"5R, 2D",,R,R,R,R,"62D, 43R","22D, 13R",2R
+alabama,2009,"4R, 3D",,R,R,R,R,"62D, 43R","21D, 13R, 1I",2R
+alabama,2010,"5R, 2D",,R,R,R,R,"60D, 45R","20D, 14R, 1I",2R
+alabama,2011,"6R, 1D",,R,R,R,R,"66R, 39D","22R, 12D, 1I",2R
+alabama,2012,"6R, 1D",,R,R,R,R,"66R, 39D","22R, 12D, 1I",2R
+alabama,2013,"6R, 1D",,R,R,R,R,"66R, 38D, 1I","23R, 11D, 1I",2R
+alabama,2013,"6R, 1D",,R,R,R,R,"66R, 38D, 1I","23R, 11D, 1I",2R
+alabama,2014,"6R, 1D",,R,R,R,R,"67R, 37D, 1I","23R, 11D, 1I",2R
+alabama,2015,"6R, 1D",,R,R,R,R,"72R, 33D","26R, 8D, 1I",2R
+alaska,1980,1R,,R,D,R,R,"25D, 14R, 1L","11R, 9D","1D,1R"
+alaska,1981,1R,,R,R,R,R,"22D, 16R, 2L","10D, 10R",2R
+alaska,1981,1R,,R,R,R,R,,"10D, 10R",2R
+alaska,1982,1R,,R,R,R,R,,"10D, 10R",2R
+alaska,1983,1R,,R,R,R,D,"20D, 20R","11R, 9D",2R
+alaska,1984,1R,,R,R,R,D,"20D, 20R","11R, 9D",2R
+alaska,1985,1R,,R,R,R,D,"21D, 18R, 1L","11R, 9D",2R
+alaska,1986,1R,,R,R,R,D,"21D, 18R, 1L","11R, 9D",2R
+alaska,1987,1R,,R,R,R,D,"24D, 16R","12R, 8D",2R
+alaska,1988,1R,,R,R,R,D,"24D, 16R","12R, 8D",2R
+alaska,1989,1R,,R,R,R,D,"24D, 16R","12R, 8D",2R
+alaska,1990,1R,,R,R,R,D,"24D, 16R","12R, 8D",2R
+alaska,1991,1R,,R,R,R,A,"23D, 17R","10D, 10R",2R
+alaska,1992,1R,,R,R,R,A,"23D, 17R","10D, 10R",2R
+alaska,1993,1R,,R,R,R,A,"20D, 18R, 1A, 1I","10R, 9D, 1ID",2R
+alaska,1994,1R,,R,R,R,A,"20D, 18R, 1A, 1I","10R, 9D, 1ID",2R
+alaska,1994,1R,,R,R,R,R,"21D, 18R, 1I","10R, 9D, 1ID",2R
+alaska,1995,1R,,R,R,R,D,"22R, 17D, 1I","12R, 7D, 1ID",2R
+alaska,1996,1R,,R,R,R,D,"22R, 17D, 1I","12R, 7D, 1ID",2R
+alaska,1997,1R,,R,R,R,D,"25R, 15D","14R, 6D",2R
+alaska,1998,1R,,R,R,R,D,"25R, 15D","14R, 6D",2R
+alaska,1999,1R,,R,R,R,D,"26R, 14D","15R, 5D",2R
+alaska,2000,1R,,R,R,R,D,"26R, 14D","15R, 5D",2R
+alaska,2001,1R,,R,R,R,D,"27R, 13D","14R, 6D",2R
+alaska,2002,1R,,R,R,R,D,"27R, 13D","14R, 6D",2R
+alaska,2002,1R,,R,R,R,D,"27R, 13D","14R, 6D",2R
+alaska,2003,1R,,R,R,R,R,"27R, 13D","12R, 8D",2R
+alaska,2004,1R,,R,R,R,R,"27R, 13D","12R, 8D",2R
+alaska,2005,1R,,R,R,R,R,"26R, 14D","12R, 8D",2R
+alaska,2006,1R,,R,R,R,R,"26R, 14D","12R, 8D",2R
+alaska,2007,1R,,R,R,R,R,"23R, 17D","11R, 9D",2R
+alaska,2008,1R,,R,R,R,R,"23R, 17D","11R, 9D",2R
+alaska,2009,1R,,D,R,R,R,"22R, 18D","10R, 10D","1D,1R"
+alaska,2010,1R,,D,R,R,R,"22R, 18D","10R, 10D","1D,1R"
+alaska,2011,1R,,D,R,R,R,"24R, 16D","10R, 10D","1D,1R"
+alaska,2012,1R,,D,R,R,R,"24R, 16D","10R, 10D","1D,1R"
+alaska,2013,1R,,D,R,R,R,"26R, 14D","13R, 7D","1D,1R"
+alaska,2014,1R,,D,R,R,R,"26R, 14D","13R, 7D","1D,1R"
+alaska,2015,1R,,R,R,R,I,"23R, 16D, 1I","14R, 6D",2R
+arizona,1980,"2R, 2D",D,,R,R,D,"42R, 18D","16R, 14D","1D,1R"
+arizona,1981,"2R, 2D",D,,R,R,D,"43R, 17D","16R, 14D","1D,1R"
+arizona,1982,"2R, 2D",D,,R,R,D,"43R, 17D","16R, 14D","1D,1R"
+arizona,1983,"3R, 2D",D,,R,R,D,"39R, 21D","18R, 12D","1D,1R"
+arizona,1984,"3R, 2D",D,,R,R,D,"39R, 21D","18R, 12D","1D,1R"
+arizona,1985,"4R, 1D",D,,R,R,D,"38R, 22D","18R, 12D","1D,1R"
+arizona,1986,"4R, 1D",D,,R,R,D,"38R, 22D","18R, 12D","1D,1R"
+arizona,1987,"4R, 1D",D,,R,R,R,"36R, 24D","19R, 11D","1D,1R"
+arizona,1988,"4R, 1D",D,,R,R,R,"36R, 24D","19R, 11D","1D,1R"
+arizona,1988,"4R, 1D",D,,R,R,D,"36R, 24D","19R, 11D","1D,1R"
+arizona,1989,"4R, 1D",D,,R,R,D,"34R, 26D","17R, 13D","1D,1R"
+arizona,1990,"4R, 1D",D,,R,R,D,"34R, 26D","17R, 13D","1D,1R"
+arizona,1991,"4R, 1D",D,,R,R,R,"33R, 27D","17D, 13R","1D,1R"
+arizona,1992,"4R, 1D",D,,R,R,R,"33R, 27D","17D, 13R","1D,1R"
+arizona,1993,"3R, 3D",D,,R,R,R,"35R, 25D","18R, 12D","1D,1R"
+arizona,1994,"3R, 3D",D,,R,R,R,"35R, 25D","18R, 12D","1D,1R"
+arizona,1995,"5R, 1D",R,,R,R,R,"38R, 22D","19R, 11D",2R
+arizona,1996,"5R, 1D",R,,R,D,R,"38R, 22D","19R, 11D",2R
+arizona,1997,"5R, 1D",R,,R,D,R,"38R, 22D","18R, 12D",2R
+arizona,1997,"5R, 1D",R,,R,D,R,"38R, 22D","18R, 12D",2R
+arizona,1998,"5R, 1D",R,,R,D,R,"38R, 22D","18R, 12D",2R
+arizona,1999,"5R, 1D",R,,R,D,R,"40R, 20D","16R, 14D",2R
+arizona,2000,"5R, 1D",R,,R,R,R,"40R, 20D","16R, 14D",2R
+arizona,2001,"5R, 1D",R,,R,R,R,"36R, 24D","15R, 15D",2R
+arizona,2002,"5R, 1D",R,,R,R,R,"36R, 24D","15R, 15D",2R
+arizona,2003,"6R, 2D",R,,R,R,D,"39R, 21D","17R, 13D",2R
+arizona,2004,"6R, 2D",R,,R,R,D,"39R, 21D","17R, 13D",2R
+arizona,2005,"6R, 2D",R,,R,R,D,"38R, 22D","18R, 12D",2R
+arizona,2006,"6R, 2D",R,,R,R,D,"39R, 21D","18R, 12D",2R
+arizona,2007,"4R, 4D",R,,R,R,D,"33R, 27D","17R, 13D",2R
+arizona,2008,"4R, 4D",R,,R,R,D,"33R, 27D","17R, 13D",2R
+arizona,2009,"5D, 3R",R,,R,R,D,"36R, 24D","18R, 12D",2R
+arizona,2009,"5D, 3R",R,,R,R,R,"36R, 24D","18R, 12D",2R
+arizona,2010,"5D, 3R",R,,R,R,R,"36R, 24D","18R, 12D",2R
+arizona,2011,"5R, 3D",R,,R,R,R,"40R, 20D","21R, 9D",2R
+arizona,2012,"5R, 3D",R,,R,R,R,"40R, 20D","21R, 9D",2R
+arizona,2013,"5D, 4R",R,,R,R,R,"36R, 24D","17R, 13D",2R
+arizona,2014,"5D, 4R",R,,R,R,R,"36R, 24D","17R, 13D",2R
+arizona,2015,"5R, 4D",R,,R,R,R,"36R, 24D","17R, 13D",2R
+arizona,2016,"5R, 4D",R,,R,R,R,"36R, 24D","18R, 12D",2R
+arkansas,1980,"2D, 2R",, , ,R,D,"94D, 6R",35D,
+arkansas,1981,"2D, 2R",, ,D,R,R,"93D, 7R","34D, 1R",1D
+arkansas,1982,"2D, 2R",, ,D,R,R,"93D, 7R","34D, 1R",1D
+arkansas,1983,"2D, 2R",, ,D,R,D,"93D, 7R","32D, 3R",1D
+arkansas,1984,"2D, 2R",, ,D,R,D,"93D, 7R","32D, 3R",1D
+arkansas,1985,"3D, 1R",,D,D,R,D,"91D, 9R","32D, 3R",2D
+arkansas,1986,"3D, 1R",,D,D,R,D,"91D, 9R","32D, 3R",2D
+arkansas,1987,"3D, 1R",,D, ,R,D,"91D, 9R","31D, 4R",1D
+arkansas,1988,"3D, 1R",,D, ,R,D,"91D, 9R","31D, 4R",1D
+arkansas,1989,"3D, 1R",,D, ,R,D,"88D, 12R","31D, 4R",1D
+arkansas,1989,"2D, 2R",,D, ,R,D,"88D, 12R","31D, 4R",1D
+arkansas,1990,"2D, 2R",,D, ,R,D,"88D, 12R","31D, 4R",1D
+arkansas,1990,"2D, 2R",,D, ,R,D,"88D, 12R","31D, 4R",1D
+arkansas,1991,"3D, 1R",, , ,R,D,"91D, 9R","31D, 4R",
+arkansas,1991,"3D, 1R",, , ,,D,"91D, 9R","31D, 4R",
+arkansas,1992,"3D, 1R",, , ,D,D,"91D, 9R","31D, 4R",
+arkansas,1993,"2D, 2R",, , ,D,D,"89D, 11R","31D, 4R",
+arkansas,1994,"2D, 2R",, , ,D,D,"89D, 11R","31D, 4R",
+arkansas,1995,"2D, 2R",, , ,D,D,"88D, 12R","30D, 5R",
+arkansas,1996,"2D, 2R",, , ,D,D,"88D, 12R","30D, 5R",
+arkansas,1996,"2D, 2R",, , ,D,R,"88D, 12R","30D, 5R",
+arkansas,1997,"2D, 2R",,R, ,D,R,"87D, 13R","30D, 5R",1R
+arkansas,1998,"2D, 2R",,R, ,D,R,"87D, 13R","30D, 5R",1R
+arkansas,1999,"2D, 2R",,R,D,D,R,"76D, 24R","30D, 5R","1D,1R"
+arkansas,2000,"2D, 2R",,R,D,R,R,"76D, 24R","30D, 5R","1D,1R"
+arkansas,2001,"3D, 1R",,R,D,R,R,"72D, 28R","27D, 8R","1D,1R"
+arkansas,2002,"3D, 1R",,R,D,R,R,"72D, 28R","27D, 8R","1D,1R"
+arkansas,2003,"3D, 1R",,D,D,R,R,"70D, 30R","27D, 8R",2D
+arkansas,2004,"3D, 1R",,D,D,R,R,"70D, 30R","27D, 8R",2D
+arkansas,2005,"3D, 1R",,D, ,R,R,"72D, 28R","27D, 8R",1D
+arkansas,2006,"3D, 1R",,D, ,R,R,"72D, 28R","27D, 8R",1D
+arkansas,2007,"3D, 1R",,D, ,R,D,"72D, 28R","27D, 8R",1D
+arkansas,2008,"3D, 1R",,D, ,R,D,"72D, 28R","27D, 8R",1D
+arkansas,2009,"3D, 1R",, , ,R,D,"71D, 28R, 1G","27D, 8R",
+arkansas,2010,"3D, 1R",, , ,R,D,"72D, 28R","27D, 8R",
+arkansas,2011,"3R, 1D",, ,R,R,D,"54D, 46R","20D, 15R",1R
+arkansas,2012,"3R, 1D",, ,R,Mitt Romney and Paul Ryan N,D,"54D, 46R","20D, 15R",1R
+arkansas,2013,4R,, ,R,Mitt Romney and Paul Ryan N,D,"51R, 48D, 1G","21R, 14D",1R
+arkansas,2013,4R,, ,R,Mitt Romney and Paul Ryan N,D,"51R, 48D, 1G","21R, 14D",1R
+arkansas,2014,4R,, ,R,Mitt Romney and Paul Ryan N,D,"51R, 48D, 1G","22R, 13D",1R
+arkansas,2015,4R,,R,R,Mitt Romney and Paul Ryan N,R,"64R, 36D","24R, 11D",2R
+arkansas,2015,4R,,R,R,Mitt Romney and Paul Ryan N,R,"63R, 36D, 1I","24R, 11D",2R
+arkansas,2015,4R,,R,R,Mitt Romney and Paul Ryan N,R,"64R, 35D, 1I","24R, 11D",2R
+arkansas,2016,4R,,R,R,R,R,"64R, 35D, 1I","24R, 11D",2R
+california,1980,"25D, 18R",S. I. Hayakawa,,D,R,D,"50D, 30R","26D, 14R","1I,1w,1H,1D,1y,1S,1k,4a"
+california,1981,"22D, 21R",S. I. Hayakawa,,D,,D,"47D, 33R","26D, 14R","1I,1w,1H,1D,1y,1S,1k,4a"
+california,1982,"22D, 21R",S. I. Hayakawa,,D,,D,"47D, 33R","26D, 14R","1I,1w,1H,1D,1y,1S,1k,4a"
+california,1983,"28D, 17R",R,,D,,R,"48D, 32R","25D, 15R","1D,1R"
+california,1984,"28D, 17R",R,,D,R,R,"48D, 32R","25D, 15R","1D,1R"
+california,1985,"28D, 17R",R,,D,,R,"47D, 33R","25D, 15R","1D,1R"
+california,1986,"28D, 17R",R,,D,,R,"47D, 33R","25D, 15R","1D,1R"
+california,1987,"28D, 17R",R,,D,,R,"44D, 36R","24D, 15R, 1I","1D,1R"
+california,1988,"28D, 17R",R,,D,R,R,"44D, 36R","24D, 15R, 1I","1D,1R"
+california,1988,"28D, 17R",R,,D,R,R,"44D, 36R","24D, 15R, 1I","1D,1R"
+california,1989,"28D, 17R",R,,D,,R,"47D, 33R","24D, 15R, 1I","1D,1R"
+california,1990,"28D, 17R",R,,D,,R,"47D, 33R","24D, 15R, 1I","1D,1R"
+california,1991,"26D, 19R",R,,D,,R,"46D, 34R","25D, 14R, 1I","1D,1R"
+california,1992,"26D, 19R",D,,D,D,R,"46D, 34R","25D, 14R, 1I",2D
+california,1992,"26D, 19R",R,,D,D,R,"46D, 34R","25D, 14R, 1I","1D,1R"
+california,1993,"30D, 22R",D,,D,,R,"48D, 32R","23D, 15R, 2I",2D
+california,1994,"30D, 22R",D,,D,,R,"48D, 32R","23D, 15R, 2I",2D
+california,1994,"30D, 22R",D,,D,,R,"48D, 32R","23D, 15R, 2I",2D
+california,1995,"26D, 26R",D,,D,D,R,"41R, 39D","21D, 17R, 2I",2D
+california,1995,"27D, 25R",D,,D,,R,"41R, 39D","21D, 17R, 2I",2D
+california,1996,"26D, 26R",D,,D,D,R,"41R, 39D","21D, 17R, 2I",2D
+california,1997,"29D, 23R",D,,D,,R,"43D, 37R","23D, 16R, 1I",2D
+california,1998,"29D, 23R",D,,D,,R,"43D, 37R","23D, 16R, 1I",2D
+california,1999,"28D, 24R",D,,D,,D,"47D, 32R, 1G","25D, 15R",2D
+california,1999,"28D, 24R",D,,D,,D,"47D, 32R, 1G","25D, 15R",2D
+california,1999,"28D, 24R",D,,D,,D,"47D, 32R, 1G","25D, 15R",2D
+california,2000,"27D, 25R",D,,D,D,D,"47D, 32R, 1G","25D, 15R",2D
+california,2000,"28D, 24R",D,,D,D,D,"47D, 32R, 1G","25D, 15R",2D
+california,2001,"32D, 20R",D,,D,,D,"50D, 30R","26D, 14R",2D
+california,2002,"32D, 20R",D,,D,,D,"50D, 30R","26D, 14R",2D
+california,2003,"33D, 20R",D,,D,,R,"48D, 32R","25D, 15R",2D
+california,2003,"33D, 20R",D,,D,,D,"48D, 32R","25D, 15R",2D
+california,2004,"33D, 20R",D,,D,D,R,"48D, 32R","25D, 15R",2D
+california,2005,"33D, 20R",D,,D,,R,"48D, 32R","25D, 15R",2D
+california,2005,"33D, 20R",D,,D,,R,"48D, 32R","25D, 15R",2D
+california,2005,"33D, 20R",D,,D,,R,"48D, 32R","25D, 15R",2D
+california,2006,"33D, 20R",D,,D,,R,"48D, 32R","25D, 15R",2D
+california,2007,"34D, 19R",D,,D,,R,"48D, 32R","25D, 15R",2D
+california,2008,"34D, 19R",D,,D,D,R,"48D, 32R","25D, 15R",2D
+california,2009,"34D, 19R",D,,D,,R,"50D, 29R, 1I","25D, 15R",2D
+california,2010,"34D, 19R",D,,D,,R,"50D, 29R, 1I","25D, 15R",2D
+california,2011,"34D, 19R",D,,D,,D,"52D, 28R","25D, 15R",2D
+california,2012,"34D, 19R",D,,D,D,D,"52D, 27R, 1I","25D, 15R",2D
+california,2012,"34D, 19R",D,,D,,D,"52D, 28R","25D, 15R",2D
+california,2013,"38D, 15R",D,,D,,D,"55D, 25R","25D, 12R",2D
+california,2013,"38D, 15R",D,,D,,D,"55D, 25R","29D, 11R",2D
+california,2014,"38D, 15R",D,,D,,D,"55D, 25R","25D, 12R",2D
+california,2015,"39D, 14R",D,,D,,D,"52D, 28R","26D, 14R",2D
+california,2016,"39D, 14R",D,,D,D,D,"52D, 28R","26D, 14R",2D
+california,2017,"39D, 14R",D,,D,,D,"55D, 25R","27D, 13R",2D
+colorado,1980,"3D, 2R",,R,D,R,D,"38R, 27D","22R, 13D","1D,1R"
+colorado,1981,"3D, 2R",,R,D,R,D,"39R, 26D","22R, 13D","1D,1R"
+colorado,1982,"3D, 2R",,R,D,R,D,"39R, 26D","22R, 13D","1D,1R"
+colorado,1983,"3D, 3R",,R,D,R,D,"40R, 25D","22R, 13D","1D,1R"
+colorado,1984,"3D, 3R",,R,D,R,D,"40R, 25D","22R, 13D","1D,1R"
+colorado,1985,"4R, 2D",,R,D,R,D,"48R, 17D","24R, 11D","1D,1R"
+colorado,1986,"4R, 2D",,R,D,R,D,"48R, 17D","24R, 11D","1D,1R"
+colorado,1987,"3R, 3D",,R,D,R,D,"41R, 24D","25R, 10D","1D,1R"
+colorado,1988,"3R, 3D",,R,D,R,D,"41R, 24D","25R, 10D","1D,1R"
+colorado,1989,"3R, 3D",,R,D,R,D,"40R, 25D","24R, 11D","1D,1R"
+colorado,1990,"3R, 3D",,R,D,R,D,"40R, 25D","24R, 11D","1D,1R"
+colorado,1991,"3R, 3D",,R,D,R,D,"38R, 27D","23R, 12D","1D,1R"
+colorado,1992,"3R, 3D",,R,D,D,D,"38R, 27D","23R, 12D","1D,1R"
+colorado,1993,"4R, 2D",,R,D,D,D,"34R, 31D","19R, 16D","1D,1R"
+colorado,1994,"4R, 2D",,R,D,D,D,"34R, 31D","19R, 16D","1D,1R"
+colorado,1995,"4R, 2D",,R,R,D,D,"41R, 24D","19R, 16D",2R
+colorado,1996,"4R, 2D",,R,R,R,D,"41R, 24D","19R, 16D",2R
+colorado,1997,"4R, 2D",,R,R,R,D,"41R, 24D","20R, 15D",2R
+colorado,1998,"4R, 2D",,R,R,R,D,"41R, 24D","20R, 15D",2R
+colorado,1999,"4R, 2D",,R,R,R,R,"39R, 26D","21R, 14D",2R
+colorado,1999,"4R, 2D",,R,R,R,R,"39R, 26D","21R, 14D",2R
+colorado,2000,"4R, 2D",,R,R,R,R,"39R, 26D","21R, 14D",2R
+colorado,2001,"4R, 2D",,R,R,R,R,"38R, 27D","18D, 17R",2R
+colorado,2002,"4R, 2D",,R,R,R,R,"38R, 27D","18D, 17R",2R
+colorado,2003,"5R, 2D",,R,R,R,R,"37R, 28D","18R, 17D",2R
+colorado,2004,"5R, 2D",,R,R,R,R,"37R, 28D","18R, 17D",2R
+colorado,2005,"4R, 3D",,R,D,R,R,"33D, 32R","18D, 17R","1D,1R"
+colorado,2005,"4R, 3D",,R,D,R,R,"33D, 32R","18D, 17R","1D,1R"
+colorado,2006,"4R, 3D",,R,D,R,R,"33D, 32R","18D, 17R","1D,1R"
+colorado,2006,"4R, 3D",,R,D,R,R,"33D, 32R","18D, 17R","1D,1R"
+colorado,2007,"4D, 3R",,R,D,R,D,"39D, 26R","20D, 15R","1D,1R"
+colorado,2008,"4D, 3R",,R,D,D,D,"39D, 26R","20D, 15R","1D,1R"
+colorado,2009,"5D, 2R",,D,D,D,D,"38D, 27R","21D, 14R",2D
+colorado,2009,"5D, 2R",,D,D,D,D,"38D, 27R","21D, 14R",2D
+colorado,2010,"5D, 2R",,D,D,D,D,"38D, 27R","21D, 14R",2D
+colorado,2011,"4R, 3D",,D,D,D,D,"33R, 32D","20D, 15R",2D
+colorado,2012,"4R, 3D",,D,D,D,D,"33R, 32D","20D, 15R",2D
+colorado,2013,"4R, 3D",,D,D,D,D,"37D, 28R","20D, 15R",2D
+colorado,2014,"4R, 3D",,D,D,D,D,"37D, 28R","18D, 17R",2D
+colorado,2015,"4R, 3D",,R,D,D,D,"34D, 31R","18R, 17D","1D,1R"
+colorado,2016,"4R, 3D",,R,D,D,D,"34D, 31R","18R, 17D","1D,1R"
+connecticut,1980,"5D, 1R",R,,D,R,D,"103D, 48R","26D, 10R","1D,1R"
+connecticut,1980,"5D, 1R",R,,D,R,D,"103D, 48R","26D, 10R","1D,1R"
+connecticut,1981,"4D, 2R",R,,D,R,D,"83D, 68R","23D, 13R","1D,1R"
+connecticut,1982,"4D, 2R",R,,D,R,D,"83D, 68R","23D, 13R","1D,1R"
+connecticut,1982,"4D, 2R",R,,D,R,D,"83D, 68R","23D, 13R","1D,1R"
+connecticut,1983,"4D, 2R",R,,D,R,D,"87D, 64R","23D, 13R","1D,1R"
+connecticut,1984,"4D, 2R",R,,D,R,D,"87D, 64R","23D, 13R","1D,1R"
+connecticut,1985,"3D, 3R",R,,D,R,D,"85R, 66D","24R, 12D","1D,1R"
+connecticut,1986,"3D, 3R",R,,D,R,D,"85R, 66D","24R, 12D","1D,1R"
+connecticut,1987,"3D, 3R",R,,D,R,D,"92D, 59R","25D, 11R","1D,1R"
+connecticut,1988,"3D, 3R",R,,D,R,D,"92D, 59R","25D, 11R","1D,1R"
+connecticut,1989,"3D, 3R",D,,D,R,D,"88D, 63R","23D, 13R",2D
+connecticut,1990,"3D, 3R",D,,D,R,D,"88D, 63R","23D, 13R",2D
+connecticut,1991,"3D, 3R",D,,D,R,C,"88D, 63R","20D, 16R",2D
+connecticut,1992,"3D, 3R",D,,D,D,C,"88D, 63R","20D, 16R",2D
+connecticut,1993,"3D, 3R",D,,D,D,C,"87D, 64R","19D, 17R",2D
+connecticut,1994,"3D, 3R",D,,D,D,C,"87D, 64R","19D, 17R",2D
+connecticut,1995,"3D, 3R",D,,D,D,R,"91D, 60R","19R, 17D",2D
+connecticut,1996,"3D, 3R",D,,D,D,R,"91D, 60R","19R, 17D",2D
+connecticut,1997,"4D, 2R",D,,D,D,R,"96D, 55R","19D, 17R",2D
+connecticut,1997,"4D, 2R",D,,D,D,R,"96D, 55R","19D, 17R",2D
+connecticut,1998,"4D, 2R",D,,D,D,R,"96D, 55R","19D, 17R",2D
+connecticut,1999,"4D, 2R",D,,D,D,R,"96D, 55R","19D, 17R",2D
+connecticut,2000,"4D, 2R",D,,D,D,R,"96D, 55R","19D, 17R",2D
+connecticut,2001,"3D, 3R",D,,D,D,R,"100D, 51R","21D, 15R",2D
+connecticut,2002,"3D, 3R",D,,D,D,R,"100D, 51R","21D, 15R",2D
+connecticut,2003,"3R, 2D",D,,D,D,R,"94D, 57R","21D, 15R",2D
+connecticut,2004,"3R, 2D",D,,D,D,R,"94D, 57R","21D, 15R",2D
+connecticut,2004,"3R, 2D",D,,D,D,R,"94D, 57R","21D, 15R",2D
+connecticut,2005,"3R, 2D",D,,D,D,R,"99D, 52R","24D, 12R",2D
+connecticut,2006,"3R, 2D",D,,D,D,R,"99D, 52R","24D, 12R",2D
+connecticut,2007,"4D, 1R",Joe Lieberman (ID),,D,D,R,"107D, 44R","24D, 12R","1I,1i,1J,1a,3e,1L,1n,1m,1b,2D,1o,1r"
+connecticut,2008,"4D, 1R",Joe Lieberman (ID),,D,D,R,"107D, 44R","23D, 13R","1I,1i,1J,1a,3e,1L,1n,1m,1b,2D,1o,1r"
+connecticut,2009,5D,Joe Lieberman (ID),,D,D,R,"114D, 37R","24D, 12R","1I,1i,1J,1a,3e,1L,1n,1m,1b,2D,1o,1r"
+connecticut,2010,5D,Joe Lieberman (ID),,D,D,R,"114D, 37R","24D, 12R","1I,1i,1J,1a,3e,1L,1n,1m,1b,2D,1o,1r"
+connecticut,2011,5D,Joe Lieberman (ID),,D,D,D,"99D, 52R","22D, 14R","1I,1i,1J,1a,3e,1L,1n,1m,1b,2D,1o,1r"
+connecticut,2012,5D,Joe Lieberman (ID),,D,D,D,"99D, 52R","22D, 14R","1I,1i,1J,1a,3e,1L,1n,1m,1b,2D,1o,1r"
+connecticut,2013,5D,D,,D,D,D,"98D, 53R","22D, 14R",2D
+connecticut,2014,5D,D,,D,D,D,"97D, 54R","22D, 14R",2D
+connecticut,2015,5D,D,,D,D,D,"87D, 64R","21D, 15R",2D
+connecticut,2016,5D,D,,D,D,D,"87D, 64R","21D, 15R",2D
+delaware,1980,1R,R,D,,R,R,"21D, 20R","13D, 8R","1D,1R"
+delaware,1981,1R,R,D,,R,R,"25R, 16D","12D, 9R","1D,1R"
+delaware,1982,1R,R,D,,R,R,"25R, 16D","12D, 9R","1D,1R"
+delaware,1983,1D,R,D,,R,R,"25D, 16R","13D, 8R","1D,1R"
+delaware,1984,1D,R,D,,R,R,"25D, 16R","13D, 8R","1D,1R"
+delaware,1985,1D,R,D,,R,Michael N. Castle,"22R, 19D","13D, 8R","1D,1R"
+delaware,1986,1D,R,D,,R,Michael N. Castle,"22R, 19D","13D, 8R","1D,1R"
+delaware,1987,1D,R,D,,R,Michael N. Castle,"22R, 19D","13D, 8R","1D,1R"
+delaware,1988,1D,R,D,,R,Michael N. Castle,"22R, 19D","13D, 8R","1D,1R"
+delaware,1989,1D,R,D,,R,Michael N. Castle,"22R, 19D","13D, 8R","1D,1R"
+delaware,1989,1D,R,D,,R,Michael N. Castle,"22R, 19D","13D, 8R","1D,1R"
+delaware,1990,1D,R,D,,R,Michael N. Castle,"22R, 19D","13D, 8R","1D,1R"
+delaware,1991,1D,R,D,,R,Michael N. Castle,"24R, 17D","15D, 6R","1D,1R"
+delaware,1992,1D,R,D,,R,Michael N. Castle,"24R, 17D","15D, 6R","1D,1R"
+delaware,1992,1D,R,D,,D,R,"24R, 17D","15D, 6R","1D,1R"
+delaware,1993,1R,R,D,,D,D,"22R, 19D","15D, 6R","1D,1R"
+delaware,1994,1R,R,D,,D,D,"22R, 19D","15D, 6R","1D,1R"
+delaware,1995,1R,R,D,,D,D,"27R, 14D","12D, 9R","1D,1R"
+delaware,1996,1R,R,D,,D,D,"27R, 14D","12D, 9R","1D,1R"
+delaware,1997,1R,R,D,,D,D,"23R, 18D","12D, 9R","1D,1R"
+delaware,1998,1R,R,D,,D,D,"23R, 18D","12D, 9R","1D,1R"
+delaware,1999,1R,R,D,,D,D,"26R, 15D","13D, 8R","1D,1R"
+delaware,2000,1R,R,D,,D,D,"26R, 15D","13D, 8R","1D,1R"
+delaware,2001,1R,D,D,,D,D,"26R, 15D","13D, 8R",2D
+delaware,2002,1R,D,D,,D,D,"26R, 15D","13D, 8R",2D
+delaware,2003,1R,D,D,,D,D,"29R, 12D","13D, 8R",2D
+delaware,2004,1R,D,D,,D,D,"29R, 12D","13D, 8R",2D
+delaware,2005,1R,D,D,,D,D,"26R, 15D","13D, 8R",2D
+delaware,2006,1R,D,D,,D,D,"26R, 15D","13D, 8R",2D
+delaware,2007,1R,D,D,,D,D,"23R, 18D","13D, 8R",2D
+delaware,2008,1R,D,D,,D,D,"23R, 18D","13D, 8R",2D
+delaware,2009,1R,D,D,,D,D,"24D, 17R","16D, 5R",2D
+delaware,2010,1R,D,D,,D,D,"24D, 17R","15D, 6R",2D
+delaware,2011,1D,D,D,,D,D,"26D, 15R","14D, 7R",2D
+delaware,2012,1D,D,D,,D,D,"26D, 15R","14D, 7R",2D
+delaware,2013,1D,D,D,,D,D,"27D, 14R","13D, 8R",2D
+delaware,2014,1D,D,D,,D,D,"27D, 14R","13D, 8R",2D
+delaware,2015,1D,D,D,,D,D,"25D, 16R","12D, 9R",2D
+delaware,2016,1D,D,D,,D,D,"25D, 16R","12D, 9R",2D
+florida,1980,"12D, 3R",D,,D,R,D,"89D, 31R","29D, 11R",2D
+florida,1981,"11D, 4R",D,,R,R,D,"81D, 39R","27D, 13R","1D,1R"
+florida,1982,"11D, 4R",D,,R,R,D,"81D, 39R","27D, 13R","1D,1R"
+florida,1983,"13D, 6R",D,,R,R,D,"84D, 36R","32D, 8R","1D,1R"
+florida,1984,"13D, 6R",D,,R,R,D,"84D, 36R","32D, 8R","1D,1R"
+florida,1985,"12D, 7R",D,,R,R,D,"77D, 43R","31D, 9R","1D,1R"
+florida,1986,"12D, 7R",D,,R,R,D,"77D, 43R","30D, 10R","1D,1R"
+florida,1987,"12D, 7R",D,,D,R,D,"73D, 47R","25D, 15R",2D
+florida,1987,"12D, 7R",D,,D,R,R,"73D, 47R","25D, 15R",2D
+florida,1988,"12D, 7R",D,,D,R,R,"73D, 47R","25D, 15R",2D
+florida,1989,"11R, 8D",R,,D,R,R,"70D, 50R","23D, 17R","1D,1R"
+florida,1990,"11R, 8D",R,,D,R,R,"70D, 50R","23D, 17R","1D,1R"
+florida,1991,"10R, 9D",R,,D,R,D,"74D, 46R","23D, 17R","1D,1R"
+florida,1992,"10R, 9D",R,,D,R,D,"74D, 46R","22D, 18R","1D,1R"
+florida,1993,"13R, 10D",R,,D,R,D,"71D, 49R","20D, 20R","1D,1R"
+florida,1994,"13R, 10D",R,,D,R,D,"71D, 49R","20D, 20R","1D,1R"
+florida,1995,"15R, 8D",R,,D,R,D,"63D, 57R","22R, 18D","1D,1R"
+florida,1996,"15R, 8D",R,,D,D,D,"63D, 57R","22R, 18D","1D,1R"
+florida,1997,"15R, 8D",R,,D,D,D,"61R, 59D","22R, 18D","1D,1R"
+florida,1998,"15R, 8D",R,,D,D,D,"66R, 54D","22R, 18D","1D,1R"
+florida,1999,"15R, 8D",R,,D,D,D,"73R, 47D","23R, 17D","1D,1R"
+florida,1999,"15R, 8D",R,,D,D,R,"73R, 47D","23R, 17D","1D,1R"
+florida,2000,"15R, 8D",R,,D,R,R,"73R, 47D","23R, 17D","1D,1R"
+florida,2001,"15R, 8D",D,,D,R,R,"77R, 43D","25R, 15D",2D
+florida,2002,"15R, 8D",D,,D,R,R,"77R, 43D","25R, 15D",2D
+florida,2003,"18R, 7D",D,,D,R,R,"81R, 39D","26R, 14D",2D
+florida,2004,"18R, 7D",D,,D,R,R,"81R, 39D","26R, 14D",2D
+florida,2005,"18R, 7D",D,,R,R,R,"84R, 36D","26R, 14D","1D,1R"
+florida,2006,"18R, 7D",D,,R,R,R,"84R, 36D","26R, 14D","1D,1R"
+florida,2007,"16R, 9D",D,,R,R,R,"78R, 42D","26R, 14D","1D,1R"
+florida,2008,"16R, 9D",D,,R,D,R,"78R, 42D","26R, 14D","1D,1R"
+florida,2009,"15R, 10D",D,,R,D,R,"76R, 44D","26R, 14D","1D,1R"
+florida,2010,"15R, 10D",D,,R,D,I,"76R, 44D","26R, 14D","1D,1R"
+florida,2011,"19R, 6D",D,,R,D,R,"81R, 39D","28R, 12D","1D,1R"
+florida,2012,"19R, 6D",D,,R,D,R,"81R, 39D","28R, 12D","1D,1R"
+florida,2013,"17R, 10D",D,,R,D,R,"76R, 44D","26R, 14D","1D,1R"
+florida,2013,"17R, 10D",D,,R,D,R,"75R, 45D","26R, 14D","1D,1R"
+florida,2014,"17R, 10D",D,,R,D,R,"75R, 45D","26R, 14D","1D,1R"
+florida,2015,"17R, 10D",D,,R,D,R,"81R, 39D","26R, 14D","1D,1R"
+florida,2016,"17R, 10D",D,,R,R,R,"81R, 39D","26R, 14D","1D,1R"
+florida,2017,"16R, 11D",D,,R,R,R,"79R, 41D","25R, 15D","1D,1R"
+georgia,1980,"9D, 1R",,D,D,D,D,"160D, 20R","51D, 5R",2D
+georgia,1981,"9D, 1R",,D,R,D,D,"157D, 23R","51D, 5R","1D,1R"
+georgia,1982,"9D, 1R",,D,R,D,D,"157D, 23R","51D, 5R","1D,1R"
+georgia,1983,"9D, 1R",,D,R,D,D,"156D, 24R","49D, 7R","1D,1R"
+georgia,1984,"9D, 1R",,D,R,R,D,"156D, 24R","49D, 7R","1D,1R"
+georgia,1985,"8D, 2R",,D,R,R,D,"154D, 26R","47D, 9R","1D,1R"
+georgia,1986,"8D, 2R",,D,R,R,D,"154D, 26R","47D, 9R","1D,1R"
+georgia,1987,"8D, 2R",,D,D,R,D,"153D, 27R","46D, 10R",2D
+georgia,1988,"8D, 2R",,D,D,R,D,"153D, 27R","46D, 10R",2D
+georgia,1989,"9D, 1R",,D,D,R,D,"145D, 35R","45D, 11R",2D
+georgia,1990,"9D, 1R",,D,D,R,D,"145D, 35R","45D, 11R",2D
+georgia,1991,"9D, 1R",,D,D,R,D,"144D, 36R","45D, 11R",2D
+georgia,1992,"9D, 1R",,D,D,D,D,"144D, 36R","45D, 11R",2D
+georgia,1993,"7D, 4R",,D,R,D,D,"128D, 52R","39D, 17R","1D,1R"
+georgia,1994,"7D, 4R",,D,R,D,D,"128D, 52R","39D, 17R","1D,1R"
+georgia,1995,"7R, 4D",,D,R,D,D,"114D, 66R","36D, 20R","1D,1R"
+georgia,1995,"8R, 3D",,D,R,D,D,"114D, 66R","36D, 20R","1D,1R"
+georgia,1996,"8R, 3D",,D,R,R,D,"114D, 66R","36D, 20R","1D,1R"
+georgia,1997,"8R, 3D",,D,R,R,D,"102D, 78R","34D, 22R","1D,1R"
+georgia,1997,"8R, 3D",,D,R,R,D,"102D, 78R","34D, 22R","1D,1R"
+georgia,1998,"8R, 3D",,D,R,R,D,"102D, 78R","34D, 22R","1D,1R"
+georgia,1998,"8R, 3D",,D,R,R,D,"102D, 78R","34D, 22R","1D,1R"
+georgia,1999,"8R, 3D",,D,R,R,D,"102D, 78R","34D, 22R","1D,1R"
+georgia,2000,"8R, 3D",,D,R,R,D,"102D, 78R","34D, 22R","1D,1R"
+georgia,2000,"8R, 3D",,D,D,R,D,"102D, 78R","34D, 22R",2D
+georgia,2001,"8R, 3D",,D,D,R,D,"105D, 74R, 1I","32D, 24R",2D
+georgia,2002,"8R, 3D",,D,D,R,D,"105D, 74R, 1I","32D, 24R",2D
+georgia,2003,"8R, 5D",,R,D,R,R,"107D, 72R, 1I","30R, 26D","1D,1R"
+georgia,2004,"8R, 5D",,R,D,R,R,"107D, 72R, 1I","30R, 26D","1D,1R"
+georgia,2005,"7R, 6D",,R,R,R,R,"99R, 80D, 1I","34R, 22D",2R
+georgia,2006,"7R, 6D",,R,R,R,R,"99R, 80D, 1I","34R, 22D",2R
+georgia,2007,"7R, 6D",,R,R,R,R,"106R, 74D","34R, 22D",2R
+georgia,2008,"7R, 6D",,R,R,R,R,"106R, 74D","34R, 22D",2R
+georgia,2009,"7R, 6D",,R,R,R,R,"105R, 74D, 1I","34R, 22D",2R
+georgia,2010,"7R, 6D",,R,R,R,R,"105R, 74D, 1I","34R, 22D",2R
+georgia,2011,"8R, 5D",,R,R,R,R,"116R, 63D, 1I","35R, 21D",2R
+georgia,2012,"8R, 5D",,R,R,R,R,"116R, 63D, 1I","35R, 21D",2R
+georgia,2013,"9R, 5D",,R,R,R,R,"119R, 60D, 1I","38R, 18D",2R
+georgia,2014,"9R, 5D",,R,R,R,R,"119R, 60D, 1I","38R, 18D",2R
+georgia,2015,"10R, 4D",,R,R,R,R,"119R, 60D, 1I","38R, 18D",2R
+georgia,2016,"10R, 4D",,R,R,R,R,"119R, 60D, 1I","39R, 17D",2R
+hawaii,1980,2D, ,, ,D,D,"42D, 9R","18D, 7R",
+hawaii,1981,2D, ,,D,D,D,"39D, 12R","17D, 8R",1D
+hawaii,1982,2D, ,,D,D,D,"39D, 12R","17D, 8R",1D
+hawaii,1983,2D,D,,D,D,D,"43D, 8R","17D, 8R",2D
+hawaii,1984,2D,D,,D,R,D,"43D, 8R","17D, 8R",2D
+hawaii,1985,2D,D,,D,R,D,"40D, 11R","22D, 3R",2D
+hawaii,1986,2D,D,,D,R,D,"40D, 11R","22D, 3R",2D
+hawaii,1986,1D,D,,D,R,D,"40D, 11R","22D, 3R",2D
+hawaii,1986,2D,D,,D,R,D,"40D, 11R","22D, 3R",2D
+hawaii,1987,"1D,1R",D,, ,R,D,"40D, 11R","20D, 5R",1D
+hawaii,1988,"1D,1R",D,, ,D,D,"40D, 11R","20D, 5R",1D
+hawaii,1989,"1D,1R", ,, ,D,D,"45D, 6R","22D, 3R",
+hawaii,1990,"1D,1R", ,, ,D,D,"45D, 6R","22D, 3R",
+hawaii,1990,1R, ,, ,D,D,"45D, 6R","22D, 3R",
+hawaii,1991,2D, ,, ,D,D,"45D, 6R","22D, 3R",
+hawaii,1992,2D, ,, ,D,D,"45D, 6R","22D, 3R",
+hawaii,1993,2D, ,, ,D,D,"47D, 4R","22D, 3R",
+hawaii,1994,2D, ,, ,D,D,"47D, 4R","22D, 3R",
+hawaii,1995,2D, ,, ,D,D,"44D, 7R","23D, 2R",
+hawaii,1996,2D, ,, ,D,D,"44D, 7R","23D, 2R",
+hawaii,1997,2D, ,, ,D,D,"39D, 12R","23D, 2R",
+hawaii,1998,2D, ,, ,D,D,"39D, 12R","23D, 2R",
+hawaii,1999,2D, ,, ,D,D,"39D, 12R","23D, 2R",
+hawaii,2000,2D, ,, ,D,D,"39D, 12R","23D, 2R",
+hawaii,2001,2D,D,, ,D,D,"32D, 19R","22D, 3R",1D
+hawaii,2002,2D,D,, ,D,D,"32D, 19R","22D, 3R",1D
+hawaii,2002,1D,D,, ,D,D,"32D, 19R","22D, 3R",1D
+hawaii,2003,2D,D,, ,D,R,"36D, 15R","20D, 5R",1D
+hawaii,2004,2D,D,, ,D,R,"36D, 15R","20D, 5R",1D
+hawaii,2005,2D,D,, ,D,R,"41D, 10R","20D, 5R",1D
+hawaii,2006,2D,D,, ,D,R,"41D, 10R","20D, 5R",1D
+hawaii,2007,2D, ,, ,D,R,"43D, 8R","20D, 5R",
+hawaii,2008,2D, ,, ,D,R,"43D, 8R","20D, 5R",
+hawaii,2009,2D, ,, ,D,R,"45D, 6R","23D, 2R",
+hawaii,2010,"1D,1R", ,, ,D,R,"45D, 6R","23D, 2R",
+hawaii,2011,2D, ,, ,D,D,"43D, 8R","24D, 1R",
+hawaii,2012,2D, ,, ,D,D,"43D, 8R","24D, 1R",
+hawaii,2013,2D,D,,D,D,D,"44D, 7R","24D, 1R",2D
+hawaii,2014,2D,D,,D,D,D,"44D, 7R","24D, 1R",2D
+hawaii,2015,2D,D,,D,D,D,"44D, 7R","24D, 1R",2D
+hawaii,2016,2D,D,,D,D,D,"44D, 7R","24D, 1R",2D
+idaho,1980,2R,,R,D,R,D,"50R, 20D","19R, 16D","1D,1R"
+idaho,1981,2R,,R,R,R,D,"56R, 14D","23R, 12D",2R
+idaho,1982,2R,,R,R,R,D,"56R, 14D","23R, 12D",2R
+idaho,1983,2R,,R,R,R,D,"51R, 19D","21R, 14D",2R
+idaho,1984,2R,,R,R,R,D,"51R, 19D","21R, 14D",2R
+idaho,1985,"1D,1R",,R,R,R,D,"67R, 17D","28R, 14D",2R
+idaho,1986,"1D,1R",,R,R,R,D,"67R, 17D","28R, 14D",2R
+idaho,1987,"1D,1R",,R,R,R,D,"64R, 20D","26R, 16D",2R
+idaho,1988,"1D,1R",,R,R,R,D,"64R, 20D","26R, 16D",2R
+idaho,1989,"1D,1R",,R,R,R,D,"64R, 20D","23R, 19D",2R
+idaho,1989,"1D,1R",,R,R,R,D,"64R, 20D","23R, 19D",2R
+idaho,1990,"1D,1R",,R,R,R,D,"64R, 20D","23R, 19D",2R
+idaho,1991,2D,,R,R,R,D,"56R, 28D","21R, 21D",2R
+idaho,1992,2D,,R,R,R,D,"56R, 28D","21R, 21D",2R
+idaho,1993,"1D,1R",,R,R,R,D,"50R, 20D","23R, 12D",2R
+idaho,1994,"1D,1R",,R,R,R,D,"50R, 20D","23R, 12D",2R
+idaho,1995,2R,,R,R,R,R,"57R, 13D","27R, 8D",2R
+idaho,1996,2R,,R,R,R,R,"57R, 13D","27R, 8D",2R
+idaho,1997,2R,,R,R,R,R,"59R, 11D","30R, 5D",2R
+idaho,1998,2R,,R,R,R,R,"59R, 11D","30R, 5D",2R
+idaho,1999,2R,,R,R,R,R,"58R, 12D","31R, 4D",2R
+idaho,2000,2R,,R,R,R,R,"58R, 12D","31R, 4D",2R
+idaho,2001,2R,,R,R,R,R,"61R, 9D","32R, 3D",2R
+idaho,2002,2R,,R,R,R,R,"61R, 9D","32R, 3D",2R
+idaho,2002,2R,,R,R,R,R,"61R, 9D","32R, 3D",2R
+idaho,2003,2R,,R,R,R,R,"54R, 16D","28R, 7D",2R
+idaho,2004,2R,,R,R,R,R,"54R, 16D","28R, 7D",2R
+idaho,2005,2R,,R,R,R,R,"57R, 13D","28R, 7D",2R
+idaho,2006,2R,,R,R,R,R,"57R, 13D","28R, 7D",2R
+idaho,2006,2R,,R,R,R,R,"57R, 13D","28R, 7D",2R
+idaho,2007,2R,,R,R,R,R,"51R, 19D","28R, 7D",2R
+idaho,2008,2R,,R,R,R,R,"51R, 19D","28R, 7D",2R
+idaho,2009,"1D,1R",,R,R,R,R,"52R, 18D","28R, 7D",2R
+idaho,2010,"1D,1R",,R,R,R,R,"52R, 18D","28R, 7D",2R
+idaho,2011,2R,,R,R,R,R,"57R, 13D","28R, 7D",2R
+idaho,2012,2R,,R,R,R,R,"57R, 13D","28R, 7D",2R
+idaho,2013,2R,,R,R,R,R,"57R, 13D","28R, 7D",2R
+idaho,2014,2R,,R,R,R,R,"57R, 13D","28R, 7D",2R
+idaho,2015,2R,,R,R,R,R,"56R, 14D","28R, 7D",2R
+idaho,2016,2R,,R,R,R,R,"56R, 14D","28R, 7D",2R
+illinois,1980,"14R, 10D",,R,D,R,R,"88D, 88R, 1I","32D, 27R","1D,1R"
+illinois,1981,"14R, 10D",,R,D,R,R,"91R, 85D, 1I","30D, 29R","1D,1R"
+illinois,1981,"14R, 10D",,R,D,R,R,"91R, 85D, 1I","30D, 29R","1D,1R"
+illinois,1982,"14R, 10D",,R,D,R,R,"91R, 85D, 1I","30D, 29R","1D,1R"
+illinois,1983,"12D, 10R",,R,D,R,R,"70D, 48R","33D, 26R","1D,1R"
+illinois,1984,"12D, 10R",,R,D,R,R,"70D, 48R","33D, 26R","1D,1R"
+illinois,1985,"13D, 9R",,D,D,R,R,"67D, 51R","31D, 28R",2D
+illinois,1986,"13D, 9R",,D,D,R,R,"67D, 51R","31D, 28R",2D
+illinois,1987,"13D, 9R",,D,D,R,R,"67D, 51R","31D, 28R",2D
+illinois,1988,"13D, 9R",,D,D,R,R,"67D, 51R","31D, 28R",2D
+illinois,1989,"14D, 8R",,D,D,R,R,"68D, 50R","31D, 28R",2D
+illinois,1990,"14D, 8R",,D,D,R,R,"68D, 50R","31D, 28R",2D
+illinois,1991,"15D, 7R",,D,D,R,R,"72D, 46R","31D, 28R",2D
+illinois,1992,"15D, 7R",,D,D,D,R,"72D, 46R","31D, 28R",2D
+illinois,1993,"12D, 8R",,D,D,D,R,"67D, 51R","32R, 27D",2D
+illinois,1994,"12D, 8R",,D,D,D,R,"67D, 51R","32R, 27D",2D
+illinois,1995,"10D, 10R",,D,D,D,R,"64R, 54D","33R, 26D",2D
+illinois,1996,"10D, 10R",,D,D,D,R,"64R, 54D","33R, 26D",2D
+illinois,1997,"10D, 10R",,D,D,D,R,"60D, 58R","31R, 28D",2D
+illinois,1998,"10D, 10R",,D,D,D,R,"60D, 58R","31R, 28D",2D
+illinois,1998,"10D, 10R",,D,D,D,R,"60D, 58R","31R, 28D",2D
+illinois,1999,"10D, 10R",,D,R,D,R,"62D, 56R","32R, 27D","1D,1R"
+illinois,2000,"10D, 10R",,D,R,D,R,"62D, 56R","32R, 27D","1D,1R"
+illinois,2001,"10D, 10R",,D,R,D,R,"62D, 56R","32R, 27D","1D,1R"
+illinois,2002,"10D, 10R",,D,R,D,R,"62D, 56R","32R, 27D","1D,1R"
+illinois,2003,"10R, 9D",,D,R,D,D,"66D, 52R","32D, 26R, 1I","1D,1R"
+illinois,2004,"10R, 9D",,D,R,D,D,"66D, 52R","32D, 26R, 1I","1D,1R"
+illinois,2005,"10D, 9R",,D,D,D,D,"65D, 53R","31D, 27R, 1I",2D
+illinois,2006,"10D, 9R",,D,D,D,D,"65D, 53R","31D, 27R, 1I",2D
+illinois,2007,"10D, 9R",,D,D,D,D,"66D, 52R","37D, 22R",2D
+illinois,2007,"10D, 8R",,D,D,D,D,"66D, 52R","37D, 22R",2D
+illinois,2008,"10D, 8R",,D,D,D,D,"67D, 51R","37D, 22R",2D
+illinois,2008,"11D, 8R",,D,D,D,D,"67D, 51R","37D, 22R",2D
+illinois,2009,"12D, 7R",,D,D,D,D,"70D, 48R","37D, 22R",2D
+illinois,2010,"12D, 7R",,D,D,D,D,"70D, 48R","37D, 22R",2D
+illinois,2011,"11R, 8D",,D,R,D,D,"64D, 54R","35D, 24R","1D,1R"
+illinois,2012,"11R, 8D",,D,R,D,D,"64D, 54R","35D, 24R","1D,1R"
+illinois,2013,"12D, 6R",,D,R,D,D,"71D, 47R","40D, 19R","1D,1R"
+illinois,2014,"12D, 6R",,D,R,D,D,"71D, 47R","40D, 19R","1D,1R"
+illinois,2015,"10D, 8R",,D,R,D,R,"71D, 47R","39D, 20R","1D,1R"
+illinois,2015,"10D, 8R",,D,R,D,R,"71D, 47R","39D, 20R","1D,1R"
+illinois,2016,"10D, 8R",,D,R,D,R,"71D, 47R","39D, 20R","1D,1R"
+indiana,1980,"7D, 4R",R,,D,R,R,"54R, 46D","29R, 21D","1D,1R"
+indiana,1981,"6D, 5R",R,,R,R,R,"63R, 37D","35R, 15D",2R
+indiana,1982,"6D, 5R",R,,R,R,R,"63R, 37D","35R, 15D",2R
+indiana,1983,"5D, 5R",R,,R,R,R,"57R, 43D","32R, 18D",2R
+indiana,1984,"5D, 5R",R,,R,R,R,"57R, 43D","32R, 18D",2R
+indiana,1985,"5D, 5R",R,,R,R,R,"63R, 37D","30R, 20D",2R
+indiana,1985,"5D, 5R",R,,R,R,R,"63R, 37D","30R, 20D",2R
+indiana,1986,"5D, 5R",R,,R,R,R,"63R, 37D","30R, 20D",2R
+indiana,1987,"6D, 4R",R,,R,R,R,"52R, 48D","30R, 20D",2R
+indiana,1988,"6D, 4R",R,,R,R,R,"52R, 48D","30R, 20D",2R
+indiana,1989,"7D, 3R",R,,R,R,D,"50D, 50R","26R, 24D",2R
+indiana,1990,"7D, 3R",R,,R,R,D,"50D, 50R","26R, 24D",2R
+indiana,1991,"8D, 2R",R,,R,R,D,"52D, 48R","26R, 24D",2R
+indiana,1992,"8D, 2R",R,,R,R,D,"52D, 48R","26R, 24D",2R
+indiana,1993,"7D, 3R",R,,R,R,D,"55D, 45R","28R, 22D",2R
+indiana,1994,"7D, 3R",R,,R,R,D,"55D, 45R","28R, 22D",2R
+indiana,1995,"6R, 4D",R,,R,R,D,"56R, 44D","30R, 20D",2R
+indiana,1996,"6R, 4D",R,,R,R,D,"56R, 44D","30R, 20D",2R
+indiana,1997,"6R, 4D",R,,R,R,D,"50D, 50R","31R, 19D",2R
+indiana,1998,"6R, 4D",R,,D,R,D,"50D, 50R","31R, 19D","1D,1R"
+indiana,1999,"6R, 4D",R,,D,R,D,"53D, 47R","31R, 19D","1D,1R"
+indiana,2000,"6R, 4D",R,,D,R,D,"53D, 47R","31R, 19D","1D,1R"
+indiana,2001,"6R, 4D",R,,D,R,D,"53D, 47R","32R, 18D","1D,1R"
+indiana,2002,"6R, 4D",R,,D,R,D,"53D, 47R","32R, 18D","1D,1R"
+indiana,2003,"6R, 3D",R,,D,R,D,"51D, 49R","32R, 18D","1D,1R"
+indiana,2003,"6R, 3D",R,,D,R,D,"51D, 49R","32R, 18D","1D,1R"
+indiana,2004,"6R, 3D",R,,D,R,D,"51D, 49R","32R, 18D","1D,1R"
+indiana,2005,"7R, 2D",R,,D,R,R,"52R, 48D","33R, 17D","1D,1R"
+indiana,2006,"7R, 2D",R,,D,R,R,"52R, 48D","33R, 17D","1D,1R"
+indiana,2007,"5D, 4R",R,,D,R,R,"51D, 49R","33R, 17D","1D,1R"
+indiana,2008,"5D, 4R",R,,D,D,R,"51D, 49R","33R, 17D","1D,1R"
+indiana,2009,"5D, 4R",R,,D,D,R,"52D, 48R","33R, 17D","1D,1R"
+indiana,2010,"5D, 4R",R,,D,D,R,"52D, 48R","33R, 17D","1D,1R"
+indiana,2011,"6R, 3D",R,,R,D,R,"60R, 40D","37R, 13D",2R
+indiana,2012,"6R, 3D",R,,R,R,R,"60R, 40D","37R, 13D",2R
+indiana,2013,"7R, 2D",D,,R,R,R,"69R, 31D","37R, 13D","1D,1R"
+indiana,2014,"7R, 2D",D,,R,R,R,"69R, 31D","37R, 13D","1D,1R"
+indiana,2015,"7R, 2D",D,,R,R,R,"71R, 29D","40R, 10D","1D,1R"
+indiana,2016,"7R, 2D",D,,R,R,R,"71R, 29D","40R, 10D","1D,1R"
+iowa,1980,"3D, 3R",,R,D,R,R,"57R, 43D","28R, 22D","1D,1R"
+iowa,1981,"3D, 3R",,R,R,R,R,"58R, 42D","29R, 21D",2R
+iowa,1982,"3D, 3R",,R,R,R,R,"58R, 42D","29R, 21D",2R
+iowa,1983,"3D, 3R",,R,R,R,R,"60D, 40R","28D, 22R",2R
+iowa,1984,"3D, 3R",,R,R,R,R,"60D, 40R","28D, 22R",2R
+iowa,1985,"4R, 2D",,D,R,R,R,"60D, 40R","29D, 21D","1D,1R"
+iowa,1986,"4R, 2D",,D,R,R,R,"60D, 40R","29D, 21D","1D,1R"
+iowa,1987,"4R, 2D",,D,R,R,R,"58D, 42R","30D, 20R","1D,1R"
+iowa,1988,"4R, 2D",,D,R,D,R,"58D, 42R","30D, 20R","1D,1R"
+iowa,1989,"4R, 2D",,D,R,D,R,"61D, 39R","30D, 20R","1D,1R"
+iowa,1990,"4R, 2D",,D,R,D,R,"61D, 39R","30D, 20R","1D,1R"
+iowa,1991,"4R, 2D",,D,R,D,R,"53D, 47R","28D, 22R","1D,1R"
+iowa,1992,"4R, 2D",,D,R,D,R,"53D, 47R","28D, 22R","1D,1R"
+iowa,1993,"4R, 1D",,D,R,D,R,"51R, 49D","26D, 24R","1D,1R"
+iowa,1994,"4R, 1D",,D,R,D,R,"51R, 49D","26D, 24R","1D,1R"
+iowa,1995,5R,,D,R,D,R,"64R, 36D","27D, 23R","1D,1R"
+iowa,1996,5R,,D,R,D,R,"64R, 36D","27D, 23R","1D,1R"
+iowa,1997,"4R, 1D",,D,R,D,R,"54R, 46D","29R, 21D","1D,1R"
+iowa,1998,"4R, 1D",,D,R,D,R,"54R, 46D","29R, 21D","1D,1R"
+iowa,1999,"4R, 1D",,D,R,D,D,"56R, 44D","30R, 20D","1D,1R"
+iowa,2000,"4R, 1D",,D,R,D,D,"56R, 44D","30R, 20D","1D,1R"
+iowa,2001,"4R, 1D",,D,R,D,D,"56R, 44D","30R, 20D","1D,1R"
+iowa,2002,"4R, 1D",,D,R,D,D,"56R, 44D","30R, 20D","1D,1R"
+iowa,2003,"4R, 1D",,D,R,D,D,"54R, 46D","29R, 21D","1D,1R"
+iowa,2004,"4R, 1D",,D,R,R,D,"54R, 46D","29R, 21D","1D,1R"
+iowa,2005,"4R, 1D",,D,R,R,D,"51R, 49D","25D, 25R","1D,1R"
+iowa,2006,"4R, 1D",,D,R,R,D,"51R, 49D","25D, 25R","1D,1R"
+iowa,2007,"3D, 2R",,D,R,R,D,"54D, 46R","30D, 20R","1D,1R"
+iowa,2008,"3D, 2R",,D,R,D,D,"54D, 46R","30D, 20R","1D,1R"
+iowa,2009,"3D, 2R",,D,R,D,D,"57D, 43R","32D, 18R","1D,1R"
+iowa,2010,"3D, 2R",,D,R,D,D,"57D, 43R","32D, 18R","1D,1R"
+iowa,2011,"3D, 2R",,D,R,D,R,"60R, 40D","26D, 24R","1D,1R"
+iowa,2012,"3D, 2R",,D,R,D,R,"60R, 40D","26D, 24R","1D,1R"
+iowa,2013,"2D, 2R",,D,R,D,R,"53R, 46D, 1 vacancy","26D, 24R","1D,1R"
+iowa,2013,"2D, 2R",,D,R,D,R,,"26D, 24R","1D,1R"
+iowa,2014,"2D, 2R",,D,R,D,R,"53R, 47D","26D, 24R","1D,1R"
+iowa,2015,"3R, 1D",,R,R,D,R,"57R, 43D","26D, 24R",2R
+iowa,2016,"3R, 1D",,R,R,R,R,"57R, 43D","26D, 24R",2R
+kansas,1980,"4R, 1D",,R,R,R,D,"69R, 56D","21R, 19D",2R
+kansas,1981,"4R, 1D",,R,R,R,D,"72R, 53D","23R, 17D",2R
+kansas,1982,"4R, 1D",,R,R,R,D,"72R, 53D","23R, 17D",2R
+kansas,1983,"3R, 2D",,R,R,R,D,"72R, 53D","23R, 17D",2R
+kansas,1984,"3R, 2D",,R,R,R,D,"72R, 53D","23R, 17D",2R
+kansas,1985,"3R, 2D",,R,R,R,D,"76R, 49D","24R, 16D",2R
+kansas,1986,"3R, 2D",,R,R,R,D,"76R, 49D","24R, 16D",2R
+kansas,1987,"3R, 2D",,R,R,R,R,"74R, 51D","24R, 16D",2R
+kansas,1988,"3R, 2D",,R,R,R,R,"74R, 51D","24R, 16D",2R
+kansas,1989,"3R, 2D",,R,R,R,R,"67R, 58D","22R, 18D",2R
+kansas,1990,"3R, 2D",,R,R,R,R,"67R, 58D","22R, 18D",2R
+kansas,1991,"3R, 2D",,R,R,R,D,"63D, 62R","22R, 18D",2R
+kansas,1992,"3R, 2D",,R,R,R,D,"63D, 62R","22R, 18D",2R
+kansas,1993,"2D, 2R",,R,R,R,D,"66R, 59D","26R, 14D",2R
+kansas,1994,"2D, 2R",,R,R,R,D,"66R, 59D","26R, 14D",2R
+kansas,1995,4R,,R,R,R,R,"80R, 45D","26R, 14D",2R
+kansas,1996,4R,,R,R,R,R,"80R, 45D","26R, 14D",2R
+kansas,1996,4R,,R,R,R,R,"80R, 45D","26R, 14D",2R
+kansas,1996,4R,,R,R,R,R,"80R, 45D","26R, 14D",2R
+kansas,1997,4R,,R,R,R,R,"77R, 48D","27R, 13D",2R
+kansas,1998,4R,,R,R,R,R,"77R, 48D","27R, 13D",2R
+kansas,1999,"3R, 1D",,R,R,R,R,"77R, 48D","27R, 13D",2R
+kansas,2000,"3R, 1D",,R,R,R,R,"77R, 48D","27R, 13D",2R
+kansas,2001,"3R, 1D",,R,R,R,R,"79R, 46D","30R, 10D",2R
+kansas,2002,"3R, 1D",,R,R,R,R,"79R, 46D","30R, 10D",2R
+kansas,2003,"3R, 1D",,R,R,R,D,"80R, 45D","30R, 10D",2R
+kansas,2004,"3R, 1D",,R,R,R,D,"80R, 45D","30R, 10D",2R
+kansas,2005,"3R, 1D",,R,R,R,D,"83R, 42D","30R, 10D",2R
+kansas,2006,"3R, 1D",,R,R,R,D,"83R, 42D","30R, 10D",2R
+kansas,2007,"2R, 2D",,R,R,R,D,"78R, 47D","30R, 10D",2R
+kansas,2008,"2R, 2D",,R,R,R,D,"78R, 47D","30R, 10D",2R
+kansas,2008,"2R, 2D",,R,R,R,D,"78R, 47D","30R, 10D",2R
+kansas,2009,"3R, 1D",,R,R,R,D,"77R, 48D","31R, 9D",2R
+kansas,2009,"3R, 1D",,R,R,R,D,"76R, 49D ","31R, 9D",2R
+kansas,2010,"3R, 1D",,R,R,R,D,"76R, 49D ","31R, 9D",2R
+kansas,2011,4R,,R,R,R,R,"92R, 33D","32R, 8D",2R
+kansas,2012,4R,,R,R,R,R,"92R, 33D","32R, 8D",2R
+kansas,2013,4R,,R,R,R,R,"92R, 33D","32R, 8D",2R
+kansas,2014,4R,,R,R,R,R,"93R, 32D","32R, 8D",2R
+kansas,2015,4R,,R,R,R,R,"98R, 27D","32R, 8D",2R
+kansas,2016,4R,,R,R,R,R,"98R, 27D","32R, 8D",2R
+kentucky,1980,"4D, 3R",,D,D,R,D,"75D, 25R","30D, 8R",2D
+kentucky,1981,"4D, 3R",,D,D,R,D,"75D, 25R","30D, 8R",2D
+kentucky,1982,"4D, 3R",,D,D,R,D,"76D, 24R","29D, 9R",2D
+kentucky,1983,"4D, 3R",,D,D,R,D,"76D, 24R","29D, 9R",2D
+kentucky,1984,"4D, 3R",,D,D,R,D,"76D, 24R","28D, 10R",2D
+kentucky,1985,"4D, 3R",,R,D,R,D,"74D, 26R","28D, 10R","1D,1R"
+kentucky,1986,"4D, 3R",,R,D,R,D,"74D, 26R","28D, 10R","1D,1R"
+kentucky,1987,"4D, 3R",,R,D,R,D,"73D, 27R","29D, 9R","1D,1R"
+kentucky,1988,"4D, 3R",,R,D,R,D,"73D, 27R","29D, 9R","1D,1R"
+kentucky,1989,"4D, 3R",,R,D,R,D,"71D, 29R","29D, 9R","1D,1R"
+kentucky,1990,"4D, 3R",,R,D,R,D,"71D, 29R","29D, 9R","1D,1R"
+kentucky,1991,"4D, 3R",,R,D,R,D,"68D, 32R","27D, 11R","1D,1R"
+kentucky,1992,"4D, 3R",,R,D,D,D,"68D, 32R","27D, 11R","1D,1R"
+kentucky,1993,"4D, 2R",,R,D,D,D,"71D, 29R","24D, 14R","1D,1R"
+kentucky,1994,"3D, 3R",,R,D,D,D,"71D, 29R","24D, 14R","1D,1R"
+kentucky,1995,"4R, 2D",,R,D,D,D,"64D, 36R","21D, 17R","1D,1R"
+kentucky,1996,"4R, 2D",,R,D,D,D,"64D, 36R","21D, 17R","1D,1R"
+kentucky,1997,"5R, 1D",,R,D,D,D,"64D, 36R","23 Coal., 15D","1D,1R"
+kentucky,1998,"5R, 1D",,R,D,D,D,"64D, 36R","23 Coal., 15D","1D,1R"
+kentucky,1999,"5R, 1D",,R,R,D,D,"66D, 34R","23 Coal., 15D",2R
+kentucky,2000,"5R, 1D",,R,R,R,D,"66D, 34R","20R, 18D",2R
+kentucky,2001,"5R, 1D",,R,R,R,D,"64D, 36R","20R, 18D",2R
+kentucky,2002,"5R, 1D",,R,R,R,D,"64D, 36R","20R, 18D",2R
+kentucky,2003,"5R, 1D",,R,R,R,D,"65D, 35R","21R, 17D",2R
+kentucky,2004,"4R, 2D",,R,R,R,R,"65D, 35R","21R, 17D",2R
+kentucky,2005,"5R, 1D",,R,R,R,R,"57D, 43R","21R, 15D, 1I, 1VC",2R
+kentucky,2006,"5R, 1D",,R,R,R,R,"57D, 43R","21R, 16D, 1I",2R
+kentucky,2007,"4R, 2D",,R,R,R,R,"61D, 39R","21R, 16D, 1I",2R
+kentucky,2008,"4R, 2D",,R,R,R,D,"63D, 37R","22R, 15D, 1I",2R
+kentucky,2009,"4R, 2D",,R,R,R,D,"65D, 35R","21R, 16D, 1I",2R
+kentucky,2010,"4R, 2D",,R,R,R,D,"65D, 35R","20R, 17D, 1I",2R
+kentucky,2011,"4R, 2D",,R,R,R,D,"59D, 41R","22R, 15D, 1I",2R
+kentucky,2012,"4R, 2D",,R,R,R,D,"59D, 41R","22R, 15D, 1I",2R
+kentucky,2013,"5R, 1D",,R,R,R,D,"55D, 45R","23R, 14D, 1I",2R
+kentucky,2014,"5R, 1D",,R,R,R,D,"54D, 46R","23R, 14D, 1I",2R
+kentucky,2015,"5R, 1D",,R,R,R,D,"54D, 46R","26R, 12D",2R
+kentucky,2015,"5R, 1D",,R,R,R,D,"54D, 46R","27R, 11D",2R
+kentucky,2016,"5R, 1D",,R,R,R,R,"50D, 46R, 4 vac.","27R, 11D",2R
+kentucky,2016,"5R, 1D",,R,R,R,R,"53D, 47R","27R, 11D",2R
+louisiana,1980,"5D, 3R",,D,D,R,R,"95D, 10R",39D,2D
+louisiana,1981,"6D, 2R",,D,D,R,R,"95D, 10R",39D,2D
+louisiana,1982,"6D, 2R",,D,D,R,R,"95D, 10R",39D,2D
+louisiana,1983,"6D, 2R",,D,D,R,R,"95D, 10R",39D,2D
+louisiana,1984,"6D, 2R",,D,D,R,D,"93D, 11R, 1I","37D, 2R",2D
+louisiana,1985,"6D, 2R",,D,D,R,D,"93D, 11R, 1I","37D, 2R",2D
+louisiana,1986,"6D, 2R",,D,D,R,D,"93D, 11R, 1I","37D, 2R",2D
+louisiana,1987,"5D, 3R",,D,D,R,D,"93D, 11R, 1I","37D, 2R",2D
+louisiana,1988,"5D, 3R",,D,D,R,D,"88D, 16R, 1I","34D, 5R",2D
+louisiana,1989,"4D, 4R",,D,D,R,D,"88D, 16R, 1I","34D, 5R",2D
+louisiana,1989,"4D, 4R",,D,D,R,D,"88D, 16R, 1I","34D, 5R",2D
+louisiana,1990,"4D, 4R",,D,D,R,D,"88D, 16R, 1I","34D, 5R",2D
+louisiana,1991,"4D, 4R",,D,D,R,R,"88D, 16R, 1I","34D, 5R",2D
+louisiana,1992,"4D, 4R",,D,D,D,D,"87D, 17R, 1I","33D, 6R",2D
+louisiana,1993,"4D, 3R",,D,D,D,D,"87D, 17R, 1I","33D, 6R",2D
+louisiana,1994,"4D, 3R",,D,D,D,D,"87D, 17R, 1I","33D, 6R",2D
+louisiana,1995,"5R, 2D",,D,D,D,D,"87D, 17R, 1I","33D, 6R",2D
+louisiana,1996,"5R, 2D",,D,D,D,R,"78D, 27R","26D, 13R",2D
+louisiana,1997,"5R, 2D",,D,D,D,R,"78D, 27R","26D, 13R",2D
+louisiana,1998,"5R, 2D",,D,D,D,R,"78D, 27R","26D, 13R",2D
+louisiana,1999,"5R, 2D",,D,D,D,R,"78D, 27R","26D, 13R",2D
+louisiana,2000,"5R, 2D",,D,D,R,R,"74D, 31R","26D, 13R",2D
+louisiana,2000,"5R, 2D",,D,D,R,R,"74D, 31R","26D, 13R",2D
+louisiana,2001,"5R, 2D",,D,D,R,R,"74D, 31R","26D, 13R",2D
+louisiana,2002,"5R, 2D",,D,D,R,R,"74D, 31R","26D, 13R",2D
+louisiana,2003,"4R, 3D",,D,D,R,R,"74D, 31R","26D, 13R",2D
+louisiana,2004,"4R, 3D",,D,D,R,D,"66D, 37R, 2I","24D, 15R",2D
+louisiana,2004,"5R, 2D",,D,D,R,D,"66D, 37R, 2I","24D, 15R",2D
+louisiana,2005,"5R, 2D",,D,R,R,D,"66D, 37R, 2I","24D, 15R","1D,1R"
+louisiana,2005,"5R, 2D",,D,R,R,D,"66D, 37R, 2I","24D, 15R","1D,1R"
+louisiana,2006,"5R, 2D",,D,R,R,D,"66D, 37R, 2I","24D, 15R","1D,1R"
+louisiana,2006,"5R, 2D",,D,R,R,D,"66D, 37R, 2I","24D, 15R","1D,1R"
+louisiana,2007,"5R, 2D",,D,R,R,D,"66D, 37R, 2I","24D, 15R","1D,1R"
+louisiana,2007,"5R, 2D",,D,R,R,D,"66D, 37R, 2I","24D, 15R","1D,1R"
+louisiana,2008,"5R, 2D",,D,R,R,R,"53D, 50R, 2I","23D, 16R","1D,1R"
+louisiana,2008,"3R, 2D",,D,R,R,R,"53D, 50R, 2I","23D, 16R","1D,1R"
+louisiana,2008,"4R, 3D",,D,R,R,R,"53D, 50R, 2I","23D, 16R","1D,1R"
+louisiana,2009,"6R, 1D",,D,R,R,R,"52D, 50R, 3I","23D, 16R","1D,1R"
+louisiana,2010,"6R, 1D",,D,R,R,R,"52D, 50R, 3I","23D, 16R","1D,1R"
+louisiana,2010,"6R, 1D",,D,R,R,R,"52D, 50R, 3I","23D, 16R","1D,1R"
+louisiana,2011,"6R, 1D",,D,R,R,R,"55R, 46D, 4I","22R, 17D","1D,1R"
+louisiana,2012,"6R, 1D",,D,R,R,R,"58R, 45D, 2I","24R, 15D","1D,1R"
+louisiana,2013,"5R, 1D",,D,R,R,R,"58R, 45D, 2I","24R, 15D","1D,1R"
+louisiana,2014,"5R, 1D",,D,R,R,R,"59R, 44D, 2I","26R, 13D","1D,1R"
+louisiana,2015,"5R, 1D",,R,R,R,R,"59R, 44D, 2I","26R, 13D",2R
+louisiana,2016,"5R, 1D",,R,R,R,D,"61R, 42D, 2I","25R, 14D",2R
+louisiana,2017,"5R, 1D",,R,R,R,D,"61R, 42D, 2I","25R, 14D",2R
+maine,1980,2R, , ,,R,D,"77D, 73R, 1ID","19R, 13D, 1I",
+maine,1981,2R, , ,,R,D,"84D, 67R","17R, 16D",
+maine,1982,2R, , ,,R,D,"84D, 67R","17R, 16D",
+maine,1983,2R,D, ,,R,D,"92D, 59R","23D, 10R",1D
+maine,1984,2R,D, ,,R,D,"92D, 59R","23D, 10R",1D
+maine,1985,2R,D,R,,R,D,"83D, 68R","24D, 11R","1D,1R"
+maine,1986,2R,D,R,,R,D,"83D, 68R","24D, 11R","1D,1R"
+maine,1987,"1D,1R",D,R,,R,R,"86D, 65R","20D, 15R","1D,1R"
+maine,1988,"1D,1R",D,R,,R,R,"86D, 65R","20D, 15R","1D,1R"
+maine,1989,"1D,1R", ,R,,R,R,"97D, 54R","20D, 15R",1R
+maine,1990,"1D,1R", ,R,,R,R,"97D, 54R","20D, 15R",1R
+maine,1991,"1D,1R", , ,,R,R,"97D, 54R","21D, 14R",
+maine,1992,"1D,1R", , ,,D,R,"97D, 54R","21D, 14R",
+maine,1993,"1D,1R", , ,,D,R,"90D, 61R","20D, 15R",
+maine,1994,"1D,1R", , ,,D,R,"90D, 61R","20D, 15R",
+maine,1995,"1D,1R", , ,,D,I,"77D, 74R","18R, 16D, 1I",
+maine,1996,"1D,1R", , ,,D,I,"77D, 74R","18R, 16D, 1I",
+maine,1997,2D, , ,,D,I,"81D, 69R, 1I","19D, 15R, 1I",
+maine,1998,2D, , ,,D,I,"81D, 69R, 1I","19D, 15R, 1I",
+maine,1999,2D, , ,,D,I,"79D, 71R, 1I","20D, 14R, 1I",
+maine,2000,2D, , ,,D,I,"79D, 71R, 1I","20D, 14R, 1I",
+maine,2001,2D,R, ,,D,I,"88D, 62R, 1I","17R, 17D, 1I",1R
+maine,2002,2D,R, ,,D,I,"88D, 62R, 1I","17R, 17D, 1I",1R
+maine,2003,2D,R,R,,D,D,"80D, 67R, 3I, 1G","18D, 17R",2R
+maine,2004,2D,R,R,,D,D,"80D, 67R, 3I, 1G","18D, 17R",2R
+maine,2005,2D,R,R,,D,D,"76D, 73R, 1I, 1G","18D, 17R",2R
+maine,2006,2D,R,R,,D,D,"76D, 73R, 1I, 1G","18D, 17R",2R
+maine,2007,2D, ,R,,D,D,"90D, 59R, 2I","18D, 17R",1R
+maine,2008,2D, ,R,,D,D,"90D, 59R, 2I","18D, 17R",1R
+maine,2009,2D, , ,,D,D,"95D, 55R, 1I","20D, 15R",
+maine,2010,2D, , ,,D,D,"95D, 55R, 1I","20D, 15R",
+maine,2011,2D, , ,,D,R,"78R, 72D, 1I","20R, 14D, 1I",
+maine,2012,2D, , ,,D,R,"78R, 72D, 1I","20R, 14D, 1I",
+maine,2013,2D,I, ,,D,R,"89D, 58R, 4I","19D, 15R, 1I",1I
+maine,2014,2D,I, ,,D,R,"89D, 58R, 4I","19D, 15R, 1I",1I
+maine,2015,"1D,1R",I, ,,D,R,"78D, 68R, 5I","20R, 15D",1I
+maine,2016,"1D,1R",I, ,,"D,R",R,"78D, 69R, 4I","20R, 15D",1I
+maine,2017,"1D,1R",I, ,,"D,R",R,"77D, 73R, 1I","18R, 17D",1I
+maryland,1980,"6D, 2R", ,,R,D,D,"125D, 16R","40D, 7R",1R
+maryland,1981,"7D, 1R", ,, ,D,D,"125D, 16R","40D, 7R",
+maryland,1982,"7D, 1R", ,, ,D,D,"125D, 16R","40D, 7R",
+maryland,1983,"7D, 1R", ,, ,D,D,"124D, 17R","41D, 6R",
+maryland,1984,"7D, 1R", ,, ,R,D,"124D, 17R","41D, 6R",
+maryland,1985,"6D, 2R", ,, ,R,D,"124D, 17R","41D, 6R",
+maryland,1986,"6D, 2R", ,, ,R,D,"124D, 17R","41D, 6R",
+maryland,1987,"6D, 2R", ,, ,R,D,"124D, 17R","40D, 7R",
+maryland,1988,"6D, 2R", ,, ,R,D,"124D, 17R","40D, 7R",
+maryland,1989,"6D, 2R",D,, ,R,D,"124D, 17R","40D, 7R",1D
+maryland,1990,"6D, 2R",D,, ,R,D,"124D, 17R","40D, 7R",1D
+maryland,1991,"5D, 3R",D,, ,R,D,"117D, 24R","40D, 7R",1D
+maryland,1992,"5D, 3R",D,, ,D,D,"117D, 24R","40D, 7R",1D
+maryland,1993,"4D, 4R",D,, ,D,D,"117D, 24R","40D, 7R",1D
+maryland,1994,"4D, 4R",D,, ,D,D,"117D, 24R","40D, 7R",1D
+maryland,1995,"4D, 4R", ,, ,D,D,"100D, 41R","32D, 15R",
+maryland,1996,"4D, 4R", ,, ,D,D,"100D, 41R","32D, 15R",
+maryland,1997,"4D, 4R", ,, ,D,D,"100D, 41R","32D, 15R",
+maryland,1998,"4D, 4R", ,, ,D,D,"100D, 41R","32D, 15R",
+maryland,1999,"4D, 4R", ,,D,D,D,"106D, 35R","32D, 15R",1D
+maryland,2000,"4D, 4R", ,,D,D,D,"106D, 35R","33D, 14R",1D
+maryland,2001,"4D, 4R", ,,D,D,D,"106D, 35R","33D, 14R",1D
+maryland,2002,"4D, 4R", ,,D,D,D,"106D, 35R","33D, 14R",1D
+maryland,2003,"6D, 2R", ,,D,D,R,"98D, 43R","33D, 14R",1D
+maryland,2004,"6D, 2R", ,,D,D,R,"98D, 43R","33D, 14R",1D
+maryland,2005,"6D, 2R", ,, ,D,R,"98D, 43R","33D, 14R",
+maryland,2006,"6D, 2R", ,, ,D,R,"98D, 43R","33D, 14R",
+maryland,2007,"6D, 2R",D,, ,D,D,"104D, 37R","33D, 14R",1D
+maryland,2008,"6D, 2R",D,, ,D,D,"104D, 37R","33D, 14R",1D
+maryland,2008,"5D, 2R",D,, ,D,D,"104D, 37R","33D, 14R",1D
+maryland,2008,"6D, 2R",D,, ,D,D,"104D, 36R, 1I","33D, 14R",1D
+maryland,2009,"7D, 1R",D,, ,D,D,"104D, 36R, 1I","33D, 14R",1D
+maryland,2010,"7D, 1R",D,, ,D,D,"104D, 36R, 1I","33D, 14R",1D
+maryland,2011,"6D, 2R",D,, ,D,D,"98D, 43R","35D, 12R",1D
+maryland,2012,"6D, 2R",D,, ,D,D,"98D, 43R","35D, 12R",1D
+maryland,2013,"7D, 1R", ,, ,D,D,"98D, 43R","35D, 12R",
+maryland,2014,"7D, 1R", ,, ,D,D,"98D, 43R","35D, 12R",
+maryland,2015,"7D, 1R", ,, ,D,R,"91D, 50R","33D, 14R",
+maryland,2016,"7D, 1R", ,, ,D,R,"91D, 50R","33D, 14R",
+maryland,2017,"7D, 1R", ,,D,D,R,"91D, 50R","33D, 14R",1D
+massachusetts,1980,"10D,2R",D,D,,,D,"128D
+30R
+2I","34D
+6R",2D
+massachusetts,1981,"10D,2R",D,D,,,D,"128D
+31R
+1I","32D
+7R
+1I",2D
+massachusetts,1982,"10D,2R",D,D,,,D,"128D
+31R
+1I","32D
+7R
+1I",2D
+massachusetts,1983,"10D,1R",D,D,,,D,"131D
+29R","33D
+7R",2D
+massachusetts,1984,"10D,1R",D,D,,,D,"131D
+29R","33D
+7R",2D
+massachusetts,1985,"10D,1R",D,D,,,D,"126D
+34R","32D
+8R",2D
+massachusetts,1986,"10D,1R",D,D,,,D,"126D
+34R","32D
+8R",2D
+massachusetts,1987,"10D,1R",D,D,,,D,"126D
+33R
+1I","32D
+8R",2D
+massachusetts,1988,"10D,1R",D,D,,,D,"126D
+33R
+1I","32D
+8R",2D
+massachusetts,1989,"10D,1R",D,D,,,D,"127D
+33R","31D
+9R",2D
+massachusetts,1990,"10D,1R",D,D,,,D,"127D
+33R","31D
+9R",2D
+massachusetts,1991,11D,D,D,,,R,"123D
+37R","24D
+16R",2D
+massachusetts,1992,11D,D,D,,,R,"123D
+37R","24D
+16R",2D
+massachusetts,1993,"8D,2R",D,D,,,R,"124D
+35R
+1I","31D
+9R",2D
+massachusetts,1994,"8D,2R",D,D,,,R,"124D
+35R
+1I","31D
+9R",2D
+massachusetts,1995,"8D,2R",D,D,,,R,"125D
+34R
+1NP","30D
+10R",2D
+massachusetts,1996,"8D,2R",D,D,,,R,"125D
+34R
+1NP","30D
+10R",2D
+massachusetts,1997,10D,D,D,,,R,"124D
+35R
+1I","33D
+7R",2D
+massachusetts,1998,10D,D,D,,,Vacant,"124D
+35R
+1I","33D
+7R",2D
+massachusetts,1999,10D,D,D,,,R,"131D
+28R
+1I","33D
+7R",2D
+massachusetts,2000,10D,D,D,,,R,"131D
+28R
+1I","33D
+7R",2D
+massachusetts,2001,10D,D,D,,,R,"137D
+23R","34D
+6R",2D
+massachusetts,2002,10D,D,D,,,Vacant,"137D
+23R","34D
+6R",2D
+massachusetts,2003,10D,D,D,,,R,"135D
+23R
+1I","34D
+6R",2D
+massachusetts,2004,10D,D,D,,,R,"135D
+23R
+1I","34D
+6R",2D
+massachusetts,2005,10D,D,D,,,R,"139D
+20R
+1I","34D
+6R",2D
+massachusetts,2006,10D,D,D,,,R,"139D
+20R
+1I","34D
+6R",2D
+massachusetts,2007,10D,D,D,,,D,"141D
+19R","35D
+5R",2D
+massachusetts,2008,10D,D,D,,,D,"141D
+19R","35D
+5R",2D
+massachusetts,2009,10D,D,D,,,D,"144D
+15R
+1I","35D
+5R",2D
+massachusetts,2009,10D,D,D,,,D,"144D
+15R
+1I","35D
+5R",2D
+massachusetts,2010,10D,D,D,,,D,"144D
+15R
+1I","35D
+5R",2D
+massachusetts,2010,10D,R,D,,,D,"144D
+15R
+1I","35D
+5R","1D,1R"
+massachusetts,2011,10D,R,D,,,D,"127D
+33R","36D
+4R","1D,1R"
+massachusetts,2012,10D,R,D,,,D,"127D
+33R","36D
+4R","1D,1R"
+massachusetts,2013,9D,D,D,,,D,"131D
+29R","36D
+4R",2D
+massachusetts,2013,9D,D,D,,,D,"131D
+29R","36D
+4R",2D
+massachusetts,2014,9D,D,D,,,D,"131D
+29R","36D
+4R",2D
+massachusetts,2015,9D,D,D,,,R,"125D
+35R","34D
+6R",2D
+massachusetts,2016,9D,D,D,,,R,"125D
+35R","34D
+6R",2D
+massachusetts,2017,9D,D,D,,,R,"125D
+35R","34D
+6R",2D
+massachusetts,2018,9D,D,D,,,R,"125D
+35R","34D
+6R",2D
+michigan,2000,"10D, 6R",R,D,,D,R,"58R, 52D","23R, 15D","1D,1R"
+michigan,2001,"9D, 7R",D,D,,,R,"59R, 51D","23R, 15D",2D
+michigan,2002,"9D, 7R",D,D,,,R,"59R, 51D","23R, 15D",2D
+michigan,2003,"9R, 6D",D,D,,,D,"62R, 48D","22R, 16D",2D
+michigan,2004,"9R, 6D",D,D,,D,D,"62R, 48D","22R, 16D",2D
+michigan,2005,"9R, 6D",D,D,,,D,"58R, 52D","22R, 16D",2D
+michigan,2006,"9R, 6D",D,D,,,D,"58R, 52D","22R, 16D",2D
+michigan,2007,"9R, 6D",D,D,,,D,"58D, 52R","21R, 17D",2D
+michigan,2008,"9R, 6D",D,D,,D,D,"58D, 52R","21R, 17D",2D
+michigan,2009,"8D, 7R",D,D,,,D,"67D, 43R","21R, 16D",2D
+michigan,2010,"8D, 7R",D,D,,,D,"67D, 43R","22R, 16D",2D
+michigan,2011,"9R, 6D",D,D,,,R,"63R, 47D","26R, 12D",2D
+michigan,2012,"9R, 6D",D,D,,D,R,"64R, 46D","26R, 12D",2D
+michigan,2013,"9R, 5D",D,D,,,R,"59R, 50D, 1I","26R, 12D",2D
+michigan,2014,"9R, 5D",D,D,,,R,"59R, 50D, 1I","26R, 12D",2D
+michigan,2015,"9R, 5D",D,D,,,R,"63R, 47D","27R, 11D",2D
+michigan,2016,"9R, 5D",D,D,,R,R,"63R, 47D","27R, 11D",2D
+michigan,2017,"9R, 5D",D,D,,,R,"63R, 47D","27R, 11D",2D
+minnesota,1980,"4DFL, 4R",R,R,,D,Al Quie (IR),"68DFL, 66IR","45DFL, 22IR",2R
+minnesota,1981,"5R, 3DFL",R,R,,D,Al Quie (IR),"70DFL, 64IR","45DFL, 22IR",2R
+minnesota,1982,"5R, 3DFL",R,R,,D,Al Quie (IR),"70DFL, 64IR","44DFL, 23IR",2R
+minnesota,1983,"5DFL, 3R",R,R,,D,Rudy Perpich (DFL),"77DFL, 57IR","42DFL, 25IR",2R
+minnesota,1984,"5DFL, 3R",R,R,,D,Rudy Perpich (DFL),"76DFL, 58IR","42DFL, 25IR",2R
+minnesota,1985,"5DFL, 3R",R,R,,D,Rudy Perpich (DFL),"69IR, 65DFL","42DFL, 24IR, 1I",2R
+minnesota,1986,"5DFL, 3R",R,R,,D,Rudy Perpich (DFL),"69IR, 65DFL","43DFL, 24IR",2R
+minnesota,1987,"5DFL, 3R",R,R,,D,Rudy Perpich (DFL),"83DFL, 51IR","47DFL, 20IR",2R
+minnesota,1988,"5DFL, 3R",R,R,,D,Rudy Perpich (DFL),"82DFL, 52IR","46DFL, 21IR",2R
+minnesota,1989,"5DFL, 3R",R,R,,D,Rudy Perpich (DFL),"81DFL, 53IR","44DFL, 23IR",2R
+minnesota,1990,"5DFL, 3R",R,R,,D,Rudy Perpich (DFL),"80DFL, 54IR","44DFL, 23IR",2R
+minnesota,1991,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Arne Carlson (IR/R),"80DFL, 54IR","46DFL, 21IR","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,1992,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Arne Carlson (IR/R),"78DFL, 56IR","46DFL, 21IR","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,1993,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Arne Carlson (IR/R),"87DFL, 47IR","45DFL, 22IR","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,1994,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Arne Carlson (IR/R),"84DFL, 50IR","45DFL, 22IR","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,1995,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Arne Carlson (IR/R),"71DFL, 63R","43DFL, 24IR","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,1996,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Arne Carlson (IR/R),"69DFL, 65IR","42DFL, 25R","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,1997,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Arne Carlson (IR/R),"70DFL, 64R","42DFL, 24R, 1I","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,1998,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Arne Carlson (IR/R),"70DFL, 64R","42DFL, 24R, 1I","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,1999,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Jesse Ventura (Ref/I),"71R, 63DFL","40DFL, 26R, 1I","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,2000,"6DFL, 2R",R,Paul Wellstone (DFL),,D,Jesse Ventura (Ref/I),"70R, 63DFL, 1I","41DFL, 25R, 1I","1u,1R,1n,2e,1L,1W,1P,1D,1F,1o,1s,1a,3l,1t"
+minnesota,2001,"5DFL, 3R",Mark Dayton (DFL),Paul Wellstone (DFL),,D,Jesse Ventura (Ref/I),"69R, 65DFL","39DFL, 27R, 1IPM","1u,3a,2n,3l,2L,2e,1W,1M,2F,1P,1y,2o,1s,1k,3D,2t,1r"
+minnesota,2002,"5DFL, 3R",Mark Dayton (DFL),Paul Wellstone (DFL),,D,Jesse Ventura (Ref/I),"70R, 64DFL","39DFL, 27R, 1IPM","1u,3a,2n,3l,2L,2e,1W,1M,2F,1P,1y,2o,1s,1k,3D,2t,1r"
+minnesota,2002,"5DFL, 3R",Mark Dayton (DFL),I,,D,Jesse Ventura (Ref/I),"70R, 64DFL","39DFL, 27R, 1IPM","1I,2a,1n,1L,1M,1F,1y,1o,1k,2D,1t,1r"
+minnesota,2003,"4DFL, 4R",Mark Dayton (DFL),R,,D,R,"81R, 53DFL","35DFL, 31R, 1IPM","1R,2a,1n,1L,1M,1F,1y,1o,1k,2D,1t,1r"
+minnesota,2004,"4DFL, 4R",Mark Dayton (DFL),R,,D,R,"81R, 53DFL","35DFL, 31R, 1IPM","1R,2a,1n,1L,1M,1F,1y,1o,1k,2D,1t,1r"
+minnesota,2005,"4DFL, 4R",Mark Dayton (DFL),R,,D,R,"68R, 66DFL","35DFL, 31R, 1IPM","1R,2a,1n,1L,1M,1F,1y,1o,1k,2D,1t,1r"
+minnesota,2006,"4DFL, 4R",Mark Dayton (DFL),R,,D,R,"68R, 66DFL","37DFL, 29R, 1IPM","1R,2a,1n,1L,1M,1F,1y,1o,1k,2D,1t,1r"
+minnesota,2007,"5DFL, 3R",Amy Klobuchar (DFL),R,,D,R,"85DFL, 49R","44DFL, 23R","1u,1c,1R,1A,1a,1L,1m,1b,1D,1y,1h,1F,1K,1o,1l,1r"
+minnesota,2007,"5DFL, 3R",Amy Klobuchar (DFL),R,,D,R,"85DFL, 49R","44DFL, 22R","1u,1c,1R,1A,1a,1L,1m,1b,1D,1y,1h,1F,1K,1o,1l,1r"
+minnesota,2008,"5DFL, 3R",Amy Klobuchar (DFL),R,,D,R,"85DFL, 49R","44DFL, 22R","1u,1c,1R,1A,1a,1L,1m,1b,1D,1y,1h,1F,1K,1o,1l,1r"
+minnesota,2008,"5DFL, 3R",Amy Klobuchar (DFL),R,,D,R,"85DFL, 47R, 1IR, 1I","45DFL, 22R","1u,1c,1R,1A,1a,1L,1m,1b,1D,1y,1h,1F,1K,1o,1l,1r"
+minnesota,2009,"5DFL, 3R",Amy Klobuchar (DFL),Al Franken (DFL),,D,R,"87DFL, 47R","46DFL, 21R","1u,1c,2A,1k,2a,2n,1e,2L,1m,1b,2D,1y,1h,3F,1K,1o,2l,2r"
+minnesota,2010,"5DFL, 3R",Amy Klobuchar (DFL),Al Franken (DFL),,D,R,"87DFL, 47R","46DFL, 21R","1u,1c,2A,1k,2a,2n,1e,2L,1m,1b,2D,1y,1h,3F,1K,1o,2l,2r"
+minnesota,2011,"4DFL, 4R",Amy Klobuchar (DFL),Al Franken (DFL),,D,Mark Dayton (DFL),"72R, 62DFL","37R, 30DFL","1u,1c,2A,1k,2a,2n,1e,2L,1m,1b,2D,1y,1h,3F,1K,1o,2l,2r"
+minnesota,2012,"4DFL, 4R",Amy Klobuchar (DFL),Al Franken (DFL),,D,Mark Dayton (DFL),"72R, 62DFL","37R, 30DFL","1u,1c,2A,1k,2a,2n,1e,2L,1m,1b,2D,1y,1h,3F,1K,1o,2l,2r"
+minnesota,2013,"5DFL, 3R",Amy Klobuchar (DFL),Al Franken (DFL),,D,Mark Dayton (DFL),"73DFL, 61R","39DFL, 28R","1u,1c,2A,1k,2a,2n,1e,2L,1m,1b,2D,1y,1h,3F,1K,1o,2l,2r"
+minnesota,2014,"5DFL, 3R",Amy Klobuchar (DFL),Al Franken (DFL),,D,Mark Dayton (DFL),"73DFL, 61R","39DFL, 28R","1u,1c,2A,1k,2a,2n,1e,2L,1m,1b,2D,1y,1h,3F,1K,1o,2l,2r"
+minnesota,2015,"5DFL, 3R",Amy Klobuchar (DFL),Al Franken (DFL),,D,Mark Dayton (DFL),"72R, 62DFL","39DFL, 28R","1u,1c,2A,1k,2a,2n,1e,2L,1m,1b,2D,1y,1h,3F,1K,1o,2l,2r"
+minnesota,2016,"5DFL, 3R",Amy Klobuchar (DFL),Al Franken (DFL),,D,Mark Dayton (DFL),"73R, 61DFL","39DFL, 28R","1u,1c,2A,1k,2a,2n,1e,2L,1m,1b,2D,1y,1h,3F,1K,1o,2l,2r"
+minnesota,2017,"5DFL, 3R",Amy Klobuchar (DFL),Al Franken (DFL),,D,Mark Dayton (DFL),"76R, 57DFL, 1 vac.","34R, 33DFL","1u,1c,2A,1k,2a,2n,1e,2L,1m,1b,2D,1y,1h,3F,1K,1o,2l,2r"
+mississippi,1980,"3D, 2R",D,R,,R,D,"116D, 6R","48D, 4R","1D,1R"
+mississippi,1981,"3D, 2R",D,R,,R,D,"116D, 6R","48D, 4R","1D,1R"
+mississippi,1981,"4D, 1R",D,R,,R,D,"116D, 6R","48D, 4R","1D,1R"
+mississippi,1982,"4D, 1R",D,R,,R,D,"116D, 6R","48D, 4R","1D,1R"
+mississippi,1983,"3D, 2R",D,R,,R,D,"116D, 6R","48D, 4R","1D,1R"
+mississippi,1984,"3D, 2R",D,R,,R,D,"116D, 6R","49D, 3R","1D,1R"
+mississippi,1985,"3D, 2R",D,R,,R,D,"116D, 6R","49D, 3R","1D,1R"
+mississippi,1986,"3D, 2R",D,R,,R,D,"116D, 6R","49D, 3R","1D,1R"
+mississippi,1987,"4D, 1R",D,R,,R,D,"116D, 6R","49D, 3R","1D,1R"
+mississippi,1988,"4D, 1R",D,R,,R,D,"113D, 9R","45D, 7R","1D,1R"
+mississippi,1989,"4D, 1R",R,R,,R,D,"113D, 9R","45D, 7R",2R
+mississippi,1990,5D,R,R,,R,D,"113D, 9R","45D, 7R",2R
+mississippi,1991,5D,R,R,,R,D,"113D, 9R","45D, 7R",2R
+mississippi,1992,5D,R,R,,R,R,"98D, 24R","43D, 9R",2R
+mississippi,1993,5D,R,R,,R,R,"93D, 29R","39D, 13R",2R
+mississippi,1994,5D,R,R,,R,R,"93D, 29R","39D, 13R",2R
+mississippi,1995,"4D, 1R",R,R,,R,R,"93D, 29R","39D, 13R",2R
+mississippi,1996,"3D, 2R",R,R,,R,R,"86D, 33R, 3I","34D, 18R",2R
+mississippi,1996,"3D, 2R",R,R,,R,R,"86D, 33R, 3I","34D, 18R",2R
+mississippi,1997,"3R, 2D",R,R,,R,R,"86D, 33R, 3I","34D, 18R",2R
+mississippi,1998,"3R, 2D",R,R,,R,R,"86D, 33R, 3I","34D, 18R",2R
+mississippi,1999,"3D, 2R",R,R,,R,R,"86D, 33R, 3I","34D, 18R",2R
+mississippi,2000,"3D, 2R",R,R,,R,D,"86D, 33R, 3I","34D, 18R",2R
+mississippi,2001,"3D, 2R",R,R,,R,D,"86D, 33R, 3I","34D, 18R",2R
+mississippi,2002,"3D, 2R",R,R,,R,D,"86D, 33R, 3I","34D, 18R",2R
+mississippi,2002,"3D, 2R",R,R,,R,D,"86D, 33R, 3I","34D, 18R",2R
+mississippi,2003,"2D, 2R",R,R,,R,D,"81D, 38R, 3I","29D, 23R",2R
+mississippi,2004,"2D, 2R",R,R,,R,R,"76D, 46R","29D, 23R",2R
+mississippi,2005,"2D, 2R",R,R,,R,R,"75D, 47R","28D, 24R",2R
+mississippi,2005,"2D, 2R",R,R,,R,R,"75D, 47R","28D, 24R",2R
+mississippi,2006,"2D, 2R",R,R,,R,R,"75D, 47R","28D, 24R",2R
+mississippi,2007,"2D, 2R",R,R,,R,R,"75D, 47R","27R, 25D",2R
+mississippi,2008,"3D, 1R",R,R,,R,R,"75D, 47R","27D, 25R",2R
+mississippi,2008,"3D, 1R",R,R,,R,R,"74D, 48R","27D, 25R",2R
+mississippi,2009,"3D, 1R",R,R,,R,R,"73D, 49R","27D, 25R",2R
+mississippi,2010,"3D, 1R",R,R,,R,R,"73D, 49R","27D, 25R",2R
+mississippi,2011,"3R, 1D",R,R,,R,R,"68D, 54R","27R, 25D",2R
+mississippi,2012,"3R, 1D",R,R,,R,R,"64R, 58D","31R, 21D",2R
+mississippi,2013,"3R, 1D",R,R,,R,R,"65R, 57D","32R, 20D",2R
+mississippi,2014,"3R, 1D",R,R,,R,R,"66R, 56D","32R, 20D",2R
+mississippi,2015,"3R, 1D",R,R,,R,R,"66R, 55D, 1 vac.","32R, 20D",2R
+mississippi,2015,"3R, 1D",R,R,,R,R,"67R, 55D","32R, 20D",2R
+mississippi,2016,"3R, 1D",R,R,,R,R,"74R, 48D","32R, 20D",2R
+mississippi,2017,"3R, 1D",R,R,,R,R,"74R, 48D","32R, 20D",2R
+missouri,1980,"8D, 2R", ,,D,R,D,"116D, 47R","23D, 11R",1D
+missouri,1981,"6D, 4R", ,, ,R,R,"111D, 52R","24D, 10R",
+missouri,1982,"6D, 4R", ,, ,R,R,"111D, 52R","24D, 10R",
+missouri,1983,"6D, 3R",R,, ,R,R,"110D, 53R","22D, 12R",1R
+missouri,1984,"6D, 3R",R,, ,R,R,"110D, 53R","22D, 12R",1R
+missouri,1984,"6D, 3R",R,, ,R,R,"110D, 53R","22D, 12R",1R
+missouri,1985,"6D, 3R",R,, ,R,R,"108D, 55R","21D, 13R",1R
+missouri,1986,"6D, 3R",R,, ,R,R,"108D, 55R","21D, 13R",1R
+missouri,1987,"5D, 4R",R,, ,R,R,"111D, 52R","21D, 13R",1R
+missouri,1988,"5D, 4R",R,, ,R,R,"111D, 52R","21D, 13R",1R
+missouri,1989,"5D, 4R", ,, ,R,R,"104D, 59R","22D, 12R",
+missouri,1990,"5D, 4R", ,, ,R,R,"104D, 59R","22D, 12R",
+missouri,1991,"6D, 3R", ,, ,R,R,"98D, 65R","23D, 11R",
+missouri,1992,"6D, 3R", ,, ,D,R,"98D, 65R","23D, 11R",
+missouri,1993,"6D, 3R", ,,R,D,D,"100D, 63R","20D, 14R",1R
+missouri,1994,"6D, 3R", ,,R,D,D,"100D, 63R","20D, 14R",1R
+missouri,1994,"6D, 3R", ,,R,D,D,"100D, 63R","20D, 14R",1R
+missouri,1995,"6D, 3R",R,,R,D,D,"87D, 76R","19D, 15R",2R
+missouri,1996,"6D, 3R",R,,R,D,D,"87D, 76R","19D, 15R",2R
+missouri,1997,"5D, 4R",R,,R,D,D,"88D, 75R","19D, 15R",2R
+missouri,1998,"5D, 4R",R,,R,D,D,"88D, 75R","19D, 15R",2R
+missouri,1999,"5D, 4R",R,, ,D,D,"85D, 78R","18D, 16R",1R
+missouri,2000,"5D, 4R",R,, ,R,D,"85D, 78R","18D, 16R",1R
+missouri,2000,"5D, 4R",R,, ,R,D,"85D, 78R","18D, 16R",1R
+missouri,2001,"5R, 4D",D,, ,R,D,"87D, 76R","18R, 16D",1D
+missouri,2002,"5R, 4D",D,, ,R,D,"87D, 76R","18R, 16D",1D
+missouri,2002,"5R, 4D",R,, ,R,D,"87D, 76R","18R, 16D",1R
+missouri,2003,"5R, 4D",R,, ,R,D,"90R, 73D","20R, 14D",1R
+missouri,2004,"5R, 4D",R,, ,R,D,"90R, 73D","20R, 14D",1R
+missouri,2005,"5R, 4D",R,, ,R,R,"97R, 66D","23R, 11D",1R
+missouri,2006,"5R, 4D",R,, ,R,R,"97R, 66D","23R, 11D",1R
+missouri,2007,"5R, 4D",D,, ,R,R,"92R, 71D","21R, 13D",1D
+missouri,2008,"5R, 4D",D,, ,R,R,"92R, 71D","21R, 13D",1D
+missouri,2009,"5R, 4D",D,, ,R,D,"89R, 74D","23R, 11D",1D
+missouri,2010,"5R, 4D",D,, ,R,D,"89R, 74D","23R, 11D",1D
+missouri,2011,"6R, 3D",D,,R,R,D,"106R, 56D, 1I","26R, 8D","1D,1R"
+missouri,2012,"6R, 3D",D,,R,R,D,"103R, 55D, 1I, 4vac","26R, 8D","1D,1R"
+missouri,2013,"6R, 2D", ,,R,R,D,"110R, 53D","24R, 10D",1R
+missouri,2014,"6R, 2D", ,,R,R,D,"108R, 52D, 3vac","23R, 9D, 2vac",1R
+missouri,2015,"6R, 2D", ,,R,R,D,"117R, 44D, 1I, 1vac","25R, 9D",1R
+missouri,2015,"6R, 2D", ,,R,R,D,"116R, 43D, 1I, 3vac","24R, 8D, 2vac",1R
+missouri,2016,"6R, 2D", ,,R,R,D,"117R, 45D, 1I","24R, 8D, 2vac",1R
+missouri,2017,"6R, 2D", ,, ,R,R,"117R, 46D","25R, 9D",
+montana,1980,"1D, 1R",D,D,,R,D,"55D, 45R","26R, 24D",2D
+montana,1981,"1D, 1R",D,D,,R,D,"57R, 43D","28R, 22D",2D
+montana,1982,"1D, 1R",D,D,,R,D,"57R, 43D","28R, 22D",2D
+montana,1983,"1D, 1R",D,D,,R,D,"55D, 45R","26R, 24D",2D
+montana,1984,"1D, 1R",D,D,,R,D,"55D, 45R","26R, 24D",2D
+montana,1985,"1D, 1R",D,D,,R,D,"50D, 50R","28D, 22R",2D
+montana,1986,"1D, 1R",D,D,,R,D,"50D, 50R","28D, 22R",2D
+montana,1987,"1D, 1R",D,D,,R,D,"51R, 49D","25D, 25R",2D
+montana,1988,"1D, 1R",D,D,,R,D,"51R, 49D","25D, 25R",2D
+montana,1989,"1D, 1R",R,D,,R,R,"52D, 48R","27R, 23D","1D,1R"
+montana,1990,"1D, 1R",R,D,,R,R,"52D, 48R","27R, 23D","1D,1R"
+montana,1991,"1D, 1R",R,D,,R,R,"61D, 39R","29D, 21R","1D,1R"
+montana,1992,"1D, 1R",R,D,,D,R,"61D, 39R","29D, 21R","1D,1R"
+montana,1993,1D,R,D,,D,R,"53R, 47D","30D, 20R","1D,1R"
+montana,1994,1D,R,D,,D,R,"53R, 47D","30D, 20R","1D,1R"
+montana,1995,1D,R,D,,D,R,"67R, 33D","31R, 19D","1D,1R"
+montana,1996,1D,R,D,,R,R,"67R, 33D","31R, 19D","1D,1R"
+montana,1997,1R,R,D,,R,R,"65R, 35D","34R, 16D","1D,1R"
+montana,1998,1R,R,D,,R,R,"65R, 35D","34R, 16D","1D,1R"
+montana,1999,1R,R,D,,R,R,"59R, 41D","32R, 18D","1D,1R"
+montana,2000,1R,R,D,,R,R,"59R, 41D","32R, 18D","1D,1R"
+montana,2001,1R,R,D,,R,R,"58R, 42D","31R, 19D","1D,1R"
+montana,2002,1R,R,D,,R,R,"58R, 42D","31R, 19D","1D,1R"
+montana,2003,1R,R,D,,R,R,"53R, 47D","29R, 21D","1D,1R"
+montana,2004,1R,R,D,,R,R,"53R, 47D","29R, 21D","1D,1R"
+montana,2005,1R,R,D,,R,D,"50D, 50R","27D, 23R","1D,1R"
+montana,2006,1R,R,D,,R,D,"50D, 50R","27D, 23R","1D,1R"
+montana,2007,1R,D,D,,R,D,"50R, 49D, 1C","26D, 24R",2D
+montana,2008,1R,D,D,,R,D,"50R, 49D, 1C","26D, 24R",2D
+montana,2009,1R,D,D,,R,D,"50D, 50R","27R, 23D",2D
+montana,2010,1R,D,D,,R,D,"50D, 50R","27R, 23D",2D
+montana,2011,1R,D,D,,R,D,"68R, 32D","28R, 22D",2D
+montana,2012,1R,D,D,,R,D,"68R, 32D","28R, 22D",2D
+montana,2013,1R,D,D,,R,D,"61R, 39D","29R, 21D",2D
+montana,2014,1R,D,D,,R,D,"61R, 39D","29R, 21D",2D
+montana,2015,1R,D,R,,R,D,"59R, 41D","29R, 21D","1D,1R"
+montana,2016,1R,D,R,,R,D,"59R, 41D","29R, 21D","1D,1R"
+montana,2017,1R,D,R,,R,D,"59R, 41D","32R, 18D","1D,1R"
+nebraska,1980,"2R, 1D",D,D,,R,R,,,2D
+nebraska,1981,3R,D,D,,R,R,,,2D
+nebraska,1982,3R,D,D,,R,R,,,2D
+nebraska,1983,3R,D,D,,R,D,,,2D
+nebraska,1984,3R,D,D,,R,D,,,2D
+nebraska,1985,3R,D,D,,R,D,,,2D
+nebraska,1986,3R,D,D,,R,D,,,2D
+nebraska,1987,3R,D,D,,R,R,,,2D
+nebraska,1987,3R,R,D,,R,R,,,"1D,1R"
+nebraska,1988,3R,R,D,,R,R,,,"1D,1R"
+nebraska,1989,"2R, 1D",D,D,,R,R,,,2D
+nebraska,1990,"2R, 1D",D,D,,R,R,,,2D
+nebraska,1991,"2R, 1D",D,D,,R,D,,,2D
+nebraska,1992,"2R, 1D",D,D,,R,D,,,2D
+nebraska,1993,"2R, 1D",D,D,,R,D,,,2D
+nebraska,1993,"2R, 1D",D,D,,R,D,,,2D
+nebraska,1994,"2R, 1D",D,D,,R,D,,,2D
+nebraska,1995,3R,D,D,,R,D,,,2D
+nebraska,1996,3R,D,D,,R,D,,,2D
+nebraska,1997,3R,D,R,,R,D,,,"1D,1R"
+nebraska,1998,3R,D,R,,R,D,,,"1D,1R"
+nebraska,1999,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2000,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2001,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2001,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2002,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2003,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2004,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2005,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2006,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2007,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2008,3R,D,R,,"R,D",R,,,"1D,1R"
+nebraska,2009,3R,D,R,,"R,D",R,,,"1D,1R"
+nebraska,2010,3R,D,R,,"R,D",R,,,"1D,1R"
+nebraska,2011,3R,D,R,,"R,D",R,,,"1D,1R"
+nebraska,2012,3R,D,R,,R,R,,,"1D,1R"
+nebraska,2013,3R,R,R,,R,R,,,2R
+nebraska,2014,3R,R,R,,R,R,,,2R
+nebraska,2014,3R,R,R,,R,R,,,2R
+nebraska,2015,"2R, 1D",R,R,,R,R,,,2R
+nebraska,2016,"2R, 1D",R,R,,R,R,,,2R
+nebraska,2017,3R,R,R,,R,R,,,2R
+nevada,1980,1D,D,,R,R,R,"26D, 14R","15D, 5R","1D,1R"
+nevada,1981,1D,D,,R,R,R,"26D, 14R","15D, 5R","1D,1R"
+nevada,1982,1D,D,,R,R,R,"26D, 14R","15D, 5R","1D,1R"
+nevada,1983,"1D, 1R",R,,R,R,D,"22D, 20R","17D, 4R",2R
+nevada,1984,"1D, 1R",R,,R,R,D,"22D, 20R","17D, 4R",2R
+nevada,1985,"1D, 1R",R,,R,R,D,"25R, 17D","13D, 8R",2R
+nevada,1986,"1D, 1R",R,,R,R,D,"25R, 17D","13D, 8R",2R
+nevada,1987,"1D, 1R",R,,D,R,D,"29D, 13R","12R, 9D","1D,1R"
+nevada,1988,"1D, 1R",R,,D,R,D,"29D, 13R","12R, 9D","1D,1R"
+nevada,1989,"1D, 1R",D,,D,R,D,"32D, 10R","13R, 8D",2D
+nevada,1990,"1D, 1R",D,,D,R,D,"32D, 10R","13R, 8D",2D
+nevada,1991,"1D, 1R",D,,D,R,D,"22D, 20R","11D, 10R",2D
+nevada,1992,"1D, 1R",D,,D,D,D,"22D, 20R","11D, 10R",2D
+nevada,1993,"1D, 1R",D,,D,D,D,"29D, 13R","11R, 10D",2D
+nevada,1994,"1D, 1R",D,,D,D,D,"29D, 13R","11R, 10D",2D
+nevada,1995,2R,D,,D,D,D,"21R, 21D","13R, 8D",2D
+nevada,1996,2R,D,,D,D,D,"21R, 21D","13R, 8D",2D
+nevada,1997,2R,D,,D,D,D,"25D, 17R","12R, 9D",2D
+nevada,1998,2R,D,,D,D,D,"25D, 17R","12R, 9D",2D
+nevada,1999,"1R, 1D",D,,D,D,R,"28D, 14R","12R, 9D",2D
+nevada,2000,"1R, 1D",D,,D,R,R,"28D, 14R","12R, 9D",2D
+nevada,2001,"1R, 1D",R,,D,R,R,"27D, 15R","12R, 9D","1D,1R"
+nevada,2002,"1R, 1D",R,,D,R,R,"27D, 15R","12R, 9D","1D,1R"
+nevada,2003,"2R, 1D",R,,D,R,R,"23D, 19R","13R, 8D","1D,1R"
+nevada,2004,"2R, 1D",R,,D,R,R,"23D, 19R","13R, 8D","1D,1R"
+nevada,2005,"2R, 1D",R,,D,R,R,"26D, 16R","12R, 9D","1D,1R"
+nevada,2005,"2R, 1D",R,,D,R,R,"26D, 16R","12R, 9D","1D,1R"
+nevada,2006,"2R, 1D",R,,D,R,R,"26D, 16R","12R, 9D","1D,1R"
+nevada,2007,"2R, 1D",R,,D,R,R,"27D, 15R","11R, 10D","1D,1R"
+nevada,2008,"2R, 1D",R,,D,D,R,"27D, 15R","11R, 10D","1D,1R"
+nevada,2009,"2D, 1R",R,,D,D,R,"28D, 14R","12D, 9R","1D,1R"
+nevada,2010,"2D, 1R",R,,D,D,R,"28D, 14R","12D, 9R","1D,1R"
+nevada,2011,"2R, 1D",R,,D,D,R,"26D, 16R","11D, 10R","1D,1R"
+nevada,2012,"2R, 1D",R,,D,D,R,"26D, 16R","11D, 10R","1D,1R"
+nevada,2013,"2R, 2D",R,,D,D,R,"27D, 15R","11D, 10R","1D,1R"
+nevada,2014,"2R, 2D",R,,D,D,R,"27D, 15R","11D, 10R","1D,1R"
+nevada,2015,"3R, 1D",R,,D,D,R,"25R, 17D","11R, 10D","1D,1R"
+nevada,2016,"3R, 1D",R,,D,D,R,"24R, 17D, 1 L","11R, 10D","1D,1R"
+new hampshire,1980,"2D,2R",,R,D,R,D,"225R, 175D","12R, 12D","1D,1R"
+new hampshire,1981,"2D,2R",,R,R,R,D,"240R, 160D","14R, 10D",2R
+new hampshire,1982,"2D,2R",,R,R,R,R,"240R, 160D","14R, 10D",2R
+new hampshire,1983,"2D,2R",,R,R,R,R,"242R, 158D","15R, 9D",2R
+new hampshire,1984,"2D,2R",,R,R,R,R,"242R, 158D","15R, 9D",2R
+new hampshire,1985,4R,,R,R,R,R,"298R, 102D","18R, 6D",2R
+new hampshire,1986,4R,,R,R,R,R,"298R, 102D","18R, 6D",2R
+new hampshire,1987,4R,,R,R,R,R,"267R, 133D","16R, 8D",2R
+new hampshire,1988,4R,,R,R,R,R,"267R, 133D","16R, 8D",2R
+new hampshire,1989,4R,,R,R,R,R,"282R, 118D","16R, 8D",2R
+new hampshire,1990,4R,,R,R,R,R,"282R, 118D","16R, 8D",2R
+new hampshire,1991,"2D,2R",,R,R,R,R,"271R, 129D","13R, 11D",2R
+new hampshire,1992,"2D,2R",,R,R,D,R,"271R, 129D","13R, 11D",2R
+new hampshire,1993,"2D,2R",,R,R,D,R,"260R, 140D","13R, 11D",2R
+new hampshire,1994,"2D,2R",,R,R,D,R,"260R, 140D","13R, 11D",2R
+new hampshire,1995,4R,,R,R,D,R,"290R, 110D","18R, 6D",2R
+new hampshire,1996,4R,,R,R,D,R,"290R, 110D","18R, 6D",2R
+new hampshire,1997,4R,,R,R,D,D,"254R, 146D","15R, 9D",2R
+new hampshire,1998,4R,,R,R,D,D,"254R, 146D","15R, 9D",2R
+new hampshire,1999,4R,,R,R,D,D,"245R, 155D","13D, 11R",2R
+new hampshire,2000,4R,,R,R,R,D,"245R, 155D","12D, 12R",2R
+new hampshire,2001,4R,,R,R,R,D,"256R, 144D","13R, 11D",2R
+new hampshire,2002,4R,,R,R,R,D,"256R, 144D","13R, 11D",2R
+new hampshire,2003,4R,,R,R,R,R,"278R, 122D","18R, 6D",2R
+new hampshire,2004,4R,,R,R,D,R,"278R, 122D","18R, 6D",2R
+new hampshire,2005,4R,,R,R,D,D,"249R, 151D","16R, 8D",2R
+new hampshire,2006,4R,,R,R,D,D,"249R, 151D","16R, 8D",2R
+new hampshire,2007,4D,,R,R,D,D,"239D, 160R, 1I","14D, 10R",2R
+new hampshire,2008,4D,,R,R,D,D,"239D, 160R, 1I","14D, 10R",2R
+new hampshire,2009,4D,,D,R,D,D,"225D, 175R","14D, 10R","1D,1R"
+new hampshire,2010,4D,,D,R,D,D,"224D, 176R","14D, 10R","1D,1R"
+new hampshire,2011,4R,,D,R,D,D,"298R, 102D","19R, 5D","1D,1R"
+new hampshire,2012,4R,,D,R,D,D,"298R, 102D","19R, 5D","1D,1R"
+new hampshire,2013,4D,,D,R,D,D,"221D, 179R","13R, 11D","1D,1R"
+new hampshire,2014,4D,,D,R,D,D,"213D, 174R, 13 VC","13R, 11D","1D,1R"
+new hampshire,2015,"2D,2R",,D,R,D,D,"239R, 160D, 1I","14R, 10D","1D,1R"
+new hampshire,2016,"2D,2R",,D,R,D,D,"239R, 160D, 1I","14R, 10D","1D,1R"
+new jersey,1980,"10D, 5R",D,D,,R,D,,"26D, 14R",2D
+new jersey,1981,"8D, 7R",D,D,,R,D,,"26D, 14R",2D
+new jersey,1982,"8D, 7R",D,D,,R,R,,"22D, 13R",2D
+new jersey,1982,"8D, 7R",R,D,,R,R,,"22D, 13R","1D,1R"
+new jersey,1983,"9D, 5R",D,D,,R,R,,"22D, 13R",2D
+new jersey,1984,"9D, 5R",D,D,,R,R,,"23D, 17R",2D
+new jersey,1985,"8D, 6R",D,D,,R,R,,"23D, 17R",2D
+new jersey,1986,"8D, 6R",D,D,,R,R,,"23D, 17R",2D
+new jersey,1987,"8D, 6R",D,D,,R,R,,"23D, 17R",2D
+new jersey,1988,"8D, 6R",D,D,,R,R,,"24D, 16R",2D
+new jersey,1989,"8D, 6R",D,D,,R,R,,"24D, 16R",2D
+new jersey,1990,"8D, 6R",D,D,,R,D,,"23D, 17R",2D
+new jersey,1991,"8D, 6R",D,D,,R,D,,"23D, 17R",2D
+new jersey,1992,"8D, 6R",D,D,,D,D,,"27R, 13D",2D
+new jersey,1993,"7D, 6R",D,D,,D,D,,"27R, 13D",2D
+new jersey,1994,"7D, 6R",D,D,,D,R,,"24R, 16D",2D
+new jersey,1995,"8R, 5D",D,D,,D,R,,"24R, 16D",2D
+new jersey,1996,"8R, 5D",D,D,,D,R,,"24R, 16D",2D
+new jersey,1997,"7R, 6D",D,D,,D,R,,"24R, 16D",2D
+new jersey,1998,"7R, 6D",D,D,,D,R,,"24R, 16D",2D
+new jersey,1999,"7D, 6R",D,D,,D,R,,"24R, 16D",2D
+new jersey,2000,"7D, 6R",D,D,,D,R,,"24R, 16D",2D
+new jersey,2001,"7D, 6R",D,D,,D,R,,"24R, 16D",2D
+new jersey,2001,"7D, 6R",D,D,,D,R,,"24R, 16D",2D
+new jersey,2002,"7D, 6R",D,D,,D,R,,"20D, 20R",2D
+new jersey,2002,"7D, 6R",D,D,,D,R,,"20D, 20R",2D
+new jersey,2002,"7D, 6R",D,D,,D,D,,"20D, 20R",2D
+new jersey,2002,"7D, 6R",D,D,,D,D,,"20D, 20R",2D
+new jersey,2003,"7D, 6R",D,D,,D,D,,"20D, 20R",2D
+new jersey,2004,"7D, 6R",D,D,,D,D,,"22D, 18R",2D
+new jersey,2004,"7D, 6R",D,D,,D,D,,"22D, 18R",2D
+new jersey,2005,"7D, 6R",D,D,,D,D,,"22D, 18R",2D
+new jersey,2006,"7D, 6R",D,D,,D,D,,"22D, 18R",2D
+new jersey,2006,"6D, 6R",D,D,,D,D,,"22D, 18R",2D
+new jersey,2006,"7D, 6R",D,D,,D,D,,"22D, 18R",2D
+new jersey,2007,"7D, 6R",D,D,,D,D,,"22D, 18R",2D
+new jersey,2008,"7D, 6R",D,D,,D,D,,"23D, 17R",2D
+new jersey,2009,"8D, 5R",D,D,,D,D,,"23D, 17R",2D
+new jersey,2010,"8D, 5R",D,D,,D,R,,"23D, 17R",2D
+new jersey,2011,"7D, 6R",D,D,,D,R,,"24D, 16R",2D
+new jersey,2012,"7D, 6R",D,D,,D,R,,"24D, 16R",2D
+new jersey,2013,"6D, 6R",D,D,,D,R,,"24D, 16R",2D
+new jersey,2013,"6D, 6R",D,R,,D,R,,"24D, 16R","1D,1R"
+new jersey,2013,"6D, 6R",D,D,,D,R,,"24D, 16R",2D
+new jersey,2014,"6R, 5D",D,D,,D,R,,"24D, 16R",2D
+new jersey,2015,"6D, 6R",D,D,,D,R,,"24D, 16R",2D
+new jersey,2016,"6D, 6R",D,D,,D,R,,"24D, 16R",2D
+new mexico,1980,"1R, 1D",R,R,,R,D,"37 Coalition, 30D, 3R","32D, 10R",2R
+new mexico,1981,2R,R,R,,R,D,"37 Coalition, 31D, 2R","22D, 20R",2R
+new mexico,1982,2R,R,R,,R,D,"37 Coalition, 31D, 2R","23D, 19R",2R
+new mexico,1983,"2R, 1D",D,R,,R,D,"46D, 24R","23D, 19R","1D,1R"
+new mexico,1984,"2R, 1D",D,R,,R,D,"47D, 23R","23D, 19R","1D,1R"
+new mexico,1985,"2R, 1D",D,R,,R,D,"36 Coalition, 33D, 1R","25 Coalition, 17D","1D,1R"
+new mexico,1986,"2R, 1D",D,R,,R,D,"36 Coalition, 33D, 1R","22R, 20D","1D,1R"
+new mexico,1986,"2R, 1D",D,R,,R,D,"36 Coalition, 33D, 1R","23 Coalition, 18R, 1D","1D,1R"
+new mexico,1987,"2R, 1D",D,R,,R,R,"47D, 23R","24 Coalition, 18R","1D,1R"
+new mexico,1988,"2R, 1D",D,R,,R,R,"46D, 24R","23 Coalition, 16D, 3R","1D,1R"
+new mexico,1989,"2R, 1D",D,R,,R,R,"45D, 25R","26D, 16R","1D,1R"
+new mexico,1990,"2R, 1D",D,R,,R,R,"45D, 25R","25D, 17R","1D,1R"
+new mexico,1991,"2R, 1D",D,R,,R,D,"49D, 21R","26D, 16R","1D,1R"
+new mexico,1992,"2R, 1D",D,R,,D,D,"49D, 21R","26D, 16R","1D,1R"
+new mexico,1993,"2R, 1D",D,R,,D,D,"53D, 17R","27D, 15R","1D,1R"
+new mexico,1994,"2R, 1D",D,R,,D,D,"53D, 17R","27D, 15R","1D,1R"
+new mexico,1995,"2R, 1D",D,R,,D,R,"46D, 24R","27D, 15R","1D,1R"
+new mexico,1996,"2R, 1D",D,R,,D,R,"46D, 24R","27D, 15R","1D,1R"
+new mexico,1997,"2R, 1D",D,R,,D,R,"42D, 28R","25D, 17R","1D,1R"
+new mexico,1997,3R,D,R,,D,R,"42D, 28R","25D, 17R","1D,1R"
+new mexico,1998,3R,D,R,,D,R,"42D, 28R","25D, 17R","1D,1R"
+new mexico,1999,"2R, 1D",D,R,,D,R,"40D, 30R","25D, 17R","1D,1R"
+new mexico,2000,"2R, 1D",D,R,,D,R,"40D, 30R","25D, 17R","1D,1R"
+new mexico,2001,"2R, 1D",D,R,,D,R,"42D, 28R","21 Coalition, 21D","1D,1R"
+new mexico,2002,"2R, 1D",D,R,,D,R,"42D, 28R","21 Coalition, 21D","1D,1R"
+new mexico,2003,"2R, 1D",D,R,,D,D,"43D, 27R","24D, 18R","1D,1R"
+new mexico,2004,"2R, 1D",D,R,,R,D,"43D, 27R","24D, 18R","1D,1R"
+new mexico,2005,"2R, 1D",D,R,,R,D,"42D, 28R","24D, 18R","1D,1R"
+new mexico,2006,"2R, 1D",D,R,,R,D,"42D, 28R","24D, 18R","1D,1R"
+new mexico,2007,"2R, 1D",D,R,,R,D,"42D, 28R","24D, 18R","1D,1R"
+new mexico,2008,"2R, 1D",D,R,,D,D,"42D, 28R","24D, 18R","1D,1R"
+new mexico,2009,3D,D,D,,D,D,"45D, 25R","23 Coalition, 19D",2D
+new mexico,2010,3D,D,D,,D,D,"45D, 25R","23 Coalition, 19D",2D
+new mexico,2011,"2D, 1R",D,D,,D,R,"36D, 33R, 1I","23 Coalition, 19D",2D
+new mexico,2012,"2D, 1R",D,D,,D,R,"36D, 33R, 1I","23 Coalition, 19D",2D
+new mexico,2013,"2D, 1R",D,D,,D,R,"38D, 32R","25D, 17R",2D
+new mexico,2014,"2D, 1R",D,D,,D,R,"37D, 33R","25D, 17R",2D
+new mexico,2015,"2D, 1R",D,D,,D,R,"37R, 33D","24D, 18R",2D
+new mexico,2016,"2D, 1R",D,D,,D,R,"37R, 33D","24D, 18R",2D
+new mexico,2017,"2D, 1R",D,D,,D,R,"38D, 32R","26D, 16R",2D
+new york,1980,"26D, 13R",D,,R,R,D,"86D, 64R","35R, 25D","1D,1R"
+new york,1981,"22D, 17R",D,,R,R,D,"85D, 64R, 1L","35R, 25D","1D,1R"
+new york,1982,"22D, 17R",D,,R,R,D,"85D, 64R, 1L","35R, 25D","1D,1R"
+new york,1983,"20D, 14R",D,,R,R,D,"98D, 52R","35R, 26D","1D,1R"
+new york,1984,"20D, 14R",D,,R,R,D,"98D, 52R","35R, 26D","1D,1R"
+new york,1985,"19D, 15R",D,,R,R,D,"92D, 56R, 2L","35R, 26D","1D,1R"
+new york,1986,"19D, 15R",D,,R,R,D,"92D, 56R, 2L","35R, 26D","1D,1R"
+new york,1987,"20D, 14R",D,,R,R,D,"92D, 58R","35R, 26D","1D,1R"
+new york,1988,"20D, 14R",D,,R,D,D,"92D, 58R","35R, 26D","1D,1R"
+new york,1989,"21D, 13R",D,,R,D,D,"92D, 58R","34R, 27D","1D,1R"
+new york,1990,"21D, 13R",D,,R,D,D,"92D, 58R","34R, 27D","1D,1R"
+new york,1991,"21D, 13R",D,,R,D,D,"95D, 55R","35R, 26D","1D,1R"
+new york,1992,"21D, 13R",D,,R,D,D,"95D, 55R","35R, 26D","1D,1R"
+new york,1993,"18D, 13R",D,,R,D,D,"100D, 50R","35R, 26D","1D,1R"
+new york,1994,"18D, 13R",D,,R,D,D,"100D, 50R","35R, 26D","1D,1R"
+new york,1995,"17D, 14R",D,,R,D,R,"95D, 55R","36R, 25D","1D,1R"
+new york,1996,"17D, 14R",D,,R,D,R,"95D, 55R","36R, 25D","1D,1R"
+new york,1997,"18D, 13R",D,,R,D,R,"95D, 55R","35R, 26D","1D,1R"
+new york,1998,"18D, 13R",D,,R,D,R,"95D, 55R","35R, 26D","1D,1R"
+new york,1999,"19D, 12R",D,,D,D,R,"98D, 52R","35R, 26D",2D
+new york,2000,"19D, 12R",D,,D,D,R,"98D, 52R","35R, 26D",2D
+new york,2001,"19D, 12R",D,,D,D,R,"98D, 52R","36R, 25D",2D
+new york,2002,"19D, 12R",D,,D,D,R,"98D, 52R","36R, 25D",2D
+new york,2003,"19D, 10R",D,,D,D,R,"102D, 48R","37R, 25D",2D
+new york,2004,"19D, 10R",D,,D,D,R,"102D, 48R","37R, 25D",2D
+new york,2005,"20D, 9R",D,,D,D,R,"104D, 46R","35R, 27D",2D
+new york,2006,"20D, 9R",D,,D,D,R,"103D, 47R","35R, 27D",2D
+new york,2007,"23D, 6R",D,,D,D,D,"106D, 42R, 1I, 1WF","33R, 29D",2D
+new york,2008,"23D, 6R",D,,D,D,D,"106D, 42R, 1I, 1WF","33R, 29D",2D
+new york,2008,"23D, 6R",D,,D,D,D,"106D, 42R, 1I, 1WF","32R, 30D",2D
+new york,2008,"23D, 6R",D,,D,D,D,"106D, 42R, 1I, 1WF","32R, 30D",2D
+new york,2009,"26D, 3R",D,,D,D,D,"107D, 41R, 1I, 1WF","32D, 30R",2D
+new york,2009,"26D, 3R",D,,D,D,D,"107D, 41R, 1I, 1WF","30R, 32D",2D
+new york,2009,"26D, 3R",D,,D,D,D,"107D, 41R, 1I, 1WF","32D, 30R",2D
+new york,2011,"21D, 8R",D,,D,D,D,"98D, 51R, 1I","32R, 30D",2D
+new york,2012,"21D, 8R",D,,D,D,D,"98D, 51R, 1I","32R, 30D",2D
+new york,2013,"21D, 6R",D,,D,D,D,"105D, 44R, 1I","37 Coalition, 26 D",2D
+new york,2014,"21D, 6R",D,,D,D,D,"105D, 44R, 1I","37 Coalition, 26 D",2D
+new york,2015,"18D, 9R",D,,D,D,D,"104D, 43R, 1I, 1WF, 1C","38 Coalition, 25 D",2D
+new york,2016,"18D, 9R",D,,D,D,D,"104D, 43R, 1I, 1WF, 1C","38 Coalition, 25 D",2D
+new york,2017,"18D, 9R",D,,D,D,D,"106D, 43R, 1I","39 Coalition, 24 D",2D
+north carolina,1980,"9D, 2R",,R,D,D,,"105D, 15R","45D, 5R","1D,1R"
+north carolina,1981,"7D, 4R",,R,R,R,,"96D, 24R","40D, 10R",2R
+north carolina,1982,"7D, 4R",,R,R,R,,"96D, 24R","40D, 10R",2R
+north carolina,1983,"9D, 2R",,R,R,R,,"102D, 18R","44D, 6R",2R
+north carolina,1984,"9D, 2R",,R,R,R,,"102D, 18R","44D, 6R",2R
+north carolina,1985,"6D, 5R",,R,R,R,,"82D, 38R","38D, 12R",2R
+north carolina,1986,"6D, 5R",,R,R,R,,"82D, 38R","38D, 12R",2R
+north carolina,1987,"8D, 3R",,R,D,R,,"81D, 39R","40D, 10R","1D,1R"
+north carolina,1988,"8D, 3R",,R,D,R,,"81D, 39R","40D, 10R","1D,1R"
+north carolina,1989,"8D, 3R",,R,D,R,,"74D, 46R","37D, 13R","1D,1R"
+north carolina,1990,"8D, 3R",,R,D,R,,"74D, 46R","37D, 13R","1D,1R"
+north carolina,1991,"7D, 4R",,R,D,R,,"81D, 39R","36D, 14R","1D,1R"
+north carolina,1992,"7D, 4R",,R,D,R,,"81D, 39R","36D, 14R","1D,1R"
+north carolina,1993,"8D, 4R",,R,R,R,,"78D, 42R","39D, 11R",2R
+north carolina,1994,"8D, 4R",,R,R,R,,"78D, 42R","39D, 11R",2R
+north carolina,1995,"8R, 4D",,R,R,R,,"68R, 52D","26D, 24R",2R
+north carolina,1996,"8R, 4D",,R,R,R,,"68R, 52D","26D, 24R",2R
+north carolina,1997,"6R, 6D",,R,R,R,,"61R, 59D","30D, 20R",2R
+north carolina,1998,"6R, 6D",,R,R,R,,"61R, 59D","30D, 20R",2R
+north carolina,1999,"7R, 5D",,R,D,R,,"66D, 54R","35D, 15R","1D,1R"
+north carolina,2000,"7R, 5D",,R,D,R,,"66D, 54R","35D, 15R","1D,1R"
+north carolina,2001,"7R, 5D",,R,D,R,,"62D, 58R","35D, 15R","1D,1R"
+north carolina,2002,"7R, 5D",,R,D,R,,"62D, 58R","35D, 15R","1D,1R"
+north carolina,2003,"7R, 6D",,R,D,R,,"60D, 60R","28D, 22R","1D,1R"
+north carolina,2004,"7R, 6D",,R,D,R,,"60D, 60R","28D, 22R","1D,1R"
+north carolina,2005,"7R, 6D",,R,R,R,,"63D, 57R","29D, 21R",2R
+north carolina,2006,"7R, 6D",,R,R,R,,"63D, 57R","29D, 21R",2R
+north carolina,2007,"7D, 6R",,R,R,R,,"68D, 52R","31D, 19R",2R
+north carolina,2008,"7D, 6R",,R,R,R,,"68D, 52R","31D, 19R",2R
+north carolina,2009,"8D, 5R",,D,R,D,,"68D, 52R","30D, 20R","1D,1R"
+north carolina,2010,"8D, 5R",,D,R,D,,"68D, 52R","30D, 20R","1D,1R"
+north carolina,2011,"7D, 6R",,D,R,D,,"67R, 52D, 1I","31R, 19D","1D,1R"
+north carolina,2012,"7D, 6R",,D,R,D,,"68R, 52D","31R, 19D","1D,1R"
+north carolina,2013,"9R, 4D",,D,R,R,,"77R, 43D","33R, 17D","1D,1R"
+north carolina,2014,"9R, 4D",,D,R,R,,"77R, 43D","33R, 17D","1D,1R"
+north carolina,2015,"10R, 3D",,R,R,R,,"74R, 45D, 1I","34R, 16D",2R
+north carolina,2016,"10R, 3D",,R,R,R,,"74R, 45D, 1I","34R, 16D",2R
+north dakota,1980,1R,Quentin N. Burdick (D-NPL),,R,R,Arthur A. Link (D-NPL),"71R, 29D-NPL","35R, 15D-NPL","2u,1c,2i,1R,1k,2n,1e,1r,1L,1B,1P,2N,1Q,1d,1D,1t"
+north dakota,1981,,Quentin N. Burdick (D-NPL),,R,R,R,"73R, 27D-NPL","40R, 10D-NPL","2u,1c,2i,1R,1k,2n,1e,1r,1L,1B,1P,2N,1Q,1d,1D,1t"
+north dakota,1982,,Quentin N. Burdick (D-NPL),,R,R,R,"73R, 27D-NPL","40R, 10D-NPL","2u,1c,2i,1R,1k,2n,1e,1r,1L,1B,1P,2N,1Q,1d,1D,1t"
+north dakota,1983,,Quentin N. Burdick (D-NPL),,R,R,R,"55D-NPL, 51R","32R, 21D-NPL","2u,1c,2i,1R,1k,2n,1e,1r,1L,1B,1P,2N,1Q,1d,1D,1t"
+north dakota,1984,,Quentin N. Burdick (D-NPL),,R,R,R,"55D-NPL, 51R","32R, 21D-NPL","2u,1c,2i,1R,1k,2n,1e,1r,1L,1B,1P,2N,1Q,1d,1D,1t"
+north dakota,1985,,Quentin N. Burdick (D-NPL),,R,R,George A. Sinner (D-NPL),"65R, 41D-NPL","29R, 24D-NPL","2u,1c,2i,1R,1k,2n,1e,1r,1L,1B,1P,2N,1Q,1d,1D,1t"
+north dakota,1986,,Quentin N. Burdick (D-NPL),,R,R,George A. Sinner (D-NPL),"65R, 41D-NPL","29R, 24D-NPL","2u,1c,2i,1R,1k,2n,1e,1r,1L,1B,1P,2N,1Q,1d,1D,1t"
+north dakota,1987,,Quentin N. Burdick (D-NPL),,Kent Conrad (D-NPL),R,George A. Sinner (D-NPL),"61R, 45D-NPL","27D-NPL, 26R","2u,1c,2i,1C,1k,1a,4n,2e,2r,2L,1K,1B,2P,1o,3N,1Q,2d,2D,2t"
+north dakota,1988,,Quentin N. Burdick (D-NPL),,Kent Conrad (D-NPL),R,George A. Sinner (D-NPL),"61R, 45D-NPL","27D-NPL, 26R","2u,1c,2i,1C,1k,1a,4n,2e,2r,2L,1K,1B,2P,1o,3N,1Q,2d,2D,2t"
+north dakota,1989,,Quentin N. Burdick (D-NPL),,Kent Conrad (D-NPL),R,George A. Sinner (D-NPL),"61R, 45D-NPL","32D-NPL, 21R","2u,1c,2i,1C,1k,1a,4n,2e,2r,2L,1K,1B,2P,1o,3N,1Q,2d,2D,2t"
+north dakota,1990,,Quentin N. Burdick (D-NPL),,Kent Conrad (D-NPL),R,George A. Sinner (D-NPL),"61R, 45D-NPL","32D-NPL, 21R","2u,1c,2i,1C,1k,1a,4n,2e,2r,2L,1K,1B,2P,1o,3N,1Q,2d,2D,2t"
+north dakota,1991,,Quentin N. Burdick (D-NPL),,Kent Conrad (D-NPL),R,George A. Sinner (D-NPL),"58R, 48D-NPL","27D-NPL, 26R","2u,1c,2i,1C,1k,1a,4n,2e,2r,2L,1K,1B,2P,1o,3N,1Q,2d,2D,2t"
+north dakota,1992,,Jocelyn Burdick (D-NPL),,Kent Conrad (D-NPL),R,George A. Sinner (D-NPL),"58R, 48D-NPL","27D-NPL, 26R","2c,1u,1i,1C,1J,3n,2e,2L,1a,1K,1B,2D,1y,2P,2N,1k,2d,2o,1l,1t,2r"
+north dakota,1992,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,George A. Sinner (D-NPL),"58R, 48D-NPL","27D-NPL, 26R","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,1993,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"65R, 33D-NPL","25D-NPL, 24R","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,1994,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"65R, 33D-NPL","25D-NPL, 24R","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,1995,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"75R, 23D-NPL","29R, 20D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,1996,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"75R, 23D-NPL","29R, 20D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,1997,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"72R, 26D-NPL","30R, 19D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,1998,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"72R, 26D-NPL","30R, 19D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,1999,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"64R, 34D-NPL","31R, 18D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2000,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"64R, 34D-NPL","31R, 18D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2001,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"69R, 29D-NPL","32R, 17D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2002,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"69R, 29D-NPL","32R, 17D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2003,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"66R, 28D-NPL","31R, 16D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2004,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"66R, 28D-NPL","31R, 16D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2005,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"67R, 27D-NPL","32R, 15D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2005,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"67R, 27D-NPL","32R, 15D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2006,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"67R, 27D-NPL","32R, 15D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2007,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"61R, 33D-NPL","26R, 21D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2007,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"61R, 33D-NPL","26R, 21D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2008,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"61R, 33D-NPL","26R, 21D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2009,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"58R, 36D-NPL","26R, 21D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2010,,Kent Conrad (D-NPL),,Byron Dorgan (D-NPL),R,R,"58R, 36D-NPL","26R, 21D-NPL","1C,2a,4n,1e,3r,2L,3D,2P,1B,1y,2N,1K,1g,1d,3o,1t"
+north dakota,2011,1R,Kent Conrad (D-NPL),,R,R,R,"69R, 25D-NPL","35R, 12D-NPL","1R,1C,1a,2n,1e,1r,1L,1D,1P,1N,1K,1d,1o,1t"
+north dakota,2012,1R,Kent Conrad (D-NPL),,R,R,R,"69R, 25D-NPL","35R, 12D-NPL","1R,1C,1a,2n,1e,1r,1L,1D,1P,1N,1K,1d,1o,1t"
+north dakota,2013,1R,Heidi Heitkamp (D-NPL),,R,R,R,"71R, 23D-NPL","33R, 14D-NPL","3i,1N,1R,2e,1L,1m,2H,1D,1P,1p,1k,1d,1a,1t"
+north dakota,2014,1R,Heidi Heitkamp (D-NPL),,R,R,R,"71R, 23D-NPL","33R, 14D-NPL","3i,1N,1R,2e,1L,1m,2H,1D,1P,1p,1k,1d,1a,1t"
+north dakota,2015,1R,Heidi Heitkamp (D-NPL),,R,R,R,"71R, 23D-NPL","32R, 15D-NPL","3i,1N,1R,2e,1L,1m,2H,1D,1P,1p,1k,1d,1a,1t"
+north dakota,2016,1R,Heidi Heitkamp (D-NPL),,R,R,R,"71R, 23D-NPL","32R, 15D-NPL","3i,1N,1R,2e,1L,1m,2H,1D,1P,1p,1k,1d,1a,1t"
+north dakota,2017,1R,Heidi Heitkamp (D-NPL),,R,R,R,"81R, 13D-NPL","38R, 9D-NPL","3i,1N,1R,2e,1L,1m,2H,1D,1P,1p,1k,1d,1a,1t"
+ohio,1980,"13R, 10D",D,,D,R,R,"63D, 36R","18D, 15R",2D
+ohio,1981,"13R, 10D",D,,D,R,R,"56D, 43R","18R, 15D",2D
+ohio,1982,"13R, 10D",D,,D,R,R,"56D, 43R","18R, 15D",2D
+ohio,1983,"11R, 10D",D,,D,R,D,"62D, 37R","17D, 16R",2D
+ohio,1984,"11R, 10D",D,,D,R,D,"62D, 37R","17D, 16R",2D
+ohio,1985,"11D, 10R",D,,D,R,D,"59D, 40R","18R, 15D",2D
+ohio,1986,"11D, 10R",D,,D,R,D,"59D, 40R","18R, 15D",2D
+ohio,1987,"11D, 10R",D,,D,R,D,"60D, 39R","18R, 15D",2D
+ohio,1988,"11D, 10R",D,,D,R,D,"60D, 39R","18R, 15D",2D
+ohio,1989,"11D, 10R",D,,D,R,D,"59D, 40R","19R, 14D",2D
+ohio,1990,"11D, 10R",D,,D,R,D,"59D, 40R","19R, 14D",2D
+ohio,1991,"11D, 10R",D,,D,R,R,"61D, 38R","21R, 12D",2D
+ohio,1992,"11D, 10R",D,,D,D,R,"61D, 38R","21R, 12D",2D
+ohio,1993,"10D, 9R",D,,D,D,R,"53D, 46R","20R, 13D",2D
+ohio,1994,"10D, 9R",D,,D,D,R,"53D, 46R","20R, 13D",2D
+ohio,1995,"13R, 6D",R,,D,D,R,"56R, 43D","20R, 13D","1D,1R"
+ohio,1996,"13R, 6D",R,,D,D,R,"56R, 43D","20R, 13D","1D,1R"
+ohio,1997,"11R, 8D",R,,D,D,R,"60R, 39D","21R, 12D","1D,1R"
+ohio,1998,"11R, 8D",R,,D,D,R,"60R, 39D","21R, 12D","1D,1R"
+ohio,1999,"11R, 8D",R,,R,D,R,"59R, 40D","21R, 12D",2R
+ohio,2000,"11R, 8D",R,,R,R,R,"59R, 40D","21R, 12D",2R
+ohio,2001,"11R, 8D",R,,R,R,R,"60R, 39D","21R, 12D",2R
+ohio,2002,"11R, 8D",R,,R,R,R,"60R, 39D","21R, 12D",2R
+ohio,2003,"12R, 6D",R,,R,R,R,"62R, 37D","22R, 11D",2R
+ohio,2004,"12R, 6D",R,,R,R,R,"62R, 37D","22R, 11D",2R
+ohio,2005,"12R, 6D",R,,R,R,R,"61R, 38D","22R, 11D",2R
+ohio,2005,"12R, 6D",R,,R,R,R,"61R, 38D","22R, 11D",2R
+ohio,2006,"12R, 6D",R,,R,R,R,"61R, 38D","22R, 11D",2R
+ohio,2007,"11R, 7D",D,,R,R,D,"53R, 46D","21R, 12D","1D,1R"
+ohio,2008,"11R, 7D",D,,R,D,D,"53R, 46D","21R, 12D","1D,1R"
+ohio,2008,"11R, 7D",D,,R,D,D,"53R, 46D","21R, 12D","1D,1R"
+ohio,2008,"11R, 7D",D,,R,D,D,"53R, 46D","21R, 12D","1D,1R"
+ohio,2009,"10D, 8R",D,,R,D,D,"53D, 46R","21R, 12D","1D,1R"
+ohio,2010,"10D, 8R",D,,R,D,D,"53D, 46R","21R, 12D","1D,1R"
+ohio,2011,"13R, 5D",D,,R,D,R,"59R, 40D","23R, 10D","1D,1R"
+ohio,2012,"13R, 5D",D,,R,D,R,"59R, 40D","23R, 10D","1D,1R"
+ohio,2013,"12R, 4D",D,,R,D,R,"60R, 39D","23R, 10D","1D,1R"
+ohio,2014,"12R, 4D",D,,R,D,R,"60R, 39D","23R, 10D","1D,1R"
+ohio,2015,"12R, 4D",D,,R,D,R,"65R, 34D","23R, 10D","1D,1R"
+ohio,2016,"12R, 4D",D,,R,R,R,"65R, 34D","23R, 10D","1D,1R"
+ohio,2017,"12R, 4D",D,,R,R,R,"66R, 33D","24R, 9D","1D,1R"
+oklahoma,1980,"5D, 1R",,D,R,R,D,"75D, 26R","39D, 9R","1D,1R"
+oklahoma,1981,"5D, 1R",,D,R,R,D,"73D, 28R","37D, 11R","1D,1R"
+oklahoma,1982,"5D, 1R",,D,R,R,D,"73D, 28R","37D, 11R","1D,1R"
+oklahoma,1983,"5D, 1R",,D,R,R,D,"76D, 25R","34D, 14R","1D,1R"
+oklahoma,1984,"5D, 1R",,D,R,R,D,"76D, 25R","34D, 14R","1D,1R"
+oklahoma,1985,"5D, 1R",,D,R,R,D,"70D, 31R","34D, 14R","1D,1R"
+oklahoma,1986,"5D, 1R",,D,R,R,D,"70D, 31R","34D, 14R","1D,1R"
+oklahoma,1987,"4D, 2R",,D,R,R,R,"70D, 31R","31D, 17R","1D,1R"
+oklahoma,1988,"4D, 2R",,D,R,R,R,"70D, 31R","31D, 17R","1D,1R"
+oklahoma,1989,"4D, 2R",,D,R,R,R,"69D, 32R","33D, 15R","1D,1R"
+oklahoma,1990,"4D, 2R",,D,R,R,R,"69D, 32R","33D, 15R","1D,1R"
+oklahoma,1991,"4D, 2R",,D,R,R,D,"69D, 32R","37D, 11R","1D,1R"
+oklahoma,1992,"4D, 2R",,D,R,R,D,"69D, 32R","37D, 11R","1D,1R"
+oklahoma,1993,"4D, 2R",,D,R,R,D,"68D, 33R","37D, 11R","1D,1R"
+oklahoma,1994,"4D, 2R",,D,R,R,D,"68D, 33R","37D, 11R","1D,1R"
+oklahoma,1994,"3R, 3D",,R,R,R,D,"68D, 33R","37D, 11R",2R
+oklahoma,1995,"5R, 1D",,R,R,R,R,"65D, 36R","35D, 13R",2R
+oklahoma,1996,"5R, 1D",,R,R,R,R,"65D, 36R","35D, 13R",2R
+oklahoma,1997,6R,,R,R,R,R,"65D, 36R","33D, 15R",2R
+oklahoma,1998,6R,,R,R,R,R,"65D, 36R","33D, 15R",2R
+oklahoma,1999,6R,,R,R,R,R,"61D, 40R","33D, 15R",2R
+oklahoma,2000,6R,,R,R,R,R,"61D, 40R","33D, 15R",2R
+oklahoma,2001,"5R, 1D",,R,R,R,R,"53D, 48R","30D, 18R",2R
+oklahoma,2002,"5R, 1D",,R,R,R,R,"53D, 48R","30D, 18R",2R
+oklahoma,2003,"4R, 1D",,R,R,R,D,"53D, 48R","28D, 20R",2R
+oklahoma,2004,"4R, 1D",,R,R,R,D,"53D, 48R","28D, 20R",2R
+oklahoma,2005,"4R, 1D",,R,R,R,D,"57R, 44D","26D, 22R",2R
+oklahoma,2005,"4R, 1D",,R,R,R,D,"57R, 44D","26D, 22R",2R
+oklahoma,2006,"4R, 1D",,R,R,R,D,"57R, 44D","25D, 23R",2R
+oklahoma,2006,"4R, 1D",,R,R,R,D,"57R, 44D","26D, 22R",2R
+oklahoma,2007,"4R, 1D",,R,R,R,D,"57R, 44D","24D, 24R",2R
+oklahoma,2008,"4R, 1D",,R,R,R,D,"57R, 44D","24D, 24R",2R
+oklahoma,2008,"4R, 1D",,R,R,R,D,"57R, 44D","24D, 24R",2R
+oklahoma,2009,"4R, 1D",,R,R,R,D,"61R, 40D","26R, 22D",2R
+oklahoma,2010,"4R, 1D",,R,R,R,D,"62R, 39D","26R, 22D",2R
+oklahoma,2011,"4R, 1D",,R,R,R,R,"70R, 31D","32R, 16D",2R
+oklahoma,2012,"4R, 1D",,R,R,R,R,"67R, 31D, 3 vac.","32R, 16D",2R
+oklahoma,2013,5R,,R,R,R,R,"72R, 29D","36R, 12D",2R
+oklahoma,2014,5R,,R,R,R,R,"72R, 29D","36R, 12D",2R
+oklahoma,2015,5R,,R,R,R,R,"72R, 29D","40R, 8D",2R
+oklahoma,2016,5R,,R,R,R,R,"71R, 30D","39R, 9D",2R
+oklahoma,2017,5R,,R,R,R,R,"75R, 26D","42R, 6D",2R
+oklahoma,2018,5R,,R,R,R,R,"75R, 26D","42R, 6D",2R
+oregon,1980,4D,,R,R,R,R,"34D, 26R","23D, 7R",2R
+oregon,1980,4D,,R,R,R,R,"34D, 26R","23D, 7R",2R
+oregon,1981,"3D, 1R",,R,R,R,R,"33D, 27R","22D, 8R",2R
+oregon,1982,"3D, 1R",,R,R,R,R,"33D, 27R","22D, 8R",2R
+oregon,1983,"3D, 2R",,R,R,R,R,"36D, 24R","21D, 9R",2R
+oregon,1984,"3D, 2R",,R,R,R,R,"36D, 24R","21D, 9R",2R
+oregon,1984,"3D, 2R",,R,R,R,R,"36D, 24R","21D, 9R",2R
+oregon,1985,"3D, 2R",,R,R,R,R,"34D, 26R","18D, 12R",2R
+oregon,1986,"3D, 2R",,R,R,R,R,"34D, 26R","18D, 12R",2R
+oregon,1987,"3D, 2R",,R,R,R,D,"34D, 26R","18D, 12R",2R
+oregon,1987,"3D, 2R",,R,R,R,D,"31D, 29R","17D, 13R",2R
+oregon,1988,"3D, 2R",,R,R,D,D,"31D, 29R","17D, 13R",2R
+oregon,1989,"3D, 2R",,R,R,D,D,"32D, 28R","19D, 11R",2R
+oregon,1990,"3D, 2R",,R,R,D,D,"32D, 28R","19D, 11R",2R
+oregon,1990,,,R,R,D,D,"32D, 28R","19D, 11R",2R
+oregon,1991,"4D, 1R",,R,R,D,D,"31R, 29D","20D, 10R",2R
+oregon,1992,"4D, 1R",,R,R,D,D,"31R, 29D","20D, 10R",2R
+oregon,1993,"4D, 1R",,R,R,D,D,"32R, 28D","16D, 14R",2R
+oregon,1994,"4D, 1R",,R,R,D,D,"32R, 28D","16D, 14R",2R
+oregon,1995,"3D, 2R",,R,R,D,D,"33R, 27D","19R, 11D",2R
+oregon,1996,"3D, 2R",,R,R,D,D,"33R, 27D","19R, 11D",2R
+oregon,1996,"3D, 2R",,R,D,D,D,"33R, 27D","19R, 11D","1D,1R"
+oregon,1997,"4D, 1R",,R,D,D,D,"31R, 29D","20R, 10D","1D,1R"
+oregon,1998,"4D, 1R",,R,D,D,D,"31R, 29D","20R, 10D","1D,1R"
+oregon,1999,"4D, 1R",,R,D,D,D,"34R, 25D, 1I","17R, 13D","1D,1R"
+oregon,2000,"4D, 1R",,R,D,D,D,"34R, 25D, 1I","17R, 13D","1D,1R"
+oregon,2001,"4D, 1R",,R,D,D,D,"32R, 27D, 1I","16R, 14D","1D,1R"
+oregon,2002,"4D, 1R",,R,D,D,D,"32R, 27D, 1I","16R, 14D","1D,1R"
+oregon,2003,"4D, 1R",,R,D,D,D,"35R, 25D","15D, 15R","1D,1R"
+oregon,2004,"4D, 1R",,R,D,D,D,"35R, 25D","15D, 15R","1D,1R"
+oregon,2005,"4D, 1R",,R,D,D,D,"33R, 27D","17D, 11R","1D,1R"
+oregon,2006,"4D, 1R",,R,D,D,D,"33R, 27D","17D, 11R","1D,1R"
+oregon,2007,"4D, 1R",,R,D,D,D,"31D, 29R","19D, 11R","1D,1R"
+oregon,2008,"4D, 1R",,R,D,D,D,"31D, 29R","19D, 11R","1D,1R"
+oregon,2008,"4D, 1R",,R,D,D,D,"31D, 29R","19D, 11R","1D,1R"
+oregon,2009,"4D, 1R",,D,D,D,D,"36D, 24R","18D, 12R",2D
+oregon,2010,"4D, 1R",,D,D,D,D,"36D, 24R","18D, 12R",2D
+oregon,2011,"4D, 1R",,D,D,D,D,"30D, 30R","16D, 14R",2D
+oregon,2012,"4D, 1R",,D,D,D,D,"30D, 30R","16D, 14R",2D
+oregon,2013,"4D, 1R",,D,D,D,D,"34D, 26R","16D, 14R",2D
+oregon,2014,"4D, 1R",,D,D,D,D,"34D, 26R","16D, 14R",2D
+oregon,2015,"4D, 1R",,D,D,D,D,"35D, 25R","18D, 12R",2D
+oregon,2015,"4D, 1R",,D,D,D,D,"35D, 25R","18D, 12R",2D
+oregon,2016,"4D, 1R",,D,D,D,D,"35D, 25R","18D, 12R",2D
+oregon,2017,"4D, 1R",,D,D,D,D,"35D, 25R","17D, 13R",2D
+pennsylvania,1980,"15D, 10R",R,,R,R,R,"102R, 101D","28D, 22R",2R
+pennsylvania,1981,"13D, 12R",R,,R,R,R,"103R, 100D","26R, 24D",2R
+pennsylvania,1982,"13D, 12R",R,,R,R,R,"103R, 100D","26R, 24D",2R
+pennsylvania,1983,"13D, 10R",R,,R,R,R,"103D, 100R","27R, 23D",2R
+pennsylvania,1984,"13D, 10R",R,,R,R,R,"103D, 100R","27R, 23D",2R
+pennsylvania,1985,"13D, 10R",R,,R,R,R,"103D, 100R","27R, 23D",2R
+pennsylvania,1986,"13D, 10R",R,,R,R,R,"103D, 100R","27R, 23D",2R
+pennsylvania,1987,"12D, 11R",R,,R,R,D,"102D, 101R","26R, 24D",2R
+pennsylvania,1988,"12D, 11R",R,,R,R,D,"102D, 101R","26R, 24D",2R
+pennsylvania,1989,"12D, 11R",R,,R,R,D,"104D, 99R","27R, 23D",2R
+pennsylvania,1990,"12D, 11R",R,,R,R,D,"104D, 99R","27R, 23D",2R
+pennsylvania,1991,"12R, 11D",R,,R,R,D,"107D, 96R","26R, 24D",2R
+pennsylvania,1991,"12R, 11D",D,,R,R,D,"107D, 96R","26R, 24D","1D,1R"
+pennsylvania,1992,"12R, 11D",D,,R,D,D,"107D, 96R","26R, 24D","1D,1R"
+pennsylvania,1993,"11D, 10R",D,,R,D,D,"105D, 98R","25D, 25R","1D,1R"
+pennsylvania,1994,"11D, 10R",D,,R,D,D,"105D, 98R","26R, 24D","1D,1R"
+pennsylvania,1995,"11D, 10R",R,,R,D,R,"102R, 101D","29R, 21D",2R
+pennsylvania,1995,"11D, 10R",R,,R,D,R,"102R, 101D","29R, 21D",2R
+pennsylvania,1996,"11D, 10R",R,,R,D,R,"102R, 101D","29R, 21D",2R
+pennsylvania,1997,"11D, 10R",R,,R,D,R,"104R, 99D","30R, 20D",2R
+pennsylvania,1998,"11D, 10R",R,,R,D,R,"104R, 99D","30R, 20D",2R
+pennsylvania,1999,"11D, 10R",R,,R,D,R,"103R, 100D","30R, 20D",2R
+pennsylvania,2000,"11D, 10R",R,,R,D,R,"103R, 100D","30R, 20D",2R
+pennsylvania,2001,"11R, 10D",R,,R,D,R,"104R, 99D","30R, 20D",2R
+pennsylvania,2001,"11R, 10D",R,,R,D,R,"104R, 99D","30R, 20D",2R
+pennsylvania,2002,"11R, 10D",R,,R,D,R,"104R, 99D","30R, 20D",2R
+pennsylvania,2003,"12R, 7D",R,,R,D,D,"109D, 94R","29R, 21D",2R
+pennsylvania,2004,"12R, 7D",R,,R,D,D,"109D, 94R","29R, 21D",2R
+pennsylvania,2004,"12R, 7D",R,,R,D,D,"109D, 94R","29R, 21D",2R
+pennsylvania,2005,"12R, 7D",R,,R,D,D,"110R, 93D","30R, 20D",2R
+pennsylvania,2006,"12R, 7D",R,,R,D,D,"110R, 93D","30R, 20D",2R
+pennsylvania,2007,"11D, 8R",D,,R,D,D,"102D, 101R","29R, 21D","1D,1R"
+pennsylvania,2008,"11D, 8R",D,,R,D,D,"102D, 101R","29R, 21D","1D,1R"
+pennsylvania,2008,"11D, 8R",D,,R,D,D,"102D, 101R","29R, 21D","1D,1R"
+pennsylvania,2009,"12D, 7R",D,,R,D,D,"104D, 99R","30R, 20D","1D,1R"
+pennsylvania,2009,"12D, 7R",D,,D,D,D,"104D, 99R","30R, 20D",2D
+pennsylvania,2010,"12D, 7R",D,,D,D,D,"104D, 99R","30R, 20D",2D
+pennsylvania,2011,"12R, 7D",D,,R,D,R,"112R, 91D","30R, 20D","1D,1R"
+pennsylvania,2012,"12R, 7D",D,,R,D,R,"112R, 91D","30R, 20D","1D,1R"
+pennsylvania,2013,"13R, 5D",D,,R,D,R,"111R, 92D","27R, 23D","1D,1R"
+pennsylvania,2014,"13R, 5D",D,,R,D,R,"111R, 92D","27R, 23D","1D,1R"
+pennsylvania,2015,"13R, 5D",D,,R,D,D,"120R, 83D","30R, 20D","1D,1R"
+pennsylvania,2016,"13R, 5D",D,,R,Donald Trump and Mike Pence (R ) Y,D,"119R, 84D","31R, 19D","1D,1R"
+pennsylvania,2016,"13R, 5D",D,,R,Donald Trump and Mike Pence (R ) Y,D,"119R, 84D","31R, 19D","1D,1R"
+pennsylvania,2017,"13R, 5D",D,,R,Donald Trump and Mike Pence (R ) Y,D,"121R, 82D","34R, 16D","1D,1R"
+rhode island,1980,2D,R,D,,D,D,"84D, 16R","45D, 5R","1D,1R"
+rhode island,1981,"1D,1R",R,D,,D,D,"82D, 18R","43D, 7R","1D,1R"
+rhode island,1982,"1D,1R",R,D,,D,D,"82D, 18R","43D, 7R","1D,1R"
+rhode island,1983,"1D,1R",R,D,,D,D,"86D, 14R","43D, 7R","1D,1R"
+rhode island,1984,"1D,1R",R,D,,R,D,"86D, 14R","29D, 21R","1D,1R"
+rhode island,1985,"1D,1R",R,D,,R,R,"76D, 23R, 1I","36D, 14R","1D,1R"
+rhode island,1986,"1D,1R",R,D,,R,R,"76D, 23R, 1I","36D, 14R","1D,1R"
+rhode island,1987,"1D,1R",R,D,,R,R,"80D, 20R","38D, 12R","1D,1R"
+rhode island,1988,"1D,1R",R,D,,D,R,"80D, 20R","38D, 12R","1D,1R"
+rhode island,1989,2R,R,D,,D,R,"86D, 14R","41D, 9R","1D,1R"
+rhode island,1990,2R,R,D,,D,R,"86D, 14R","41D, 9R","1D,1R"
+rhode island,1991,"1D,1R",R,D,,D,D,"89D, 11R","45D, 5R","1D,1R"
+rhode island,1992,"1D,1R",R,D,,D,D,"89D, 11R","45D, 5R","1D,1R"
+rhode island,1993,"1D,1R",R,D,,D,D,"85D, 15R","39D, 11R","1D,1R"
+rhode island,1994,"1D,1R",R,D,,D,D,"85D, 15R","39D, 11R","1D,1R"
+rhode island,1995,2D,R,D,,D,R,"84D, 16R","40D, 10R","1D,1R"
+rhode island,1996,2D,R,D,,D,R,"84D, 16R","40D, 10R","1D,1R"
+rhode island,1997,2D,R,D,,D,R,"84D, 16R","41D, 9R","1D,1R"
+rhode island,1998,2D,R,D,,D,R,"84D, 16R","41D, 9R","1D,1R"
+rhode island,1999,2D,R,D,,D,R,"86D, 13R, 1I","42D, 8R","1D,1R"
+rhode island,2000,2D,R,D,,D,R,"86D, 13R, 1I","42D, 8R","1D,1R"
+rhode island,2001,2D,R,D,,D,R,"85D, 15R","44D, 6R","1D,1R"
+rhode island,2002,2D,R,D,,D,R,"85D, 15R","44D, 6R","1D,1R"
+rhode island,2003,2D,R,D,,D,R,"63D, 11R, 1I","32D, 6R","1D,1R"
+rhode island,2004,2D,R,D,,D,R,"63D, 11R, 1I","32D, 6R","1D,1R"
+rhode island,2005,2D,R,D,,D,R,"59D, 16R","33D, 5R","1D,1R"
+rhode island,2006,2D,R,D,,D,R,"59D, 16R","33D, 5R","1D,1R"
+rhode island,2007,2D,D,D,,D,R,"60D, 15R","33D, 5R",2D
+rhode island,2008,2D,D,D,,D,R,"60D, 15R","33D, 5R",2D
+rhode island,2009,2D,D,D,,D,R,"69D, 6R","33D, 4R, 1I",2D
+rhode island,2010,2D,D,D,,D,R,"69D, 6R","33D, 4R, 1I",2D
+rhode island,2011,2D,D,D,,D,I,"65D, 10R","29D, 8R, 1I",2D
+rhode island,2012,2D,D,D,,D,I,"65D, 9R, 1Lib","29D, 8R, 1I",2D
+rhode island,2013,2D,D,D,,D,I,"69D, 6R","32D, 5R, 1I",2D
+rhode island,2013,2D,D,D,,D,D,"69D, 6R","32D, 5R, 1I",2D
+rhode island,2014,2D,D,D,,D,D,"69D, 6R","32D, 5R, 1I",2D
+rhode island,2015,2D,D,D,,D,D,"63D, 11R, 1I","32D, 5R, 1I",2D
+rhode island,2016,2D,D,D,,D,D,"62D, 12R, 1I","32D, 5R, 1I",2D
+rhode island,2017,2D,D,D,,D,D,"64D, 11R","33D, 5R",2D
+south carolina,1980,"4D, 2R",,R,D,D,D,"108D, 16R","42D, 4R","1D,1R"
+south carolina,1981,"4R, 2D",,R,D,R,D,"108D, 16R","39D, 7R","1D,1R"
+south carolina,1982,"4R, 2D",,R,D,R,D,"108D, 16R","39D, 7R","1D,1R"
+south carolina,1983,"3D, 3R",,R,D,R,D,"105D, 19R","39D, 7R","1D,1R"
+south carolina,1984,"3D, 3R",,R,D,R,D,"105D, 19R","39D, 7R","1D,1R"
+south carolina,1985,"3D, 3R",,R,D,R,D,"96D, 28R","36D, 10R","1D,1R"
+south carolina,1986,"3D, 3R",,R,D,R,D,"96D, 28R","36D, 10R","1D,1R"
+south carolina,1987,"4D, 2R",,R,D,R,R,"92D, 32R","36D, 10R","1D,1R"
+south carolina,1988,"4D, 2R",,R,D,R,R,"92D, 32R","36D, 10R","1D,1R"
+south carolina,1989,"4D, 2R",,R,D,R,R,"88D, 36R","35D, 11R","1D,1R"
+south carolina,1990,"4D, 2R",,R,D,R,R,"88D, 36R","35D, 11R","1D,1R"
+south carolina,1991,"4D, 2R",,R,D,R,R,"80D, 44R","35D, 11R","1D,1R"
+south carolina,1992,"4D, 2R",,R,D,R,R,"80D, 44R","35D, 11R","1D,1R"
+south carolina,1993,"3D, 3R",,R,D,R,R,"74D, 50R","30D, 16R","1D,1R"
+south carolina,1994,"3D, 3R",,R,D,R,R,"74D, 50R","30D, 16R","1D,1R"
+south carolina,1995,"4R, 2D",,R,D,R,R,"70R, 54D","26D, 20R","1D,1R"
+south carolina,1996,"4R, 2D",,R,D,R,R,"70R, 54D","26D, 20R","1D,1R"
+south carolina,1997,"4R, 2D",,R,D,R,R,"71R, 53D","25D, 21R","1D,1R"
+south carolina,1998,"4R, 2D",,R,D,R,R,"71R, 53D","25D, 21R","1D,1R"
+south carolina,1999,"4R, 2D",,R,D,R,D,"67R, 57D","25D, 21R","1D,1R"
+south carolina,2000,"4R, 2D",,R,D,R,D,"67R, 57D","25D, 21R","1D,1R"
+south carolina,2001,"4R, 2D",,R,D,R,D,"71R, 53D","25R, 21D","1D,1R"
+south carolina,2002,"4R, 2D",,R,D,R,D,"71R, 53D","25R, 21D","1D,1R"
+south carolina,2003,"4R, 2D",,R,D,R,R,"73R, 51D","26R, 20D","1D,1R"
+south carolina,2004,"4R, 2D",,R,D,R,R,"73R, 51D","26R, 20D","1D,1R"
+south carolina,2005,"4R, 2D",,R,R,R,R,"74R, 50D","26R, 20D",2R
+south carolina,2006,"4R, 2D",,R,R,R,R,"74R, 50D","26R, 20D",2R
+south carolina,2007,"4R, 2D",,R,R,R,R,"73R, 51D","26R, 20D",2R
+south carolina,2007,"4R, 2D",,R,R,R,R,"73R, 51D","26R, 19D",2R
+south carolina,2007,"4R, 2D",,R,R,R,R,"73R, 51D","27R, 19D",2R
+south carolina,2008,"4R, 2D",,R,R,R,R,"73R, 51D","27R, 19D",2R
+south carolina,2009,"4R, 2D",,R,R,R,R,"73R, 51D","27R, 19D",2R
+south carolina,2010,"4R, 2D",,R,R,R,R,"73R, 51D","27R, 19D",2R
+south carolina,2011,"5R, 1D",,R,R,R,R,"76R, 48D","27R, 19D",2R
+south carolina,2012,"5R, 1D",,R,R,R,R,"76R, 48D","27R, 19D",2R
+south carolina,2012,"5R, 1D",,R,R,R,R,"76R, 48D","27R, 19D",2R
+south carolina,2013,"6R, 1D",,R,R,R,R,"78R, 46D","28R, 18D",2R
+south carolina,2014,"6R, 1D",,R,R,R,R,"78R, 46D","28R, 18D",2R
+south carolina,2014,"6R, 1D",,R,R,R,R,"78R, 46D","28R, 18D",2R
+south carolina,2015,"6R, 1D",,R,R,R,R,"78R, 46D","28R, 17D 1V",2R
+south dakota,1980,"1D, 1R",,R,D,R,R,"48R, 22D","24R, 11D","1D,1R"
+south dakota,1981,"1D, 1R",,R,R,R,R,"49R, 21D","25R, 10D",2R
+south dakota,1982,"1D, 1R",,R,R,R,R,"49R, 21D","25R, 10D",2R
+south dakota,1983,1D,,R,R,R,R,"52R, 18D","26R, 9D",2R
+south dakota,1984,1D,,R,R,R,R,"52R, 18D","26R, 9D",2R
+south dakota,1985,1D,,R,R,R,R,"57R, 13D","25R, 10D",2R
+south dakota,1986,1D,,R,R,R,R,"57R, 13D","25R, 10D",2R
+south dakota,1987,1D,,R,D,R,R,"48R, 22D","24R, 11D","1D,1R"
+south dakota,1988,1D,,R,D,R,R,"48R, 22D","24R, 11D","1D,1R"
+south dakota,1989,1D,,R,D,R,R,"46R, 24D","20R, 15D","1D,1R"
+south dakota,1990,1D,,R,D,R,R,"46R, 24D","20R, 15D","1D,1R"
+south dakota,1991,1D,,R,D,R,R,"45R, 25D","18R, 17D","1D,1R"
+south dakota,1992,1D,,R,D,R,R,"45R, 25D","18R, 17D","1D,1R"
+south dakota,1993,1D,,R,D,R,R,"41R, 29D","20D, 15R","1D,1R"
+south dakota,1994,1D,,R,D,R,R,"41R, 29D","20D, 15R","1D,1R"
+south dakota,1995,1D,,R,D,R,R,"45R, 24D, 1I","19R, 16D","1D,1R"
+south dakota,1996,1D,,R,D,R,R,"45R, 24D, 1I","19R, 16D","1D,1R"
+south dakota,1997,1R,,D,D,R,R,"47R, 23D","22R, 13D",2D
+south dakota,1998,1R,,D,D,R,R,"47R, 23D","22R, 13D",2D
+south dakota,1999,1R,,D,D,R,R,"52R, 18D","22R, 13D",2D
+south dakota,2000,1R,,D,D,R,R,"52R, 18D","22R, 13D",2D
+south dakota,2001,1R,,D,D,R,R,"50R, 20D","24R, 11D",2D
+south dakota,2002,1R,,D,D,R,R,"50R, 20D","24R, 11D",2D
+south dakota,2003,1R,,D,D,R,R,"49R, 21D","26R, 9D",2D
+south dakota,2004,1D,,D,D,R,R,"49R, 21D","26R, 9D",2D
+south dakota,2005,1D,,D,R,R,R,"51R, 19D","25R, 10D","1D,1R"
+south dakota,2006,1D,,D,R,R,R,"51R, 19D","25R, 10D","1D,1R"
+south dakota,2007,1D,,D,R,R,R,"50R, 20D","20R, 15D","1D,1R"
+south dakota,2008,1D,,D,R,R,R,"50R, 20D","20R, 15D","1D,1R"
+south dakota,2009,1D,,D,R,R,R,"46R, 24D","21R, 14D","1D,1R"
+south dakota,2010,1D,,D,R,R,R,"46R, 24D","21R, 14D","1D,1R"
+south dakota,2011,1R,,D,R,R,R,"50R, 19D, 1I","30R, 5D","1D,1R"
+south dakota,2012,1R,,D,R,R,R,"50R, 19D, 1I","30R, 5D","1D,1R"
+south dakota,2013,1R,,D,R,R,R,"53R, 17D","28R, 7D","1D,1R"
+south dakota,2014,1R,,D,R,R,R,"53R, 17D","28R, 7D","1D,1R"
+south dakota,2015,1R,,R,R,R,R,"58R, 12D","27R, 8D",2R
+south dakota,2016,1R,,R,R,R,R,"58R, 12D","27R, 8D",2R
+south dakota,2017,1R,,R,R,R,R,"60R, 10D","29R, 6D",2R
+tennessee,1980,"5D, 3R",D,R,,R,R,"60D, 38R, 1I","20D, 12R, 1I","1D,1R"
+tennessee,1981,"5D, 3R",D,R,,R,R,"58D, 39R, 2I","20D, 12R, 1I","1D,1R"
+tennessee,1982,"5D, 3R",D,R,,R,R,"58D, 39R, 2I","21D, 11R, 1I","1D,1R"
+tennessee,1983,"6D, 3R",D,R,,R,R,"60D, 38R, 1I","21D, 11R, 1I","1D,1R"
+tennessee,1984,"6D, 3R",D,R,,R,R,"60D, 38R, 1I","22D, 11R","1D,1R"
+tennessee,1985,"6D, 3R",D,D,,R,R,"62D, 37R","23D, 10R",2D
+tennessee,1986,"6D, 3R",D,D,,R,R,"62D, 37R","23D, 10R",2D
+tennessee,1987,"6D, 3R",D,D,,R,D,"61D, 38R","23D, 10R",2D
+tennessee,1988,"6D, 3R",D,D,,R,D,"61D, 38R","23D, 10R",2D
+tennessee,1989,"6D, 3R",D,D,,R,D,"59D, 40R","22D, 11R",2D
+tennessee,1990,"6D, 3R",D,D,,R,D,"59D, 40R","22D, 11R",2D
+tennessee,1991,"6D, 3R",D,D,,R,D,"55D, 44R","20D, 13R",2D
+tennessee,1992,"6D, 3R",D,D,,D,D,"55D, 44R","20D, 13R",2D
+tennessee,1993,"6D, 3R",D,D,,D,D,"64D, 35R","19D, 14R",2D
+tennessee,1994,"6D, 3R",D,D,,D,D,"64D, 35R","19D, 14R",2D
+tennessee,1994,"6D, 3R",D,R,,D,D,"64D, 35R","19D, 14R","1D,1R"
+tennessee,1995,"5R, 4D",R,R,,D,R,"59D, 40R","18D, 15R",2R
+tennessee,1996,"5R, 4D",R,R,,D,R,"59D, 40R","17R, 16D",2R
+tennessee,1997,"5R, 4D",R,R,,D,R,"61D, 38R","18D, 15R",2R
+tennessee,1998,"5R, 4D",R,R,,D,R,"61D, 38R","18D, 15R",2R
+tennessee,1999,"5R, 4D",R,R,,D,R,"59D, 40R","18D, 15R",2R
+tennessee,2000,"5R, 4D",R,R,,R,R,"59D, 40R","18D, 15R",2R
+tennessee,2001,"5R, 4D",R,R,,R,R,"58D, 41R","18D, 15R",2R
+tennessee,2002,"5R, 4D",R,R,,R,R,"58D, 41R","18D, 15R",2R
+tennessee,2003,"5D, 4R",R,R,,R,D,"54D, 45R","18D, 15R",2R
+tennessee,2004,"5D, 4R",R,R,,R,D,"54D, 45R","18D, 15R",2R
+tennessee,2005,"5D, 4R",R,R,,R,D,"53D, 46R","17R, 16D",2R
+tennessee,2006,"5D, 4R",R,R,,R,D,"53D, 46R","17R, 16D",2R
+tennessee,2007,"5D, 4R",R,R,,R,D,"53D, 46R","17R, 16D",2R
+tennessee,2007,"5D, 4R",R,R,,R,D,"53D, 46R","16R, 16D, 1I",2R
+tennessee,2007,"5D, 4R",R,R,,R,D,"53D, 46R","16R, 15D, 1I",2R
+tennessee,2007,"5D, 4R",R,R,,R,D,"53D, 46R","16R, 16D, 1I",2R
+tennessee,2008,"5D, 4R",R,R,,R,D,"53D, 46R","16R, 16D, 1I",2R
+tennessee,2009,"5D, 4R",R,R,,R,D,"50R, 49D","19R, 14D",2R
+tennessee,2009,"5D, 4R",R,R,,R,D,"49R, 49D, 1CCR","19R, 14D",2R
+tennessee,2010,"5D, 4R",R,R,,R,D,"50R, 48D, 1I","19R, 14D",2R
+tennessee,2011,"7R, 2D",R,R,,R,R,"64R, 34D, 1I","20R, 13D",2R
+tennessee,2012,"7R, 2D",R,R,,R,R,"64R, 34D, 1I","20R, 13D",2R
+tennessee,2013,"7R, 2D",R,R,,R,R,"71R, 27D, 1I","26R, 7D",2R
+tennessee,2014,"7R, 2D",R,R,,R,R,"71R, 27D, 1I","26R, 7D",2R
+tennessee,2015,"7R, 2D",R,R,,R,R,"73R, 26D","28R, 5D",2R
+tennessee,2016,"7R, 2D",R,R,,R,R,"73R, 26D","28R, 5D",2R
+tennessee,2017,"7R, 2D",R,R,,R,R,"74R, 25D","28R, 5D",2R
+texas,1980,"20D, 4R",D,R,,R,R,"127D, 23R","27D, 4R","1D,1R"
+texas,1981,"19D, 5R",D,R,,R,R,"113D, 37R","24D, 7R","1D,1R"
+texas,1982,"19D, 5R",D,R,,R,R,"113D, 37R","24D, 7R","1D,1R"
+texas,1983,"21D, 6R",D,R,,R,D,"113D, 37R","26D, 5R","1D,1R"
+texas,1984,"21D, 6R",D,R,,R,D,"113D, 37R","26D, 5R","1D,1R"
+texas,1985,"17D, 10R",D,R,,R,D,"95D, 55R","25D, 6R","1D,1R"
+texas,1986,"17D, 10R",D,R,,R,D,"95D, 55R","25D, 6R","1D,1R"
+texas,1987,"17D, 10R",D,R,,R,R,"90D, 60R","25D, 6R","1D,1R"
+texas,1988,"17D, 10R",D,R,,R,R,"90D, 60R","25D, 6R","1D,1R"
+texas,1989,"19D, 8R",D,R,,R,R,"91D, 59R","23D, 8R","1D,1R"
+texas,1990,"19D, 8R",D,R,,R,R,"91D, 59R","23D, 8R","1D,1R"
+texas,1991,"19D, 8R",D,R,,R,D,"90D, 60R","22D, 9R","1D,1R"
+texas,1992,"19D, 8R",D,R,,R,D,"90D, 60R","22D, 9R","1D,1R"
+texas,1993,"21D, 9R",D,R,,R,D,"91D, 59R","18D, 13R","1D,1R"
+texas,1993,"21D, 9R",R,R,,R,D,"91D, 59R","18D, 13R",2R
+texas,1994,"21D, 9R",R,R,,R,D,"91D, 59R","18D, 13R",2R
+texas,1995,"18D, 12R",R,R,,R,R,"87D, 63R","17D, 14R",2R
+texas,1996,"18D, 12R",R,R,,R,R,"87D, 63R","17D, 14R",2R
+texas,1997,"17D, 13R",R,R,,R,R,"82D, 68R","17R, 14D",2R
+texas,1998,"17D, 13R",R,R,,R,R,"82D, 68R","17R, 14D",2R
+texas,1999,"17D, 13R",R,R,,R,R,"78D, 72R","16R, 15D",2R
+texas,2000,"17D, 13R",R,R,,R,R,"78D, 72R","16R, 15D",2R
+texas,2000,"17D, 13R",R,R,,R,R,"78D, 72R","16R, 15D",2R
+texas,2001,"17D, 13R",R,R,,R,R,"78D, 72R","16R, 15D",2R
+texas,2002,"17D, 13R",R,R,,R,R,"78D, 72R","16R, 15D",2R
+texas,2002,"17D, 13R",R,R,,R,R,"78D, 72R","16R, 15D",2R
+texas,2003,"17D, 15R",R,R,,R,R,"88R, 62D","19R, 12D",2R
+texas,2004,"17D, 15R",R,R,,R,R,"88R, 62D","19R, 12D",2R
+texas,2005,"21R, 11D",R,R,,R,R,"86R, 64D","19R, 12D",2R
+texas,2006,"21R, 11D",R,R,,R,R,"86R, 64D","19R, 12D",2R
+texas,2007,"19R, 13D",R,R,,R,R,"80R, 69D","20R, 11D",2R
+texas,2007,"19R, 13D",R,R,,R,R,"81R, 69D","20R, 11D",2R
+texas,2008,"19R, 13D",R,R,,R,R,"77R, 71D","20R, 11D",2R
+texas,2009,"20R, 12D",R,R,,R,R,"76R, 74D","19R, 12D",2R
+texas,2010,"20R, 12D",R,R,,R,R,"76R, 74D","19R, 12D",2R
+texas,2011,"23R, 9D",R,R,,R,R,"101R, 49D","19R, 12D",2R
+texas,2012,"23R, 9D",R,R,,R,R,"101R, 49D","19R, 12D",2R
+texas,2013,"24R, 12D",R,R,,R,R,"95R, 55D","19R, 12D",2R
+texas,2014,"24R, 12D",R,R,,R,R,"95R, 55D","19R, 12D",2R
+texas,2015,"25R, 11D",R,R,,R,R,"98R, 52D","20R, 11D",2R
+texas,2016,"25R, 11D",R,R,,R,R,"99R, 50D, 1I","20R, 11D",2R
+texas,2017,"25R, 11D",R,R,,R,R,"95R, 55D","20R, 11D",2R
+utah,1980,"1D, 1R",R,,R,R,D,"51R, 24D","19R, 10D",2R
+utah,1981,2R,R,,R,R,D,"58R, 17D","22R, 7D",2R
+utah,1982,2R,R,,R,R,D,"58R, 17D","22R, 7D",2R
+utah,1983,3R,R,,R,R,D,"59R, 16D","24R, 5D",2R
+utah,1984,3R,R,,R,R,D,"59R, 16D","24R, 5D",2R
+utah,1985,3R,R,,R,R,R,"62R, 13D","23R, 6D",2R
+utah,1986,3R,R,,R,R,R,"62R, 13D","23R, 6D",2R
+utah,1987,"2R, 1D",R,,R,R,R,"48R, 27D","21R, 8D",2R
+utah,1988,"2R, 1D",R,,R,R,R,"48R, 27D","21R, 8D",2R
+utah,1989,"2R, 1D",R,,R,R,R,"47R, 28D","22R, 7D",2R
+utah,1990,"2R, 1D",R,,R,R,R,"47R, 28D","22R, 7D",2R
+utah,1991,"2D, 1R",R,,R,R,R,"44R, 31D","19R, 10D",2R
+utah,1992,"2D, 1R",R,,R,R,R,"44R, 31D","19R, 10D",2R
+utah,1993,"2D, 1R",R,,R,R,R,"49R, 26D","18R, 11D",2R
+utah,1994,"2D, 1R",R,,R,R,R,"49R, 26D","18R, 11D",2R
+utah,1995,"2R, 1D",R,,R,R,R,"55R, 20D","19R, 10D",2R
+utah,1995,"2R, 1D",R,,R,R,R,"55R, 20D","19R, 10D",2R
+utah,1996,"2R, 1D",R,,R,R,R,"55R, 20D","19R, 10D",2R
+utah,1997,3R,R,,R,R,R,"55R, 20D","20R, 9D",2R
+utah,1998,3R,R,,R,R,R,"55R, 20D","20R, 9D",2R
+utah,1999,3R,R,,R,R,R,"54R, 21D","18R, 11D",2R
+utah,2000,3R,R,,R,R,R,"54R, 21D","18R, 11D",2R
+utah,2001,"2R, 1D",R,,R,R,R,"51R, 24D","20R, 9D",2R
+utah,2002,"2R, 1D",R,,R,R,R,"51R, 24D","20R, 9D",2R
+utah,2003,"2R, 1D",R,,R,R,R,"56R, 19D","22R, 7D",2R
+utah,2004,"2R, 1D",R,,R,R,R,"56R, 19D","22R, 7D",2R
+utah,2005,"2R, 1D",R,,R,R,R,"56R, 19D","21R, 8D",2R
+utah,2006,"2R, 1D",R,,R,R,R,"56R, 19D","21R, 8D",2R
+utah,2007,"2R, 1D",R,,R,R,R,"55R, 20D","21R, 8D",2R
+utah,2008,"2R, 1D",R,,R,R,R,"55R, 20D","21R, 8D",2R
+utah,2009,"2R, 1D",R,,R,R,R,"53R, 22D","21R, 8D",2R
+utah,2010,"2R, 1D",R,,R,R,R,"53R, 22D","21R, 8D",2R
+utah,2011,"2R, 1D",R,,R,R,R,"58R, 17D","22R, 7D",2R
+utah,2012,"2R, 1D",R,,R,R,R,"58R, 17D","22R, 7D",2R
+utah,2013,"3R, 1D",R,,R,R,R,"61R, 14D","24R, 5D",2R
+utah,2014,"3R, 1D",R,,R,R,R,"61R, 14D","24R, 5D",2R
+utah,2015,4R,R,,R,R,R,"63R, 12D","24R, 5D",2R
+utah,2016,4R,R,,R,R,R,"63R, 12D","24R, 5D",2R
+utah,2017,4R,R,,R,R,R,"62R, 13D","24R, 5D",2R
+vermont,1980,1R,R,,D,R,R,"79R, 69D, 2I","20R, 10D","1D,1R"
+vermont,1981,1R,R,,D,R,R,"84R, 63D, 2I, 1?","16R, 14D","1D,1R"
+vermont,1982,1R,R,,D,R,R,"84R, 63D, 2I, 1?","16R, 14D","1D,1R"
+vermont,1983,1R,R,,D,R,R,"84R, 65D, 1I","17R, 13D","1D,1R"
+vermont,1984,1R,R,,D,R,R,"84R, 65D, 1I","17R, 13D","1D,1R"
+vermont,1985,1R,R,,D,R,D,"77R, 72D, 1I","18D, 12R","1D,1R"
+vermont,1986,1R,R,,D,R,D,"77R, 72D, 1I","18D, 12R","1D,1R"
+vermont,1987,1R,R,,D,R,D,"75D, 74R, 1I","18D, 12R","1D,1R"
+vermont,1988,1R,R,,D,R,D,"75D, 74R, 1I","18D, 12R","1D,1R"
+vermont,1989,1R,R,,D,R,D,"76D, 74R","16D, 14R","1D,1R"
+vermont,1990,1R,R,,D,R,D,"76D, 74R","16D, 14R","1D,1R"
+vermont,1991,1I,R,,D,R,R,"75R, 73D, 2VP","15D, 15R","1D,1R"
+vermont,1992,1I,R,,D,D,D,"75R, 73D, 2VP","15D, 15R","1D,1R"
+vermont,1993,1I,R,,D,D,D,"87D, 57R, 4I, 2VP","16R, 14D","1D,1R"
+vermont,1994,1I,R,,D,D,D,"87D, 57R, 4I, 2VP","16R, 14D","1D,1R"
+vermont,1995,1I,R,,D,D,D,"86D, 61R, 2VP, 1I","18R, 12D","1D,1R"
+vermont,1996,1I,R,,D,D,D,"86D, 61R, 2VP, 1I","18R, 12D","1D,1R"
+vermont,1997,1I,R,,D,D,D,"89D, 57R, 3VP, 1I","17D, 13R","1D,1R"
+vermont,1998,1I,R,,D,D,D,"89D, 57R, 3VP, 1I","17D, 13R","1D,1R"
+vermont,1999,1I,R,,D,D,D,"77D, 66R, 4VP, 2I, 1 Lib.","17D, 13R","1D,1R"
+vermont,2000,1I,R,,D,D,D,"77D, 66R, 4VP, 2I, 1 Lib.","17D, 13R","1D,1R"
+vermont,2001,1I,I,,D,D,D,"83R, 62D, 4VP, 1I","16D, 14R","1I,1D"
+vermont,2002,1I,I,,D,D,D,"82R, 63D, 4VP, 1I","16D, 14R","1I,1D"
+vermont,2003,1I,I,,D,D,R,"73R, 70D, 4VP, 3I","19D, 11R","1I,1D"
+vermont,2004,1I,I,,D,D,R,"73R, 70D, 4VP, 3I","19D, 11R","1I,1D"
+vermont,2005,1I,I,,D,D,R,"83D, 60R, 6VP, 1I","21D, 9R","1I,1D"
+vermont,2006,1I,I,,D,D,R,"83D, 60R, 6VP, 1I","21D, 9R","1I,1D"
+vermont,2007,1D,I,,D,D,R,"93D, 49R, 6VP, 2I","23D, 7R","1I,1D"
+vermont,2008,1D,I,,D,D,R,"93D, 49R, 6VP, 2I","23D, 7R","1I,1D"
+vermont,2009,1D,I,,D,D,R,"95D, 48R, 5VP, 2I","23D, 7R","1I,1D"
+vermont,2010,1D,I,,D,D,R,"95D, 48R, 5VP, 2I","23D, 7R","1I,1D"
+vermont,2011,1D,I,,D,D,D,"94D, 48R, 5VP, 3I","20D, 8R, 2VP","1I,1D"
+vermont,2012,1D,I,,D,D,D,"94D, 48R, 5VP, 3I","20D, 8R, 2VP","1I,1D"
+vermont,2013,1D,I,,D,D,D,"96D, 45R, 5VP, 4I","20D, 7R, 3VP","1I,1D"
+vermont,2014,1D,I,,D,D,D,"96D, 45R, 5VP, 4I","20D, 7R, 3VP","1I,1D"
+vermont,2015,1D,I,,D,D,D,"85D, 53R, 6VP, 6I","18D, 9R, 3VP","1I,1D"
+vermont,2016,1D,I,,D,D,D,"85D, 53R, 6VP, 6I","18D, 9R, 3VP","1I,1D"
+virginia,1980,"6R, 4D",I,R,,R,R,"74D, 25R, 1I","31D, 9R","1I,1R"
+virginia,1981,"9R, 1D",I,R,,R,R,"74D, 25R, 1I","31D, 9R","1I,1R"
+virginia,1982,"9R, 1D",I,R,,R,D,"66D, 32R, 2I","31D, 9R","1I,1R"
+virginia,1983,"6R, 4D",R,R,,R,D,"65D, 34R, 1I","31D, 9R",2R
+virginia,1984,"6R, 4D",R,R,,R,D,"65D, 34R, 1I","32D, 8R",2R
+virginia,1985,"6R, 4D",R,R,,R,D,"65D, 34R, 1I","32D, 8R",2R
+virginia,1986,"6R, 4D",R,R,,R,D,"65D, 33R, 2I","32D, 8R",2R
+virginia,1987,"5R, 5D",R,R,,R,D,"65D, 33R, 2I","32D, 8R",2R
+virginia,1988,"5R, 5D",R,R,,R,D,"64D, 35R, 1I","30D, 10R",2R
+virginia,1989,"5R, 5D",D,R,,R,D,"64D, 35R, 1I","30D, 10R","1D,1R"
+virginia,1990,"5R, 5D",D,R,,R,D,"59D, 40R, 1I","30D, 10R","1D,1R"
+virginia,1991,"6D, 4R",D,R,,R,D,"59D, 40R, 1I","30D, 10R","1D,1R"
+virginia,1992,"6D, 4R",D,R,,R,D,"58D, 40R, 1I","22D, 18R","1D,1R"
+virginia,1993,"7D, 4R",D,R,,R,D,"58D, 40R, 1I","22D, 18R","1D,1R"
+virginia,1994,"7D, 4R",D,R,,R,R,"52D, 47R, 1I","22D, 18R","1D,1R"
+virginia,1995,"6D, 5R",D,R,,R,R,"52D, 47R, 1I","22D, 18R","1D,1R"
+virginia,1996,"6D, 5R",D,R,,R,R,"52D, 47R, 1I","20R, 20D","1D,1R"
+virginia,1997,"6D, 5R",D,R,,R,R,"52D, 47R, 1I","20R, 20D","1D,1R"
+virginia,1998,"6D, 5R",D,R,,R,R,"50D, 49R, 1I","21R, 19D","1D,1R"
+virginia,1999,"6D, 5R",D,R,,R,R,"50D, 49R, 1I","21R, 19D","1D,1R"
+virginia,2000,"6D, 5R",D,R,,R,R,"52R, 47D, 1I","21R, 19D","1D,1R"
+virginia,2001,"6R, 4D, 1I",R,R,,R,R,"52R, 47D, 1I","21R, 19D",2R
+virginia,2002,"6R, 4D, 1I",R,R,,R,D,"64R, 34D, 2I","21R, 19D",2R
+virginia,2002,"8R, 3D",R,R,,R,D,"64R, 34D, 2I","21R, 19D",2R
+virginia,2003,"8R, 3D",R,R,,R,D,"64R, 34D, 2I","21R, 19D",2R
+virginia,2004,"8R, 3D",R,R,,R,D,"61R, 37D, 2I","24R, 16D",2R
+virginia,2005,"8R, 3D",R,R,,R,D,"61R, 37D, 2I","24R, 16D",2R
+virginia,2005,"8R, 3D",R,R,,R,D,"61R, 37D, 2I","24R, 16D",2R
+virginia,2006,"8R, 3D",R,R,,R,D,"57R, 40D, 3I","24R, 16D",2R
+virginia,2007,"8R, 3D",D,R,,R,D,"57R, 40D, 3I","24R, 16D","1D,1R"
+virginia,2008,"8R, 3D",D,R,,D,D,"54R, 44D, 2I","21D, 19R","1D,1R"
+virginia,2009,"6D, 5R",D,D,,D,D,"53R, 45D, 2I","21D, 19R",2D
+virginia,2010,"6D, 5R",D,D,,D,R,"59R, 39D, 2I","22D, 18R",2D
+virginia,2011,"8R, 3D",D,D,,D,R,"59R, 39D, 2I","22D, 18R",2D
+virginia,2012,"8R, 3D",D,D,,D,R,"67R, 32D, 1I","20R, 20D",2D
+virginia,2013,"8R, 3D",D,D,,D,R,"67R, 32D, 1I","20R, 20D",2D
+virginia,2014,"8R, 3D",D,D,,D,D,"68R, 32D","20D, 20R",2D
+virginia,2014,"8R, 3D",D,D,,D,D,"68R, 32D","21R, 19D",2D
+virginia,2015,"8R, 3D",D,D,,D,D,"67R, 32D, 1I","21R, 19D",2D
+virginia,2016,"8R, 3D",D,D,,D,D,"66R, 34D","21R, 19D",2D
+washington,1980,"6D, 1R",D,,D,R,D,"49D, 49R","30D, 19R",2D
+washington,1981,"5D, 2R",D,,R,R,R,"56R, 42D","25R, 24D","1D,1R"
+washington,1982,"5D, 2R",D,,R,R,R,"55R, 43D","25R, 24D","1D,1R"
+washington,1983,"5D, 3R",R,,R,R,R,"54D, 44R","26D, 23R",2R
+washington,1984,"5D, 3R",R,,R,R,R,"53D, 45R","26D, 23R",2R
+washington,1985,"5D, 3R",R,,R,R,D,"53D, 45R","27D, 22R",2R
+washington,1986,"5D, 3R",R,,R,R,D,"53D, 45R","27D, 22R",2R
+washington,1987,"5D, 3R",R,,D,R,D,"61D, 37R","25D, 24R","1D,1R"
+washington,1988,"5D, 3R",R,,D,D,D,"61D, 37R","25R, 24D","1D,1R"
+washington,1989,"5D, 3R",R,,D,D,D,"63D, 35R","25R, 24D","1D,1R"
+washington,1990,"5D, 3R",R,,D,D,D,"63D, 35R","25R, 24D","1D,1R"
+washington,1991,"5D, 3R",R,,D,D,D,"58D, 40R","25R, 24D","1D,1R"
+washington,1992,"5D, 3R",R,,D,D,D,"58D, 40R","25R, 24D","1D,1R"
+washington,1993,"8D, 1R",R,,D,D,D,"65D, 33R","28D, 21R","1D,1R"
+washington,1994,"8D, 1R",R,,D,D,D,"65D, 33R","28D, 21R","1D,1R"
+washington,1995,"7R, 2D",R,,D,D,D,"61R, 37D","25D, 24R","1D,1R"
+washington,1996,"7R, 2D",R,,D,D,D,"62R, 36D","25D, 24R","1D,1R"
+washington,1997,"6R, 3D",R,,D,D,D,"56R, 42D","26R, 23D","1D,1R"
+washington,1998,"6R, 3D",R,,D,D,D,"57R, 41D","26R, 23D","1D,1R"
+washington,1999,"5D, 4R",R,,D,D,D,"49D, 49R","27D, 23R","1D,1R"
+washington,2000,"5D, 4R",R,,D,D,D,"49D, 49R","27D, 23R","1D,1R"
+washington,2001,"6D, 3R",D,,D,D,D,"49D, 49R","25D, 24R",2D
+washington,2002,"6D, 3R",D,,D,D,D,"50D, 48R","25D, 24R",2D
+washington,2003,"6D, 3R",D,,D,D,D,"52D, 46R","25R, 24D",2D
+washington,2004,"6D, 3R",D,,D,D,D,"52D, 46R","25R, 24D",2D
+washington,2005,"6D, 3R",D,,D,D,D,"55D, 43R","26D, 23R",2D
+washington,2006,"6D, 3R",D,,D,D,D,"55D, 43R","26D, 23R",2D
+washington,2007,"6D, 3R",D,,D,D,D,"62D, 36R","32D, 17R",2D
+washington,2008,"6D, 3R",D,,D,D,D,"63D, 35R","32D, 17R",2D
+washington,2009,"6D, 3R",D,,D,D,D,"62D, 36R","31D, 18R",2D
+washington,2010,"6D, 3R",D,,D,D,D,"61D, 37R","31D, 18R",2D
+washington,2011,"5D, 4R",D,,D,D,D,"56D, 42R","27D, 22R",2D
+washington,2012,"5D, 4R",D,,D,D,D,"56D, 42R","27D, 22R",2D
+washington,2013,"6D, 4R",D,,D,D,D,"55D, 43R","25 Coalition, 24D",2D
+washington,2014,"6D, 4R",D,,D,D,D,"55D, 43R","26 Coalition, 23D",2D
+washington,2015,"6D, 4R",D,,D,D,D,"51D, 47R","26R, 23D",2D
+washington,2016,"6D, 4R",D,,D,D,D,"50D, 48R","26R, 23D",2D
+"washington, d.c.",1980,1D,,,,D,D,,,
+"washington, d.c.",1981,1D,,,,D,D,,,
+"washington, d.c.",1982,1D,,,,D,D,,,
+"washington, d.c.",1983,1D,,,,D,D,,,
+"washington, d.c.",1984,1D,,,,D,D,,,
+"washington, d.c.",1985,1D,,,,D,D,,,
+"washington, d.c.",1986,1D,,,,D,D,,,
+"washington, d.c.",1987,1D,,,,D,D,,,
+"washington, d.c.",1988,1D,,,,D,D,,,
+"washington, d.c.",1989,1D,,,,D,D,,,
+"washington, d.c.",1990,1D,,,,D,D,,,
+"washington, d.c.",1991,1D,D,D,,D,D,,,2D
+"washington, d.c.",1992,1D,D,D,,D,D,,,2D
+"washington, d.c.",1993,1D,D,D,,D,D,,,2D
+"washington, d.c.",1994,1D,D,D,,D,D,,,2D
+"washington, d.c.",1995,1D,D,D,,D,D,,,2D
+"washington, d.c.",1996,1D,D,D,,D,D,,,2D
+"washington, d.c.",1997,1D,D,D,,D,D,,,2D
+"washington, d.c.",1997,1D,D,D,,D,D,,,2D
+"washington, d.c.",1998,1D,D,D,,D,D,,,2D
+"washington, d.c.",1999,1D,D,D,,D,D,,,2D
+"washington, d.c.",2000,1D,D,D,,D,D,,,2D
+"washington, d.c.",2001,1D,D,D,,D,D,,,2D
+"washington, d.c.",2002,1D,D,D,,D,D,,,2D
+"washington, d.c.",2003,1D,D,D,,D,D,,,2D
+"washington, d.c.",2004,1D,D,D,,D,D,,,2D
+"washington, d.c.",2004,1D,D,D,,D,D,,,2D
+"washington, d.c.",2005,1D,D,D,,D,D,,,2D
+"washington, d.c.",2006,1D,D,D,,D,D,,,2D
+"washington, d.c.",2007,1D,D,D,,D,D,,,2D
+"washington, d.c.",2008,1D,D,D,,D,D,,,2D
+"washington, d.c.",2009,1D,D,D,,D,D,,,2D
+"washington, d.c.",2010,1D,D,D,,D,D,,,2D
+"washington, d.c.",2011,1D,D,D,,D,D,,,2D
+"washington, d.c.",2012,1D,D,D,,D,D,,,2D
+"washington, d.c.",2013,1D,D,D,,D,D,,,2D
+"washington, d.c.",2014,1D,I,D,,D,D,,,"1I,1D"
+"washington, d.c.",2015,1D,I,D,,D,D,,,"1I,1D"
+west virginia,2000,3 D,D,D,,R,R,"75 D
+25 R","29 D
+5 R",2D
+west virginia,2001,"2 D
+1 R",D,D,,R,D,"75 D
+25 R","28 D
+6 R",2D
+west virginia,2002,"2 D
+1 R",D,D,,R,D,"75 D
+25 R","28 D
+6 R",2D
+west virginia,2003,"2 D
+1 R",D,D,,R,D,"68 D
+32 R","24 D
+10 R",2D
+west virginia,2004,"2 D
+1 R",D,D,,R,D,"68 D
+32 R","24 D
+10 R",2D
+west virginia,2005,"2 D
+1 R",D,D,,R,D,"68 D
+32 R","21 D
+13 R",2D
+west virginia,2006,"2 D
+1 R",D,D,,R,D,"68 D
+32 R","21 D
+13 R",2D
+west virginia,2007,"2 D
+1 R",D,D,,R,D,"72 D
+28 R","23 D
+11 R",2D
+west virginia,2008,"2 D
+1 R",D,D,,R,D,"72 D
+28 R","23 D
+11 R",2D
+west virginia,2009,"2 D
+1 R",D,D,,R,D,"71 D
+29 R","26 D
+8 R",2D
+west virginia,2010,"2 D
+1 R",D,D,,R,D,"71 D
+29 R","26 D
+8 R",2D
+west virginia,2011,"2 R
+1 D",D,D,,R,D,"65 D
+35 R","28 D
+6 R",2D
+west virginia,2012,"2 R
+1 D",D,D,,R,D,"65 D
+35 R","28 D
+6 R",2D
+west virginia,2013,"2 R
+1 D",D,D,,R,D,"54 D
+46 R","25 D
+9 R",2D
+west virginia,2014,"2 R
+1 D",D,D,,R,D,"53 D
+47 R","24 D
+10 R",2D
+west virginia,2015,3 R,D,R,,R,D,"64 R
+36 D","18 R
+16 D","1D,1R"
+west virginia,2016,3 R,D,R,,R,D,"64 R
+36 D","18 R
+16 D","1D,1R"
+west virginia,2017,3 R,D,R,,R,D,"63 R
+37 D","22 R
+12 D","1D,1R"
+wisconsin,2000,"5D, 4R",D,,D,D,R,"55R, 44D","17D, 16R",2D
+wisconsin,2001,"5D, 4R",D,,D,D,R,"56R, 43D","18D, 15R",2D
+wisconsin,2002,"5D, 4R",D,,D,D,R,"56R, 43D","18D, 15R",2D
+wisconsin,2003,"4R, 4D",D,,D,D,D,"58R, 41D","18R, 15D",2D
+wisconsin,2004,"4R, 4D",D,,D,D,D,"58R, 41D","18R, 15D",2D
+wisconsin,2005,"4R, 4D",D,,D,D,D,"60R, 39D","19R, 14D",2D
+wisconsin,2006,"4R, 4D",D,,D,D,D,"60R, 39D","19R, 14D",2D
+wisconsin,2007,"5D, 3R",D,,D,D,D,"52R, 47D","18D, 15R",2D
+wisconsin,2008,"5D, 3R",D,,D,D,D,"52R, 47D","18D, 15R",2D
+wisconsin,2009,"5D, 3R",D,,D,D,D,"52D, 46R, 1I","18D, 15R",2D
+wisconsin,2010,"5D, 3R",D,,D,D,D,"52D, 46R, 1I","18D, 15R",2D
+wisconsin,2011,"5R, 3D",D,,R,D,R,"59R, 39D, 1I","19R, 14D","1D,1R"
+wisconsin,2011,"5R, 3D",D,,R,D,R,"59R, 39D, 1I","17R, 16D","1D,1R"
+wisconsin,2012,"5R, 3D",D,,R,D,R,"59R, 39D, 1I","17D, 16R","1D,1R"
+wisconsin,2013,"5R, 3D",D,,R,D,R,"60R, 39D","18R, 15D","1D,1R"
+wisconsin,2014,"5R, 3D",D,,R,D,R,"60R, 39D","18R, 15D","1D,1R"
+wisconsin,2015,"5R, 3D",D,,R,D,R,"63R, 36D","19R, 14D","1D,1R"
+wisconsin,2016,"5R, 3D",D,,R,R,R,"63R, 36D","19R, 14D","1D,1R"
+wisconsin,2017,"5R, 3D",D,,R,R,R,"64R, 35D","20R, 13D","1D,1R"
+wyoming,1980,1R,R,R,,R,D,"42R, 20D","19R, 11D",2R
+wyoming,1981,1R,R,R,,R,D,"39R, 23D","19R, 11D",2R
+wyoming,1982,1R,R,R,,R,D,"39R, 23D","19R, 11D",2R
+wyoming,1983,1R,R,R,,R,D,"38R, 25D, 1I","19R, 11D",2R
+wyoming,1984,1R,R,R,,R,D,"38R, 25D, 1I","19R, 11D",2R
+wyoming,1985,1R,R,R,,R,D,"46R, 18D","19R, 11D",2R
+wyoming,1986,1R,R,R,,R,D,"46R, 18D","19R, 11D",2R
+wyoming,1987,1R,R,R,,R,D,"44R, 20D","19R, 11D",2R
+wyoming,1988,1R,R,R,,R,D,"44R, 20D","19R, 11D",2R
+wyoming,1989,1R,R,R,,R,D,"43R, 21D","19R, 11D",2R
+wyoming,1990,1R,R,R,,R,D,"43R, 21D","19R, 11D",2R
+wyoming,1991,1R,R,R,,R,D,"42R, 22D","20R, 10D",2R
+wyoming,1992,1R,R,R,,R,D,"42R, 22D","20R, 10D",2R
+wyoming,1993,1R,R,R,,R,D,"41R, 19D","20R, 10D",2R
+wyoming,1994,1R,R,R,,R,D,"41R, 19D","20R, 10D",2R
+wyoming,1995,1R,R,R,,R,R,"47R, 13D","20R, 10D",2R
+wyoming,1996,1R,R,R,,R,R,"47R, 13D","20R, 10D",2R
+wyoming,1997,1R,R,R,,R,R,"43R, 17D","21R, 9D",2R
+wyoming,1998,1R,R,R,,R,R,"43R, 17D","21R, 9D",2R
+wyoming,1999,1R,R,R,,R,R,"43R, 17D","21R, 9D",2R
+wyoming,2000,1R,R,R,,R,R,"43R, 17D","21R, 9D",2R
+wyoming,2001,1R,R,R,,R,R,"46R, 14D","20R, 10D",2R
+wyoming,2002,1R,R,R,,R,R,"46R, 14D","20R, 10D",2R
+wyoming,2003,1R,R,R,,R,D,"45R, 15D","20R, 10D",2R
+wyoming,2004,1R,R,R,,R,D,"45R, 15D","20R, 10D",2R
+wyoming,2005,1R,R,R,,R,D,"46R, 14D","23R, 7D",2R
+wyoming,2006,1R,R,R,,R,D,"46R, 14D","23R, 7D",2R
+wyoming,2007,1R,R,R,,R,D,"43R, 17D","23R, 7D",2R
+wyoming,2007,1R,R,R,,R,D,"43R, 17D","23R, 7D",2R
+wyoming,2008,1R,R,R,,R,D,"43R, 17D","23R, 7D",2R
+wyoming,2009,1R,R,R,,R,D,"41R, 19D","23R, 7D",2R
+wyoming,2010,1R,R,R,,R,D,"41R, 19D","23R, 7D",2R
+wyoming,2011,1R,R,R,,R,R,"50R, 10D","26R, 4D",2R
+wyoming,2012,1R,R,R,,R,R,"50R, 10D","26R, 4D",2R
+wyoming,2013,1R,R,R,,R,R,"52R, 8D","26R, 4D",2R
+wyoming,2014,1R,R,R,,R,R,"52R, 8D","26R, 4D",2R
+wyoming,2015,1R,R,R,,R,R,"51R, 9D","26R, 4D",2R
+wyoming,2016,1R,R,R,,R,R,"51R, 9D","26R, 4D",2R
+wyoming,2017,1R,R,R,,R,R,"51R, 9D","27R, 3D",2R
