@@ -76,9 +76,28 @@ def get_parties_set(count_dict):
             set_of_parties.add(key)
     return set_of_parties
 
+"""
+def question1(poli, GDP_Total):
+    demo = dict()
+    rep = dict()
+    for i in range(len(poli)):
+        row = poli.loc[i, :]
+        congress = str(row['congress house'])
+        senate = str(row['congress sen'])
+        print(congress)
+        print(senate)
+        num_demo = int(congress[congress.index('D')-1 if 'D' in congress else 0]) + int(senate[senate.index('D')-1 if 'D' in senate else 0])
+        print(num_demo)
+"""
 
-def read_files(file):
-    return pd.read_csv(file)
+def question2(pop, GDP_Total):
+    #Split the whole population into three based on the average pop of each year
+    low_pop = pop[pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'below'].mean()]
+    medium_pop = pop[(pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'below'].mean()) & (pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean())]
+    large_pop = pop[pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean()]
+    
+def question3():
+    return None
 
 def create_poli_gdp_df(political_party, gdp_total):
     #filter into states that are democrat:
@@ -96,8 +115,6 @@ def create_poli_gdp_df(political_party, gdp_total):
         result = pd.concat([result, merged_df], axis=0)
     return result
     
-
-
 def plot_political_vs_gdp(df):
     sns.relplot(data=df, x='year', y="gdp", kind="line", hue="majority")
     plt.xticks(rotation = 90)
@@ -106,19 +123,18 @@ def plot_political_vs_gdp(df):
     plt.savefig("political_vs_gdp.png")
 
 
-        
-   
 def main():
-    gdp_percent = read_files("data/GDP_percent_change.csv")
-    gdp_total = read_files("data/GDP_total.csv")
-    unemployment = read_files("data/output.csv")
-    political_party = read_files("data/states_party_strength_cleaned2.csv")
-    political_party["state"] = political_party["state"].apply(lambda x: x.title())
-    urban_percent = read_files("data/urban_percentages.csv")
-    state_pop = read_files("data/state_populations_thousands_transposed.csv")
-    political_party = calculate_party_majority(political_party)
-    plot_political_vs_gdp(create_poli_gdp_df(political_party, gdp_total))
-
+    gdp_percent = read_files("Data/GDP_percent_change.csv")
+    GDP_Total = pd.read_csv('Data/GDP_total.csv')
+    unemployment = read_files("Data/output.csv")
+    poli = pd.read_csv('Data/states_party_strength_cleaned.csv', encoding = "ISO-8859-1")
+    poli["state"] = poli["state"].apply(lambda x: x.title())
+    urban_percent = read_files("Data/urban_percentages.csv")
+    pop = pd.read_csv('Data/state_population.csv')
+    poli = calculate_party_majority(poli)
+    plot_political_vs_gdp(create_poli_gdp_df(poli, GDP_total))
+    question2(pop, GDP_Total)
+    question3()
 
 if __name__ == '__main__':
     main()
