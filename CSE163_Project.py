@@ -15,11 +15,11 @@ def question1(poli, GDP_Total):
     
 
 def question2(pop, GDP_Total):
-    low_pop = pop.loc[52, '1/1/1990':'1/1/2019']
-    #pop[pop[:, '1/1/1990':'1/1/2019'] < pop.loc[52, '1/1/1990':'1/1/2019']]
-    print(low_pop)
-
-
+    #Split the whole population into three based on the average pop of each year
+    low_pop = pop[pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'below'].mean()]
+    medium_pop = pop[(pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'below'].mean()) & (pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean())]
+    large_pop = pop[pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean()]
+    
 def question3():
     return None
 
@@ -27,7 +27,7 @@ def question3():
 def main():
     poli = pd.read_csv('Data/states_party_strength_cleaned.csv', encoding = "ISO-8859-1")
     GDP_Total = pd.read_csv('Data/GDP_total.csv')
-    pop = pd.read_csv('Data/state_populations_thousands_transposed.csv')
+    pop = pd.read_csv('Data/state_population.csv')
     #question1(poli, GDP_Total)
     question2(pop, GDP_Total)
     question3()
