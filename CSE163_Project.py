@@ -64,7 +64,7 @@ def process_branch(branch):
         if party == "D" or party == "R":
             return party
         else:
-            return "O"      #Third party (other) 
+            return "O"      #Third party (other)
     else:
         return "T"          #Tie between multiple parties
 
@@ -76,26 +76,13 @@ def get_parties_set(count_dict):
             set_of_parties.add(key)
     return set_of_parties
 
-"""
-def question1(poli, GDP_Total):
-    demo = dict()
-    rep = dict()
-    for i in range(len(poli)):
-        row = poli.loc[i, :]
-        congress = str(row['congress house'])
-        senate = str(row['congress sen'])
-        print(congress)
-        print(senate)
-        num_demo = int(congress[congress.index('D')-1 if 'D' in congress else 0]) + int(senate[senate.index('D')-1 if 'D' in senate else 0])
-        print(num_demo)
-"""
 
 def question2(pop, GDP_Total):
     #Split the whole population into three based on the average pop of each year
     low_pop = pop[pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'below'].mean()]
     medium_pop = pop[(pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'below'].mean()) & (pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean())]
     large_pop = pop[pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean()]
-    
+
 def question3():
     return None
 
@@ -114,7 +101,15 @@ def create_poli_gdp_df(political_party, gdp_total):
         merged_df["year"] = [year] * len(merged_df)
         result = pd.concat([result, merged_df], axis=0)
     return result
+
     
+def poli_vs_urban(df):
+    #bar chart for each decade 1980-2018
+        
+def poli_vs_pop(df):
+    #line plot(x = year, y = percentage) multiple lines for
+      
+        
 def plot_political_vs_gdp(df):
     sns.relplot(data=df, x='year', y="gdp", kind="line", hue="majority")
     plt.xticks(rotation = 90)
@@ -122,18 +117,41 @@ def plot_political_vs_gdp(df):
     plt.title("Average gdp by Political Party")
     plt.savefig("political_vs_gdp.png")
 
+def plot_political_vs_wage(poli, wage):
+    data = pd.merge(poli, wage, how="inner", left_on=["state", "year"], right_on=["State", "Year"])
+    data = (data.groupby(["majority", "year"])["Low.Value"].mean()).to_frame(name = "avg_wage").reset_index()
+    sns.relplot(data=data, x="year", y="avg_wage", kind="line", hue="majority")
+    plt.xticks(rotation = 90)
+    plt.ylabel("Average Minimum Wage")
+    plt.title("Average Minimum Wage by Political Party")
+    plt.savefig("political_vs_wage.png")
+    
+def plot_political_vs_unemployment(poli, employ):
+    data = employ.groupby(["State", "Year"])["Rate"].mean().to_frame(name = "avg_unemployment").reset_index()
+    merged = pd.merge(poli, data, how="inner", left_on=["state", "year"], right_on=["State", "Year"])
+    merged = merged.groupby(["majority", "year"])["avg_unemployment"].mean().to_frame(name = "avg_unemployment").reset_index()
+    sns.relplot(data=merged, x="year", y="avg_unemployment", kind="line", hue="majority")
+    plt.xticks(rotation = 90)
+    plt.ylabel("Average Unemplopyment Rate")
+    plt.title("Average Unemploymemnt Rate by Political Party")
+    plt.savefig("political_vs_unemployment.png")
+
+
 
 def main():
-    gdp_percent = read_files("Data/GDP_percent_change.csv")
-    GDP_Total = pd.read_csv('Data/GDP_total.csv')
-    unemployment = read_files("Data/output.csv")
-    poli = pd.read_csv('Data/states_party_strength_cleaned.csv', encoding = "ISO-8859-1")
+    gdp_percent = pd.read_csv("Data/GDP_percent_change.csv")
+    GDP_total = pd.read_csv('Data/GDP_total.csv')
+    unemployment = pd.read_csv("Data/output.csv")
+    wage = pd.read_csv('Data/Minimum Wage Data.csv', encoding = "ISO-8859-1", na_values = ["", 0])
+    poli = pd.read_csv('Data/states_party_strength_cleaned.csv')
     poli["state"] = poli["state"].apply(lambda x: x.title())
-    urban_percent = read_files("Data/urban_percentages.csv")
+    urban_percent = pd.read_csv("Data/urban_percentages.csv")
     pop = pd.read_csv('Data/state_population.csv')
     poli = calculate_party_majority(poli)
     plot_political_vs_gdp(create_poli_gdp_df(poli, GDP_total))
-    question2(pop, GDP_Total)
+    plot_political_vs_wage(poli, wage)
+    question2(pop, GDP_total)
+    plot_political_vs_unemployment(poli, unemployment)
     question3()
 
 if __name__ == '__main__':
