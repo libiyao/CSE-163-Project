@@ -19,6 +19,8 @@ def question2(pop, GDP_Total):
     low_pop = pop[pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'below'].mean()]
     medium_pop = pop[(pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'below'].mean()) & (pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean())]
     large_pop = pop[pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean()]
+
+
     
 def question3():
     return None
@@ -26,7 +28,7 @@ def question3():
 
 def main():
     poli = pd.read_csv('Data/states_party_strength_cleaned.csv', encoding = "ISO-8859-1")
-    GDP_Total = pd.read_csv('Data/GDP_total.csv')
+    GDP_Total = pd.read_csv('Data/GDP_total_cleaned.csv')
     pop = pd.read_csv('Data/state_population.csv')
     #question1(poli, GDP_Total)
     question2(pop, GDP_Total)
