@@ -153,17 +153,54 @@ def plot_political_vs_gdp(df):
     plt.savefig("political_vs_gdp.png")
 
 
+def demographics_economy_GDP(GDP, urban):
+    result = pd.DataFrame()
+    year = list()
+    for j in range(2):
+        for i in range(1997, 2019):
+            year.append(i)      
+    result['year'] = year
+    combined = GDP.loc[1:, :].merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], left_on='GeoName', right_on='Area Name', how='left')
+    combined = combined.dropna()
+    first_decade_urban = combined[combined['2000_per'] >= urbanized_factor(combined, '2000_per')]
+    first_decade_rural = combined[combined['2000_per'] < urbanized_factor(combined, '2000_per')]
+    second_decade_urban = combined[combined['2010_per'] >= urbanized_factor(combined, '2010_per')]
+    second_decade_rural = combined[combined['2010_per'] < urbanized_factor(combined, '2010_per')]
+    cate = list()
+    for i in range(1997, 2019):
+        cate.append('urban')
+    for i in range(1997, 2019):
+        cate.append('rural')
+    result['category'] = cate
+    result['GDP'] = make_columns(first_decade_urban, second_decade_urban) + make_columns(first_decade_rural, second_decade_rural)
+    sns.catplot(x='year', y='GDP', data=result, hue='category', kind='bar')
+    plt.xticks(rotation = 45)
+    plt.ylabel('Total GDP each year in USD')
+    plt.title('Demographics vs economy')
+    plt.savefig('demographics_vs_economy.png')
+
+def make_columns(df1, df2):
+    res = list()
+    for i in range(1997, 2019):
+        res.append(df1[str(i)].sum() + df2[str(i)].sum())
+    return res
+
+def urbanized_factor(df, year):
+    return df.loc[:, year].mean()
+
 def main():
     poli = pd.read_csv('Data/states_party_strength_cleaned.csv')
     gdp_percent = pd.read_csv("Data/GDP_percent_change.csv")
-    GDP_Total = pd.read_csv('Data/GDP_total_cleaned.csv')
+    GDP_original = pd.read_csv('Data/GDP_total.csv')
+    GDP_total_cleaned = pd.read_csv('Data/GDP_total_cleaned.csv')
     unemployment = pd.read_csv("Data/output.csv")
-    poli["state"] = poli["state"].apply(lambda x: x.title())
     urban_percent =pd.read_csv('Data/urban_percentages.csv')
     pop = pd.read_csv('Data/state_population.csv')
+    poli["state"] = poli["state"].apply(lambda x: x.title())
     poli = calculate_party_majority(poli)
-    plot_political_vs_gdp(create_poli_gdp_df(poli, GDP_Total))
-    question2(pop, GDP_Total)
+    #plot_political_vs_gdp(create_poli_gdp_df(poli, GDP_total_cleaned))
+    demographics_economy_GDP(GDP_original, urban_percent)
+    #question2(pop, GDP_total_cleaned)
     question3()
 
 if __name__ == '__main__':
