@@ -160,7 +160,7 @@ def demographics_economy_GDP(GDP, urban):
         for i in range(1997, 2019):
             year.append(i)      
     result['year'] = year
-    combined = GDP.loc[1:, :].merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], left_on='GeoName', right_on='Area Name', how='left')
+    combined = GDP.loc[1:, :].merge(urban.loc[1:, ['Area Name', '2000_per', '2010_per']], left_on='GeoName', right_on='Area Name', how='left')
     combined = combined.dropna()
     first_decade_urban = combined[combined['2000_per'] >= urbanized_factor(combined, '2000_per')]
     first_decade_rural = combined[combined['2000_per'] < urbanized_factor(combined, '2000_per')]
@@ -175,18 +175,83 @@ def demographics_economy_GDP(GDP, urban):
     result['GDP'] = make_columns(first_decade_urban, second_decade_urban) + make_columns(first_decade_rural, second_decade_rural)
     sns.catplot(x='year', y='GDP', data=result, hue='category', kind='bar')
     plt.xticks(rotation = 45)
-    plt.ylabel('Total GDP each year in USD')
-    plt.title('Demographics vs economy')
-    plt.savefig('demographics_vs_economy.png')
+    plt.ylabel('Avearge GDP each year in rural/urban states(USD)')
+    plt.title('Demographics vs GDP')
+    plt.savefig('demographics_vs_economy_GDP.png')
+
+
+
+def demographics_economy_unemployment(unemploy, urban):
+    result = pd.DataFrame()
+    combined = unemploy.merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], left_on='State', right_on='Area Name', how='left')
+    combined = combined.dropna()
+    rate_col = list()
+    category = list()
+    year = list()
+    cate = ['rural', 'urban']
+    for i in range(2):
+        for j in range(1990, 2017):
+            year.append(j)
+            category.append(cate[i])
+    decade = find_decade(combined, 1990, 2020)
+    for i in range(6):
+        res = decade[i].groupby(['Year', 'State'])['Rate'].mean().to_frame(name ='Rate').reset_index().groupby('Year')['Rate'].mean().tolist()
+        rate_col += res
+    result['Year'] = year
+    result['Category'] = category
+    result['Rate'] = rate_col
+    sns.catplot(x='Year', y='Rate', data=result, hue='Category', kind='bar')
+    plt.xticks(rotation = 45)
+    plt.ylabel('Average unemployment rate each year in rural/urban states')
+    plt.title('Demographics vs Unemployment rate')
+    plt.savefig('demographics_vs_economy_Unemployment.png')
+
+def find_decade(df, year1, year2):
+    res = list()
+    for i in range(year1, year2, 10):
+        res.append(df[(df[str(i)+'_per'] < urbanized_factor(df, str(i)+'_per')) & ((df['Year'] >= i) & (df['Year'] < i+10))])
+    for i in range(year1, year2, 10):
+        res.append(df[(df[str(i)+'_per'] >= urbanized_factor(df, str(i)+'_per')) & ((df['Year'] >= i) & (df['Year'] < i+10))])
+    return res
+
+def demographics_economy_min_wage(wage, urban):
+    result = pd.DataFrame()
+    combined = wage.merge(urban.loc[1:, ['Area Name', '1960_per', '1970_per', '1980_per', '1990_per', '2000_per', '2010_per']], left_on='State', right_on='Area Name', how='left')
+    combined['Low.Value'] = combined['Low.Value'].fillna(0)
+    wage = list()
+    category = list()
+    year = list()
+    cate = ['rural', 'urban']
+    for i in range(2):
+        for j in range(1968, 2018):
+            year.append(j)
+            category.append(cate[i])
+    decade = find_decade(combined, 1960, 2020)
+    for i in range(12):
+        res = decade[i].groupby(['Year'])['Low.Value'].mean().to_frame(name ='Low.Value').reset_index()['Low.Value'].tolist()
+        wage += res
+    result['Year'] = year
+    result['Category'] = category
+    result['Low.Value'] = wage
+    sns.catplot(x='Year', y='Low.Value', data=result, hue='Category', kind='bar')
+    plt.xticks(rotation = 90)
+    plt.ylabel('Average minimum wage each year in rural/urban states(USD)')
+    plt.title('Demographics vs Min Wage')
+    plt.savefig('demographics_vs_economy_min_wage.png')
+
+    
+
 
 def make_columns(df1, df2):
     res = list()
     for i in range(1997, 2019):
-        res.append(df1[str(i)].sum() + df2[str(i)].sum())
+        res.append(df1[str(i)].mean() + df2[str(i)].mean())
     return res
+
 
 def urbanized_factor(df, year):
     return df.loc[:, year].mean()
+
 
 def main():
     poli = pd.read_csv('Data/states_party_strength_cleaned.csv')
@@ -196,10 +261,13 @@ def main():
     unemployment = pd.read_csv("Data/output.csv")
     urban_percent =pd.read_csv('Data/urban_percentages.csv')
     pop = pd.read_csv('Data/state_population.csv')
+    min_wage = pd.read_csv('Data/Minimum Wage Data.csv', encoding = 'ISO-8859-1', na_values = ['', 0])
     poli["state"] = poli["state"].apply(lambda x: x.title())
     poli = calculate_party_majority(poli)
     #plot_political_vs_gdp(create_poli_gdp_df(poli, GDP_total_cleaned))
     demographics_economy_GDP(GDP_original, urban_percent)
+    demographics_economy_unemployment(unemployment, urban_percent)
+    demographics_economy_min_wage(min_wage, urban_percent)
     #question2(pop, GDP_total_cleaned)
     question3()
 
