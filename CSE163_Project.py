@@ -4,6 +4,9 @@ from collections import Counter
 import math
 import seaborn as sns
 import matplotlib.pyplot as plt
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error
 
 
 #majority in 2 of the 3 branches
@@ -247,9 +250,49 @@ def question2(pop, GDP_Total):
     plt.savefig("large_pop_vs_GDP.png")
 
     
-def question3():
-    
-
+def question3(pop, percent_gdp, urban):
+    result = pd.DataFrame()
+    pop_2 = pop.loc[1:, '1/1/1997':'1/1/2017']
+    pop_2['State'] = pop.loc[1:, 'State']
+    combined = pop_2.merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], left_on='State', right_on='Area Name', how='left')
+    combined = combined.merge(percent_gdp.loc[1:, 'GeoName':'2017-2018'], left_on='State', right_on='GeoName', how='left')
+    first_decade_urban = combined[combined['1990_per'] >= urbanized_factor(combined, '1990_per')]
+    first_decade_rural = combined[combined['1990_per'] < urbanized_factor(combined, '1990_per')]
+    second_decade_urban = combined[combined['2000_per'] >= urbanized_factor(combined, '2000_per')]
+    second_decade_rural = combined[combined['2000_per'] < urbanized_factor(combined, '2000_per')]
+    third_decade_urban = combined[combined['2010_per'] >= urbanized_factor(combined, '2010_per')]
+    third_decade_rural = combined[combined['2010_per'] < urbanized_factor(combined, '2010_per')]
+    pop = list()
+    year = list()
+    category = list()
+    states = list()
+    gdp_per = list()
+    all_decade = [first_decade_rural,first_decade_urban,second_decade_rural,second_decade_urban, third_decade_rural, third_decade_urban]
+    decades = [1990, 1990, 2000, 2000, 2010, 2010]
+    cate = ['rural', 'urban', 'rural', 'urban', 'rural', 'urban']
+    for i in range(6):
+        for j in range(1997, 2018):
+            if (j >= decades[i]) and (j < decades[i]+10):
+                res = all_decade[i]['1/1/' + str(j)].tolist()
+                gdp_per += all_decade[i][str(j) + '-' + str(j+1)].tolist()
+                pop += res
+                states += all_decade[i]['State'].tolist()
+                year += [j] * len(res)
+                category += [cate[i]] * len(res)
+    result['Pop'] = pop
+    result['Year'] = year
+    result['Category'] = category
+    result['States'] = states
+    result['GDP_per'] = gdp_per
+    result = result.dropna()
+    X = result.loc[:, result.columns != 'GDP_per']
+    X = pd.get_dummies(X)
+    Y = result['GDP_per']
+    model = DecisionTreeRegressor()
+    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2)
+    model.fit(X_train, Y_train)
+    y_test_pred = model.predict(X_test)
+    print(mean_squared_error(Y_test, y_test_pred))
 
 
 def main():
@@ -260,15 +303,16 @@ def main():
     unemployment = pd.read_csv("Data/output.csv")
     urban_percent =pd.read_csv('Data/urban_percentages.csv')
     pop = pd.read_csv('Data/state_population.csv')
+    pop_trans = pd.read_csv('Data/state_populations_thousands_transposed.csv')
     min_wage = pd.read_csv('Data/Minimum Wage Data.csv', encoding = 'ISO-8859-1', na_values = ['', 0])
     poli["state"] = poli["state"].apply(lambda x: x.title())
     poli = calculate_party_majority(poli)
-    #plot_political_vs_gdp(create_poli_gdp_df(poli, GDP_total_cleaned))
+    plot_political_vs_gdp(create_poli_gdp_df(poli, GDP_original))
     demographics_economy_GDP(GDP_original, urban_percent)
     demographics_economy_unemployment(unemployment, urban_percent)
     demographics_economy_min_wage(min_wage, urban_percent)
-    #question2(pop, GDP_total_cleaned)
-    question3()
+    question2(pop, GDP_total_cleaned)
+    question3(pop_trans, gdp_percent, urban_percent)
 
 if __name__ == '__main__':
     main()
