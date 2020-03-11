@@ -14,10 +14,16 @@ Core questions this project will answer:
 Datasets:
 
 GDP_percent_change.csv: Percent change in GDP of each states from 1997 to 2017. https://www.bea.gov/data/gdp/gdp-state
+
 GDP_total.csv: Total GDP in each state from 1997 to 2018. https://www.bea.gov/data/gdp/gdp-state
+
 GDP_total_cleaned: Tranposed of above csv.
+
 Minimum wage Data.csv: minimum wage of each state from 1968 to 2017. https://www.kaggle.com/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
+
 output.csv: Unemployment rate in each state from 1990 to 2016. https://www.kaggle.com/jayrav13/unemployment-by-county-us
+
 state_population.csv: Population in thousands of each state from 1997 to 2018. 
+
 state_populations_thousands_transposed.csv: Transposed of above csv.
 
