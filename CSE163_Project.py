@@ -110,6 +110,17 @@ def plot_political_vs_gdp(df):
 
 
 def demographics_economy_GDP(GDP, urban):
+    """
+        This function will first merge GDP 
+        and urban dataset based on the states' name.
+
+        Then it split the merged dataset into two parts 
+        based on whether a states consider to be a urban/rural
+        state.
+
+        It will plot a bar plot that will indicate year 
+        on the x-axis and average GDP on the y-axis in the end.
+    """
     result = pd.DataFrame()
     year = list()
     for j in range(2):
@@ -118,10 +129,12 @@ def demographics_economy_GDP(GDP, urban):
     result['year'] = year
     combined = GDP.loc[1:, :].merge(urban.loc[1:, ['Area Name', '2000_per', '2010_per']], left_on='GeoName', right_on='Area Name', how='left')
     combined = combined.dropna()
+    # split the dataset
     first_decade_urban = combined[combined['2000_per'] >= urbanized_factor(combined, '2000_per')]
     first_decade_rural = combined[combined['2000_per'] < urbanized_factor(combined, '2000_per')]
     second_decade_urban = combined[combined['2010_per'] >= urbanized_factor(combined, '2010_per')]
     second_decade_rural = combined[combined['2010_per'] < urbanized_factor(combined, '2010_per')]
+    # Create a new dataframe for plotting
     cate = list()
     for i in range(1997, 2019):
         cate.append('urban')
@@ -137,9 +150,22 @@ def demographics_economy_GDP(GDP, urban):
 
 
 def demographics_economy_unemployment(unemploy, urban):
+    """
+        This function will first merge unemployment 
+        and urban dataset based on the states' name.
+
+        Then it split the merged dataset into two parts 
+        based on whether a states consider to be a urban/rural
+        state.
+
+        It will plot a bar plot that will indicate year 
+        on the x-axis and average unemployment rate on the y-axis in the end.
+    """
     result = pd.DataFrame()
+    # merge the dataset
     combined = unemploy.merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], left_on='State', right_on='Area Name', how='left')
     combined = combined.dropna()
+    # Create a dataframe for plotting
     rate_col = list()
     category = list()
     year = list()
@@ -148,6 +174,7 @@ def demographics_economy_unemployment(unemploy, urban):
         for j in range(1990, 2017):
             year.append(j)
             category.append(cate[i])
+    # Split dataset based on urban/rural
     decade = find_decade(combined, 1990, 2020)
     for i in range(6):
         res = decade[i].groupby(['Year', 'State'])['Rate'].mean().to_frame(name ='Rate').reset_index().groupby('Year')['Rate'].mean().tolist()
@@ -163,6 +190,11 @@ def demographics_economy_unemployment(unemploy, urban):
 
 
 def find_decade(df, year1, year2):
+    """
+        This is a private method for demographics_economy_unemployment
+        and demographics_economy_min_wage which split the dataset based
+        on rural/urban in decades.
+    """
     res = list()
     for i in range(year1, year2, 10):
         res.append(df[(df[str(i)+'_per'] < urbanized_factor(df, str(i)+'_per')) & ((df['Year'] >= i) & (df['Year'] < i+10))])
@@ -171,9 +203,22 @@ def find_decade(df, year1, year2):
     return res
 
 def demographics_economy_min_wage(wage, urban):
+    """
+        This function will first merge minimum wage 
+        and urban dataset based on the states' name.
+
+        Then it split the merged dataset into two parts 
+        based on whether a states consider to be a urban/rural
+        state.
+
+        It will plot a bar plot that will indicate year 
+        on the x-axis and average minimum wage on the y-axis in the end.
+    """
     result = pd.DataFrame()
+    # merged dataset
     combined = wage.merge(urban.loc[1:, ['Area Name', '1960_per', '1970_per', '1980_per', '1990_per', '2000_per', '2010_per']], left_on='State', right_on='Area Name', how='left')
     combined['Low.Value'] = combined['Low.Value'].fillna(0)
+    # create new dataframe for plotting
     wage = list()
     category = list()
     year = list()
@@ -182,6 +227,7 @@ def demographics_economy_min_wage(wage, urban):
         for j in range(1968, 2018):
             year.append(j)
             category.append(cate[i])
+    # Split data based on rural/urban
     decade = find_decade(combined, 1960, 2020)
     for i in range(12):
         res = decade[i].groupby(['Year'])['Low.Value'].mean().to_frame(name ='Low.Value').reset_index()['Low.Value'].tolist()
@@ -189,6 +235,7 @@ def demographics_economy_min_wage(wage, urban):
     result['Year'] = year
     result['Category'] = category
     result['Low.Value'] = wage
+    # plot
     sns.catplot(x='Year', y='Low.Value', data=result, hue='Category', kind='bar')
     plt.xticks(rotation = 90)
     plt.ylabel('Average minimum wage each year in rural/urban states(USD)')
@@ -197,6 +244,9 @@ def demographics_economy_min_wage(wage, urban):
 
 
 def make_columns(df1, df2):
+    """
+        Find the mean of sum of columns 1997 to 2019
+    """
     res = list()
     for i in range(1997, 2019):
         res.append(df1[str(i)].mean() + df2[str(i)].mean())
@@ -204,10 +254,25 @@ def make_columns(df1, df2):
 
 
 def urbanized_factor(df, year):
+    """
+        Find the mean of urbanized percentage 
+        of that year
+    """
     return df.loc[:, year].mean()
 
 
 def question2(pop, GDP_Total):
+    """
+        This function will first split the population 
+        dataset into three sets based on the its population 
+        comparing to the mean of total population of that year.
+        
+        Then it will match each population dataset with the corresponding
+        GDP data.
+
+        Finally, it will plot a scatter plot with populatio on x axis and 
+        GDP average on the y axis.
+    """
     # Split the whole population into three based on the average pop of each year
     pop2 = pop.loc[:, 'Alaska':'medium']
     low_pop = pop2[pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'below'].mean()]
@@ -252,6 +317,7 @@ def question2(pop, GDP_Total):
     
 def question3(pop, percent_gdp, urban):
     result = pd.DataFrame()
+    # Combining pop, percent gdp and urban csv into one dataframe on the States' name
     pop_2 = pop.loc[1:, '1/1/1997':'1/1/2017']
     pop_2['State'] = pop.loc[1:, 'State']
     combined = pop_2.merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], left_on='State', right_on='Area Name', how='left')
@@ -262,11 +328,12 @@ def question3(pop, percent_gdp, urban):
     second_decade_rural = combined[combined['2000_per'] < urbanized_factor(combined, '2000_per')]
     third_decade_urban = combined[combined['2010_per'] >= urbanized_factor(combined, '2010_per')]
     third_decade_rural = combined[combined['2010_per'] < urbanized_factor(combined, '2010_per')]
-    pop = list()
-    year = list()
-    category = list()
-    states = list()
-    gdp_per = list()
+    # Creating a new dataframe for the regression model
+    pop = list() # population of the corresponding state, year, and category(rural/urban)
+    year = list() # year from 1997 to 2017
+    category = list() # urban or rural
+    states = list() # all state 
+    gdp_per = list() # gdp per of the corresponding state, year and category
     all_decade = [first_decade_rural,first_decade_urban,second_decade_rural,second_decade_urban, third_decade_rural, third_decade_urban]
     decades = [1990, 1990, 2000, 2000, 2010, 2010]
     cate = ['rural', 'urban', 'rural', 'urban', 'rural', 'urban']
@@ -285,13 +352,18 @@ def question3(pop, percent_gdp, urban):
     result['States'] = states
     result['GDP_per'] = gdp_per
     result = result.dropna()
+    # build the regression model
     X = result.loc[:, result.columns != 'GDP_per']
     X = pd.get_dummies(X)
     Y = result['GDP_per']
     model = DecisionTreeRegressor()
+    # Split into train and test sets
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2)
     model.fit(X_train, Y_train)
     y_test_pred = model.predict(X_test)
+    y_train_pred = model.predict(X_train)
+    # The MSE is smaller for trained set than for the predicted sets.
+    print(mean_squared_error(Y_train, y_train_pred))
     print(mean_squared_error(Y_test, y_test_pred))
 
 
