@@ -89,7 +89,8 @@ def create_poli_gdp_df(political_party, gdp_total):
     #find average of each column
     #make new df
     result = pd.DataFrame()
-    years = list(gdp_total.loc[:, (gdp_total.columns != "GeoFips") & (gdp_total.columns != "GeoName")].columns)
+    years = list(gdp_total.loc[:, (gdp_total.columns != "GeoFips") 
+            & (gdp_total.columns != "GeoName")].columns)
     for year in years:
         df1_filtered = political_party[political_party["year"] == int(year)]
         df2_filtered = gdp_total[["GeoName", year]]
@@ -127,13 +128,18 @@ def demographics_economy_GDP(GDP, urban):
         for i in range(1997, 2019):
             year.append(i)      
     result['year'] = year
-    combined = GDP.loc[1:, :].merge(urban.loc[1:, ['Area Name', '2000_per', '2010_per']], left_on='GeoName', right_on='Area Name', how='left')
+    combined = GDP.loc[1:, :].merge(urban.loc[1:, ['Area Name', '2000_per', '2010_per']],
+                                    left_on='GeoName', right_on='Area Name', how='left')
     combined = combined.dropna()
     # split the dataset
-    first_decade_urban = combined[combined['2000_per'] >= urbanized_factor(combined, '2000_per')]
-    first_decade_rural = combined[combined['2000_per'] < urbanized_factor(combined, '2000_per')]
-    second_decade_urban = combined[combined['2010_per'] >= urbanized_factor(combined, '2010_per')]
-    second_decade_rural = combined[combined['2010_per'] < urbanized_factor(combined, '2010_per')]
+    first_decade_urban = combined[combined['2000_per'] 
+                                  >= urbanized_factor(combined, '2000_per')]
+    first_decade_rural = combined[combined['2000_per'] 
+                                  < urbanized_factor(combined, '2000_per')]
+    second_decade_urban = combined[combined['2010_per'] 
+                                   >= urbanized_factor(combined, '2010_per')]
+    second_decade_rural = combined[combined['2010_per'] 
+                                   < urbanized_factor(combined, '2010_per')]
     # Create a new dataframe for plotting
     cate = list()
     for i in range(1997, 2019):
@@ -141,12 +147,13 @@ def demographics_economy_GDP(GDP, urban):
     for i in range(1997, 2019):
         cate.append('rural')
     result['category'] = cate
-    result['GDP'] = make_columns(first_decade_urban, second_decade_urban) + make_columns(first_decade_rural, second_decade_rural)
+    result['GDP'] = make_columns(first_decade_urban, second_decade_urban) \
+                     + make_columns(first_decade_rural, second_decade_rural)
     sns.catplot(x='year', y='GDP', data=result, hue='category', kind='bar')
     plt.xticks(rotation = 45)
     plt.ylabel('Avearge GDP each year in rural/urban states(USD)')
     plt.title('Demographics vs GDP')
-    plt.savefig('demographics_vs_economy_GDP.png')
+    plt.savefig('demographics_vs_economy_GDP.png', bbox_inches='tight')
 
 
 def demographics_economy_unemployment(unemploy, urban):
@@ -163,7 +170,8 @@ def demographics_economy_unemployment(unemploy, urban):
     """
     result = pd.DataFrame()
     # merge the dataset
-    combined = unemploy.merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], left_on='State', right_on='Area Name', how='left')
+    combined = unemploy.merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], 
+                              left_on='State', right_on='Area Name', how='left')
     combined = combined.dropna()
     # Create a dataframe for plotting
     rate_col = list()
@@ -177,7 +185,8 @@ def demographics_economy_unemployment(unemploy, urban):
     # Split dataset based on urban/rural
     decade = find_decade(combined, 1990, 2020)
     for i in range(6):
-        res = decade[i].groupby(['Year', 'State'])['Rate'].mean().to_frame(name ='Rate').reset_index().groupby('Year')['Rate'].mean().tolist()
+        res = decade[i].groupby(['Year', 'State'])['Rate'].mean().to_frame(name ='Rate')
+        res = res.reset_index().groupby('Year')['Rate'].mean().tolist()
         rate_col += res
     result['Year'] = year
     result['Category'] = category
@@ -186,7 +195,7 @@ def demographics_economy_unemployment(unemploy, urban):
     plt.xticks(rotation = 45)
     plt.ylabel('Average unemployment rate each year in rural/urban states')
     plt.title('Demographics vs Unemployment rate')
-    plt.savefig('demographics_vs_economy_Unemployment.png')
+    plt.savefig('demographics_vs_economy_Unemployment.png', bbox_inches='tight')
 
 
 def find_decade(df, year1, year2):
@@ -197,9 +206,11 @@ def find_decade(df, year1, year2):
     """
     res = list()
     for i in range(year1, year2, 10):
-        res.append(df[(df[str(i)+'_per'] < urbanized_factor(df, str(i)+'_per')) & ((df['Year'] >= i) & (df['Year'] < i+10))])
+        res.append(df[(df[str(i)+'_per'] < urbanized_factor(df, str(i)+'_per')) 
+                      & ((df['Year'] >= i) & (df['Year'] < i+10))])
     for i in range(year1, year2, 10):
-        res.append(df[(df[str(i)+'_per'] >= urbanized_factor(df, str(i)+'_per')) & ((df['Year'] >= i) & (df['Year'] < i+10))])
+        res.append(df[(df[str(i)+'_per'] >= urbanized_factor(df, str(i)+'_per')) 
+                      & ((df['Year'] >= i) & (df['Year'] < i+10))])
     return res
 
 def demographics_economy_min_wage(wage, urban):
@@ -216,7 +227,9 @@ def demographics_economy_min_wage(wage, urban):
     """
     result = pd.DataFrame()
     # merged dataset
-    combined = wage.merge(urban.loc[1:, ['Area Name', '1960_per', '1970_per', '1980_per', '1990_per', '2000_per', '2010_per']], left_on='State', right_on='Area Name', how='left')
+    combined = wage.merge(urban.loc[1:, 
+                    ['Area Name', '1960_per', '1970_per', '1980_per', '1990_per', '2000_per', '2010_per']], 
+                    left_on='State', right_on='Area Name', how='left')
     combined['Low.Value'] = combined['Low.Value'].fillna(0)
     # create new dataframe for plotting
     wage = list()
@@ -230,7 +243,8 @@ def demographics_economy_min_wage(wage, urban):
     # Split data based on rural/urban
     decade = find_decade(combined, 1960, 2020)
     for i in range(12):
-        res = decade[i].groupby(['Year'])['Low.Value'].mean().to_frame(name ='Low.Value').reset_index()['Low.Value'].tolist()
+        res = decade[i].groupby(['Year'])['Low.Value'].mean().to_frame(name ='Low.Value')
+        res = res.reset_index()['Low.Value'].tolist()
         wage += res
     result['Year'] = year
     result['Category'] = category
@@ -240,7 +254,7 @@ def demographics_economy_min_wage(wage, urban):
     plt.xticks(rotation = 90)
     plt.ylabel('Average minimum wage each year in rural/urban states(USD)')
     plt.title('Demographics vs Min Wage')
-    plt.savefig('demographics_vs_economy_min_wage.png')
+    plt.savefig('demographics_vs_economy_min_wage.png', bbox_inches='tight')
 
 
 def make_columns(df1, df2):
@@ -276,13 +290,15 @@ def question2(pop, GDP_Total):
     # Split the whole population into three based on the average pop of each year
     pop2 = pop.loc[:, 'Alaska':'medium']
     low_pop = pop2[pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'below'].mean()]
-    medium_pop = pop2[(pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'below'].mean()) & (pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'medium'].mean())]
+    medium_pop = pop2[(pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'below'].mean()) 
+                      & (pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'medium'].mean())]
     large_pop = pop2[pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean()]
     # Match GDP with population
     GDP = GDP_Total.loc[:, 'Alaska':'Wyoming']
     low_pop_GDP = GDP[pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'below'].mean()]
     low_pop_GDP['Sum'] = low_pop_GDP.mean(axis=1)
-    medium_pop_GDP = GDP[(pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'below'].mean()) & (pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'medium'].mean())]
+    medium_pop_GDP = GDP[(pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'below'].mean()) 
+                         & (pop.loc[:, 'Alaska':'Wyoming'] < pop.loc[:, 'medium'].mean())]
     medium_pop_GDP['Sum'] = medium_pop_GDP.mean(axis=1)
     large_pop_GDP = GDP[pop.loc[:, 'Alaska':'Wyoming'] > pop.loc[:, 'medium'].mean()]
     large_pop_GDP['Sum'] = large_pop_GDP.mean(axis=1)
@@ -298,21 +314,21 @@ def question2(pop, GDP_Total):
     sns.relplot(x='Sum', y='GDP', data=low_pop, kind='scatter', size='year')
     plt.xticks(rotation = 45)
     plt.xlabel('Total population in thousands from 1997 to 2018')
-    plt.ylabel('Average GDP of all low population states in dollars')
+    plt.ylabel('Average GDP of all low population states in millions of dollar')
     plt.title('Correlation between population in low population state and GDP')
-    plt.savefig("low_pop_vs_GDP.png")
+    plt.savefig('low_pop_vs_GDP.png', bbox_inches='tight')
     sns.relplot(x='Sum', y='GDP', data=medium_pop, kind='scatter', size='year')
     plt.xticks(rotation = 45)
     plt.xlabel('Total population in thousands from 1997 to 2018')
-    plt.ylabel('Average GDP of all medium population states in dollars')
+    plt.ylabel('Average GDP of all medium population states in millions of dollar')
     plt.title('Correlation between population in medium population state and GDP')
-    plt.savefig("medium_pop_vs_GDP.png")
+    plt.savefig('medium_pop_vs_GDP.png', bbox_inches='tight')
     sns.relplot(x='Sum', y='GDP', data=large_pop, kind='scatter', size='year')
     plt.xticks(rotation = 45)
     plt.xlabel('Total population in thousands from 1997 to 2018')
-    plt.ylabel('Average GDP of all large population states in dollars')
+    plt.ylabel('Average GDP of all large population states in millions of dollar')
     plt.title('Correlation between population in large population state and GDP')
-    plt.savefig("large_pop_vs_GDP.png")
+    plt.savefig('large_pop_vs_GDP.png', bbox_inches='tight')
 
     
 def question3(pop, percent_gdp, urban):
@@ -320,21 +336,30 @@ def question3(pop, percent_gdp, urban):
     # Combining pop, percent gdp and urban csv into one dataframe on the States' name
     pop_2 = pop.loc[1:, '1/1/1997':'1/1/2017']
     pop_2['State'] = pop.loc[1:, 'State']
-    combined = pop_2.merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], left_on='State', right_on='Area Name', how='left')
-    combined = combined.merge(percent_gdp.loc[1:, 'GeoName':'2017-2018'], left_on='State', right_on='GeoName', how='left')
-    first_decade_urban = combined[combined['1990_per'] >= urbanized_factor(combined, '1990_per')]
-    first_decade_rural = combined[combined['1990_per'] < urbanized_factor(combined, '1990_per')]
-    second_decade_urban = combined[combined['2000_per'] >= urbanized_factor(combined, '2000_per')]
-    second_decade_rural = combined[combined['2000_per'] < urbanized_factor(combined, '2000_per')]
-    third_decade_urban = combined[combined['2010_per'] >= urbanized_factor(combined, '2010_per')]
-    third_decade_rural = combined[combined['2010_per'] < urbanized_factor(combined, '2010_per')]
+    combined = pop_2.merge(urban.loc[1:, ['Area Name', '1990_per', '2000_per', '2010_per']], 
+                           left_on='State', right_on='Area Name', how='left')
+    combined = combined.merge(percent_gdp.loc[1:, 'GeoName':'2017-2018'], 
+                              left_on='State', right_on='GeoName', how='left')
+    first_decade_urban = combined[combined['1990_per'] 
+                                  >= urbanized_factor(combined, '1990_per')]
+    first_decade_rural = combined[combined['1990_per'] 
+                                  < urbanized_factor(combined, '1990_per')]
+    second_decade_urban = combined[combined['2000_per'] 
+                                   >= urbanized_factor(combined, '2000_per')]
+    second_decade_rural = combined[combined['2000_per'] 
+                                   < urbanized_factor(combined, '2000_per')]
+    third_decade_urban = combined[combined['2010_per'] 
+                                  >= urbanized_factor(combined, '2010_per')]
+    third_decade_rural = combined[combined['2010_per'] 
+                                  < urbanized_factor(combined, '2010_per')]
     # Creating a new dataframe for the regression model
     pop = list() # population of the corresponding state, year, and category(rural/urban)
     year = list() # year from 1997 to 2017
     category = list() # urban or rural
     states = list() # all state 
     gdp_per = list() # gdp per of the corresponding state, year and category
-    all_decade = [first_decade_rural,first_decade_urban,second_decade_rural,second_decade_urban, third_decade_rural, third_decade_urban]
+    all_decade = [first_decade_rural,first_decade_urban,second_decade_rural,
+                  second_decade_urban, third_decade_rural, third_decade_urban]
     decades = [1990, 1990, 2000, 2000, 2010, 2010]
     cate = ['rural', 'urban', 'rural', 'urban', 'rural', 'urban']
     for i in range(6):
