@@ -23,7 +23,9 @@ Minimum wage Data.csv: minimum wage of each state from 1968 to 2017. https://www
 
 output.csv: Unemployment rate in each state from 1990 to 2016. https://www.kaggle.com/jayrav13/unemployment-by-county-us
 
-state_population.csv: Population in thousands of each state from 1997 to 2018. 
+state_population.csv: Population in thousands of each state from 1997 to 2018. https://fred.stlouisfed.org/release/tables?rid=118&eid=259194&od=#
 
 state_populations_thousands_transposed.csv: Transposed of above csv.
+
+All of the research results can be found in project.docx and all codes are in project.py
 
