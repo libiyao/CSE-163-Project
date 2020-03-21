@@ -1,6 +1,6 @@
-# CSE-163-Project
+# Relation_between_politic_and_economy
 
-This is for CSE 163 final project contributed by Bill Li and Alyssa Allums.
+This project is contributed by Bill Li and Alyssa Allums.
 
 Core questions this project will answer:
 
